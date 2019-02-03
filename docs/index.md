@@ -1,17 +1,14 @@
-# Welcome to MkDocs
+# CannonKeys Keyboard Documentation
 
-For full documentation visit [mkdocs.org](https://mkdocs.org).
+## Keyboard Kits
+CannonKeys currently offers the following DIY keyboard kits:
 
-## Commands
+- Practice 60 - 60% ANSI Keyboard
+- Ortho60 - 12x5 Ortholinear Keyboard
+- Ortho48 - 12x4 Ortholinear Keyboard
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs help` - Print this help message.
+All kits are powered by an STM32 Blue Pill board. Our kits require a Soldering Iron, Solder, Flush Cutters, and an M2 screwdriver to assemble.
 
-## Project layout
+Flashing instructions are available [here](flashing.md)
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+If you'd like to change your keymap, please visit the [firmware guide](firmware.md)

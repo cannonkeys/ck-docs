@@ -5,3 +5,18 @@ theme:
   favicon: 'images/logo.png'
 repo_name: 'cannonkeys/ck-docs'
 repo_url: 'https://github.com/cannonkeys/ck-docs'
+markdown_extensions:
+  - admonition
+nav:
+  - Home: index.md
+  - Build Guide: bluepill.md
+  - Adding RGB Underglow: rgb_underglow.md
+  - Flashing Guide: flashing.md
+  - Firmware Guide: firmware.md
+
+extra:
+  social:
+    - type: 'github'
+      link: 'https://github.com/cannonkeys'
+    - type: 'instagram'
+      link: 'https://www.instagram.com/cannon.keys/'
