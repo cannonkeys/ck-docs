@@ -1,3 +1,6 @@
 site_name: CannonKeys Documentation
-theme: cinder
-
+theme: 'material'
+theme:
+  logo: 'images/logo.png'
+repo_name: 'cannonkeys/ck-docs'
+repo_url: 'https://github.com/cannonkeys/ck-docs'
