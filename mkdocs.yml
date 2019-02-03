@@ -1,6 +1,7 @@
 site_name: CannonKeys Documentation
 theme:
   name: 'material'
-  logo: 'images/logo.png'
+  logo: 'images/white_transparent_256.png'
+  favicon: 'images/logo.png'
 repo_name: 'cannonkeys/ck-docs'
 repo_url: 'https://github.com/cannonkeys/ck-docs'
