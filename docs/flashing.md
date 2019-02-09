@@ -19,7 +19,7 @@ This includes the Practice60, Ortho60, and Ortho48
  1. Put your keyboard into flashing mode. You can do this by hitting the reset button on the keyboard, or by using the RESET key, if it's been mapped. At this point, the keyboard you are flashing will no longer work as a keyboard, so you'll have to use a 2nd keyboard for the next steps.
  1. Figure out the path to your firmware. In Windows Explorer, you can do this by navigating to your firmware, and following the instructions on [this page](https://www.pcworld.com/article/251406/windows_tips_copy_a_file_path_show_or_hide_extensions.html) to copy the file path.
  1. Run `dfu-util.exe -d 1eaf:0003 -a 2 -D "\path\to\firmware.bin"`, replacing `\path\to\firmware.bin` with the path you found on the last step.
- 1. Congrats! You should see `File downloaded successfully` and you have flashed new firmware onto your keyboard!
+ 1. Congrats! You should see `File downloaded successfully` and you have flashed new firmware onto your keyboard! Either unplug and re-plug your board, or hit the hardware reset button to exit flashing mode.
  
     !!! Note
         On some systems after the flashing finishes, you'll see `Error sending completion packet`, as well as 97% completion. This can be safely ignored!
