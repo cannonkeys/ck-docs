@@ -22,4 +22,4 @@ This includes the Practice60, Ortho60, and Ortho48
  1. Congrats! You should see `File downloaded successfully` and you have flashed new firmware onto your keyboard!
  
     !!! Note
-        On some systems after the flashing finishes, you'll see `Error sending completion packet`. This can be safely ignored, as long as the flashing reached 100%!
+        On some systems after the flashing finishes, you'll see `Error sending completion packet`, as well as 97% completion. This can be safely ignored!
