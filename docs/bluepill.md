@@ -40,13 +40,13 @@ Any differences will be called out inside this guide.
 
     !!! Mandatory
         After this block, steps are mandatory unless otherwise noted!
+        
 ## USB Port
 
 1. Next we'll solder the USB port. Insert the USB mini port. Make sure all the pins are through the holes.
 ![](images/build_guide/12-usb-port.jpg)
 1. Solder the USB mini port
 ![](images/build_guide/13-usb-port-soldered.jpg)
-
 
 ## MOSFET for Backlighting (Optional)
 
