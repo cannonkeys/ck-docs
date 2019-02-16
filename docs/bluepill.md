@@ -58,8 +58,8 @@ Any differences will be called out inside this guide.
         After this block, steps are mandatory unless otherwise noted!
 
 ## Reset Switch
-    !!! Note
-        On both the Ortho48 and Ortho60, you have through hole reset switches, so you won't have to do this SMD soldering! Follow the steps analogous to the USB mini port to install the reset switch.
+!!! Note
+    On both the Ortho48 and Ortho60, you have through hole reset switches, so you won't have to do this SMD soldering! Follow the steps analogous to the USB mini port to install the reset switch.
 
 1. We're going to use the same strategy for the reset switch. Put a little solder on one of the pads.
 ![](images/build_guide/16-reset-switch.jpg)
@@ -69,8 +69,8 @@ Any differences will be called out inside this guide.
 
 ## Blue Pill Headers
 
-    !!! Warning
-        If you plan on installing your build in a case, you should use low-profile sockets instead of these headers. There is a low profile socket guide available [here](sockets.md). You must use low profile sockets if you want case compatibility! 
+!!! Warning
+    If you plan on installing your build in a case, you should use low-profile sockets instead of these headers. There is a low profile socket guide available [here](sockets.md). You must use low profile sockets if you want case compatibility! 
 
 1. Next let's put in the headers for our Blue Pill
 ![](images/build_guide/18-blue-pill-headers.jpg)
