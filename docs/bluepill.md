@@ -23,10 +23,23 @@ Any differences will be called out inside this guide.
 1. Finish soldering all the diodes. At the end, your board should look like this:
 ![](images/build_guide/7-diode-finished.jpg)
 
+## MOSFET for Backlighting (Optional)
+
+!!! Optional
+    These next few steps coming up are optional, and only necessary if you want to add per-key LED backlighting to your board. These steps could be difficult as they require soldering SMD parts. Please watch [this video](https://www.youtube.com/watch?v=ofmdmeCW4fY) for a video guide! If you want to skip, you can [jump to the next mandatory section](#usb-port)
+
+1. Now, if we want LED backlighting, we need to solder the MOSFET on Q1. Put a little solder on one of the pads.
+![](images/build_guide/14-mosfet-solder.jpg)
+1. Using tweezers, hold the MOSFET to the pad, oriented the correct way. Use a soldering iron to make the dot of solder you added heat up. and solder the MOSFET to the board.
+![](images/build_guide/15-mosfet-installed.jpg)
+
+    !!! Mandatory
+        After this block, steps are mandatory unless otherwise noted!
+
 ## Resistors for Backlighting (Optional)
 
 !!! Optional
-    These next few steps coming up are optional, and only necessary if you want to add per-key LED backlighting to your board. If you want to skip this, you can [jump to the next mandatory section](#usb-port)
+    This step is optional, and only necessary if you want to add per-key LED backlighting to your board. If you want to skip this, you can [jump to the next mandatory section](#usb-port)
 
 1. Next, we're going to solder the 4.7k resistor needed for per-key LED Backlighting. This is optional!
 ![](images/build_guide/8-mosfet-resistor.jpg)
@@ -48,28 +61,17 @@ Any differences will be called out inside this guide.
 1. Solder the USB mini port
 ![](images/build_guide/13-usb-port-soldered.jpg)
 
-## MOSFET for Backlighting (Optional)
-
-!!! Optional
-    These next few steps coming up are optional, and only necessary if you want to add per-key LED backlighting to your board. These steps could be difficult as they require soldering SMD parts. Please watch [this video](https://www.youtube.com/watch?v=ofmdmeCW4fY) for a video guide! If you want to skip, you can [jump to the next mandatory section](#reset-switch)
-
-1. Now, if we want LED backlighting, we need to solder the MOSFET on Q1. Put a little solder on one of the pads.
-![](images/build_guide/14-mosfet-solder.jpg)
-1. Using tweezers, hold the MOSFET to the pad, oriented the correct way. Use a soldering iron to make the dot of solder you added heat up. and solder the MOSFET to the board.
-![](images/build_guide/15-mosfet-installed.jpg)
-
-    !!! Mandatory
-        After this block, steps are mandatory unless otherwise noted!
 
 ## Reset Switch
 
 !!! Note
     On both the Ortho48 and Ortho60, you have through hole reset switches, so you won't have to do this SMD soldering! Follow the steps analogous to the USB mini port to install the reset switch.
 
-1. We're going to use the same strategy for the reset switch. Put a little solder on one of the pads.
+1. Practice60: Now we must solder the SMD reset switch. Put a little solder on one of the pads.
 ![](images/build_guide/16-reset-switch.jpg)
-1. Using tweezers, hold the reset switch to the pad, oriented the correct way. Use a soldering iron to make the dot of solder you added heat up. and solder the reset switch to the board.
+1. Practice60: Using tweezers, hold the reset switch to the pad, oriented the correct way. Use a soldering iron to make the dot of solder you added heat up, pinning it in place. Solder the reset switch pins to the board.
 ![](images/build_guide/17-reset-soldered.jpg)
+1. On the Ortho60 and Ortho48, insert the angled reset switch into the reset switch spot, and solder like the USB port.
 
 
 ## Blue Pill Headers
