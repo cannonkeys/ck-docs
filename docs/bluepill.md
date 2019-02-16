@@ -4,10 +4,12 @@ These three boards are all Bluepill based. While the guide photos were taken wit
 
 Any differences will be called out inside this guide.
 
+## Setup
 1. Starting Kit:
 ![](images/build_guide/0-kit.jpg)
 1. Tools:
 ![](images/build_guide/1-tools.jpg)
+## Diodes
 1. First step - diodes. They are all marked with "D" on the back of the PCB. I suggest soldering them on the back of the PCB.
 ![](images/build_guide/2-diode-pads.jpg)
 1. Bend your diodes around your finger for easy insertion.
@@ -22,8 +24,8 @@ Any differences will be called out inside this guide.
 ![](images/build_guide/7-diode-finished.jpg)
 
     !!! Optional
-        These next few steps coming up are optional, and only necessary if you want to add per-key LED backlighting to your board.
-
+        These next few steps coming up are optional, and only necessary if you want to add per-key LED backlighting to your board. If you want to skip, you can [Jump to the next mandatory section](#USB-Port)
+## Resistors for Backlighting (Optional)
 1. Next, we're going to solder the 4.7k resistor needed for per-key LED Backlighting. This is optional!
 ![](images/build_guide/8-mosfet-resistor.jpg)
    In this image, it's not labeled, but on newer PCBs, the pad is labeled with a note "4.7k"
@@ -36,7 +38,7 @@ Any differences will be called out inside this guide.
 
     !!! Mandatory
         After this block, steps are mandatory unless otherwise noted!
-
+## USB Port
 1. Next we'll solder the USB port. Insert the USB mini port. Make sure all the pins are through the holes.
 ![](images/build_guide/12-usb-port.jpg)
 1. Solder the USB mini port
