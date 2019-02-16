@@ -9,11 +9,12 @@ markdown_extensions:
   - admonition
 nav:
   - Home: index.md
-  - Build Guide: bluepill.md
+  - Build Guide: bluepill-build.md
   - Adding RGB Underglow: rgb_underglow.md
   - Using Low Profile Sockets: sockets.md
   - Flashing Guide: flashing.md
   - Firmware Guide: firmware.md
+  - Bluepill Modification: bluepill-mod.md
 
 extra:
   social:
