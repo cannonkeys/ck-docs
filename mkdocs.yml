@@ -16,6 +16,7 @@ nav:
   - Firmware Guide: firmware.md
   - Bluepill Modification: bluepill-mod.md
   - Testing your Bluepill: bluepill-test.md
+  - Default layouts: default-layouts.md
 
 extra:
   social:
