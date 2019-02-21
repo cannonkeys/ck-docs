@@ -2,6 +2,7 @@
 
 ## Practice60
 [Firmware link](assets/cannonkeys_practice60_default.bin)
+
 Default Layer:
 ![](images/practice60/layer0.PNG)
 

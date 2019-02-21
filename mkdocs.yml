@@ -10,13 +10,13 @@ markdown_extensions:
 nav:
   - Home: index.md
   - Build Guide: bluepill-build.md
-  - Adding RGB Underglow: rgb_underglow.md
-  - Using Low Profile Sockets: sockets.md
+  - Testing your Bluepill: bluepill-test.md
+  - Bluepill Modification: bluepill-mod.md
   - Flashing Guide: flashing.md
   - Firmware Guide: firmware.md
-  - Bluepill Modification: bluepill-mod.md
-  - Testing your Bluepill: bluepill-test.md
-  - Default layouts: default-layouts.md
+  - Default Layouts: default-layouts.md
+  - Using Low Profile Sockets: sockets.md
+  - Adding RGB Underglow: rgb_underglow.md
 
 extra:
   social:
