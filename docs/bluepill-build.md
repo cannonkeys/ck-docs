@@ -4,6 +4,9 @@ These three boards are all Bluepill based. While the guide photos were taken wit
 
 Any differences will be called out inside this guide.
 
+!!! Note
+    Before starting this build, you should [flash](flashing.md) your Blue Pill using a Micro USB cable, and also [test your Blue Pill](bluepill-test.md)
+
 ## Setup
 1. Starting Kit:
 ![](images/build_guide/0-kit.jpg)

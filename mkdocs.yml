@@ -15,6 +15,7 @@ nav:
   - Flashing Guide: flashing.md
   - Firmware Guide: firmware.md
   - Bluepill Modification: bluepill-mod.md
+  - Testing your Bluepill: bluepill-test.md
 
 extra:
   social:
