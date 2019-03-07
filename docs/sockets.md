@@ -27,3 +27,5 @@
 ![](images/socket_guide/10-cut-pins.jpg)
 1. At the end, your BluePill should look like this.
 ![](images/socket_guide/11-finished-socketing.jpg)
+
+After this point, you can take the Blue Pill out, and reinsert it whenever you want! If you're following the build guide, your final installation step will be inserting this Blue Pill back into the sockets.

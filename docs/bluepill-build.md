@@ -122,8 +122,16 @@ Any differences will be called out inside this guide.
 1. When the switches are done, the back of the board should look like this.
 ![](images/build_guide/30-back-finished.jpg)
 
-    !!! Note
-        TODO: Install LEDS
+## Installing LEDs
+!!! Optional
+    This step is optional, and only necessary if you want to add per-key LED backlighting to your board. If you want to skip this, you can [jump to the next mandatory section](#final-installation)
+1. For backlighting, we support single color LEDS. For this guide, I used white ones:
+![](images/build_guide/L01-leds.jpg)
+1. On each switch, you should see holes for LEDs:
+![](images/build_guide/L02-led-holes.jpg)
+1. We’re going to put the LEDs through these holes. Each LED has a longer side (anode, positive) and a shorter side (cathode, negative). If you notice the PCB, it has square pads and circular pads. *The shorter leg of the LED should go into the hole with the square pad.*
+![](images/build_guide/L03-led-leads-detailed.jpg)
+1. Once inserted, bend the legs and follow the same general technique that you did with the diodes and resistors.
 
 ## Final Installation
 1. Finally, add the blue pill and solder it to the board. Make sure you have it oriented the correct way! Follow the printout on the board.
