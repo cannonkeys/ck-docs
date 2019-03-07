@@ -130,7 +130,7 @@ Any differences will be called out inside this guide.
 ![](images/build_guide/L01-leds.jpg)
 1. On each switch, you should see holes for LEDs:
 ![](images/build_guide/L02-led-holes.jpg)
-1. We’re going to put the LEDs through these holes. Each LED has a longer side (anode, positive) and a shorter side (cathode, negative). If you notice the PCB, it has square pads and circular pads. *The shorter leg of the LED should go into the hole with the square pad.*
+1. We’re going to put the LEDs through these holes. Each LED has a longer side (anode, positive) and a shorter side (cathode, negative). If you notice the PCB, it has square pads and circular pads. **The shorter leg of the LED should go into the hole with the square pad.**
 ![](images/build_guide/L03-led-leads-detailed.jpg)
 1. Once inserted, bend the legs and follow the same general technique that you did with the diodes and resistors.
 
