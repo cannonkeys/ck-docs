@@ -123,6 +123,7 @@ Any differences will be called out inside this guide.
 ![](images/build_guide/30-back-finished.jpg)
 
 ## Installing LEDs
+
 !!! Optional
     This step is optional, and only necessary if you want to add per-key LED backlighting to your board. If you want to skip this, you can [jump to the next mandatory section](#final-installation)
 1. For backlighting, we support single color LEDS. For this guide, I used white ones:
