@@ -80,7 +80,7 @@ Any differences will be called out inside this guide.
 ## Blue Pill Headers
 
 !!! Warning
-    If you plan on installing your build in a case, you should use low-profile sockets instead of these headers. There is a low profile socket guide available [here](sockets.md). You must use low profile sockets if you want case compatibility! 
+    If you plan on installing your build in a case, you should use low-profile sockets instead of these headers. There is a low profile socket guide available [here](sockets.md). You must use low profile sockets if you want case compatibility! Low profile sockets are also more flexible, and I highly suggest using them!
 
 1. Next let's put in the headers for our Blue Pill
 ![](images/build_guide/18-blue-pill-headers.jpg)
@@ -96,10 +96,18 @@ Any differences will be called out inside this guide.
 !!! Note
     This section assumes that you've purchased a Blue Pill as part of a kit from me, or from my shop. Most blue pills come with extra jumpers soldered. If this is the case for your Blue Pill, please visit [this page](bluepill-mod.md) for detailed instructions on how to modify it.
 
-1. Since our Bluepills do not have boot jumpers, we need to add some wires to set the boot mode. Put a piece of wire or diode leg between the middle BOOT0 pin and the 0 pin.
+1. Since our Bluepills do not have boot jumpers, we need to add some wires to set the boot mode. 
+![](images/build_guide/m01-starting-bluepill.jpg)
+1. Put a piece of wire or diode leg between the middle BOOT0 pin and the 0 pin.
+![](images/build_guide/m02-wire-bluepill.jpg)
 1. Flip the Bluepill over and solder the wire into the spots.
+![](images/build_guide/m03-soldered-bluepill.jpg)
 1. Repeat for the BOOT1 pin, again connecting the middle pin to 0.
+![](images/build_guide/m04-repeat-bluepill.jpg)
+1. Cut the extra wire/diode legs off the back of your blue pill.
+![](images/build_guide/m05-cut-pins-bluepill.jpg)
 1. At the end of this, your Bluepill should look like this:
+![](images/build_guide/m06-finished-bluepill.jpg)
 
 
 ## Stabilizers
