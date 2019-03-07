@@ -135,7 +135,7 @@ Any differences will be called out inside this guide.
 1. Once inserted, bend the legs and follow the same general technique that you did with the diodes and resistors.
 
 ## Final Installation
-1. Finally, add the blue pill and solder it to the board. Make sure you have it oriented the correct way! Follow the printout on the board.
+1. Finally, add the blue pill and solder it to the board. Make sure you have it oriented the correct way! Follow the printout on the board. The notch on the outline is where the USB port goes.
 ![](images/build_guide/31-solder-bluepill.jpg)
 
     !!! Note
