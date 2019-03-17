@@ -56,7 +56,25 @@ Any differences will be called out inside this guide.
 
     !!! Mandatory
         After this block, steps are mandatory unless otherwise noted!
-        
+
+## ESD Protection Chip (Optional)
+
+!!! Optional
+    This step is optional. Sometimes there can be electrostatic discharge on your USB lines. This chip will help stop damage from that, but isn't necessary. **I only reccommend doing this if you are confident you can do it**. If you're newer to soldering, you can [jump to the next mandatory section](#usb-port)
+
+1. The ESD component goes on "U1" on the Ortho48 and Ortho60, and "U2" on the Practice60. We need to identify Pin 1. There is a short line and a long line next to the footprint. Pin 1 is the pin with the long line.
+![](images/esd/esd_pin1.jpg)
+1. Identify Pin 1 on the ESD Chip. There is a dot over Pin1. When we solder, we will align the pin 1 on the chip to pin 1 on the board.
+![](images/esd/esd_chip_pin1.jpg)
+1. Put some solder on pin 1 of the board.
+![](images/esd/esd_solder.jpg)
+1. Similar to the MOSFET, use your tweezers to hold the component in place, and your iron to melt the solder on Pin 1. Align the ESD chip with the footprint, and remove your iron to tack it in place.
+![](images/esd/esd_tack.jpg)
+1. I like flooding the rest of the pins with flux before soldering the component on. It makes it much easier.
+![](images/esd/esd_flux.jpg)
+1. Solder each remaining pin to the board.
+![](images/esd/esd_complete.jpg)
+
 ## USB Port
 
 1. Next we'll solder the USB port. Insert the USB mini port. Make sure all the pins are through the holes.
@@ -139,4 +157,4 @@ Any differences will be called out inside this guide.
 ![](images/build_guide/31-solder-bluepill.jpg)
 
     !!! Note
-        TODO: Assemble Sandwich Case
+        TODO: Assemble Sandwich Case. This should be pretty simple, if you need help please contact me on the CannonKeys Discord or through the support email, support <at> cannonkeys.com

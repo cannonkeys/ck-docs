@@ -21,7 +21,15 @@ If your blue pill has yellow jumpers soldered on it:
 
 If your blue pill does not have yellow jumpers on it:
 
-1. Since our Bluepills do not have boot jumpers, we need to add some wires to set the boot mode. Put a piece of wire or diode leg between the middle BOOT0 pin and the 0 pin.
+1. Since our Bluepills do not have boot jumpers, we need to add some wires to set the boot mode. 
+![](images/build_guide/m01-starting-bluepill.jpg)
+1. Put a piece of wire or diode leg between the middle BOOT0 pin and the 0 pin.
+![](images/build_guide/m02-wire-bluepill.jpg)
 1. Flip the Bluepill over and solder the wire into the spots.
+![](images/build_guide/m03-soldered-bluepill.jpg)
 1. Repeat for the BOOT1 pin, again connecting the middle pin to 0.
+![](images/build_guide/m04-repeat-bluepill.jpg)
+1. Cut the extra wire/diode legs off the back of your blue pill.
+![](images/build_guide/m05-cut-pins-bluepill.jpg)
 1. At the end of this, your Bluepill should look like this:
+![](images/build_guide/m06-finished-bluepill.jpg)
