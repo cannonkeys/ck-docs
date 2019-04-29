@@ -46,13 +46,16 @@ with [STSW-LINK007][stlink007]. You'll also need the [bootloader binary][bootloa
     * if the `chipid` is `0x0410`, you're connected correctly
 1. Attempt to flash the bootloader using `st-flash --reset --format binary write path/to/generic_boot20_pc13.bin 0x8000000`
     * if you get a `Unknown memory region` error message, you'll need to unlock the chip with the following command:
+
         ```
         openocd -f interface/stlink-v2.cfg \
           -f target/stm32f1x.cfg \
           -c "init; reset halt; stm32f1x unlock 0; reset halt; exit"
         ```
+
         then you'll need to unplug the ST-Link to reboot the board and you can retry flashing the bootloader
     * If you see the following (or something similar), your Blue-pill was successfully flashed
+
         ```
         st-flash 1.5.1
         2019-04-28T19:58:23 INFO common.c: Loading device parameters....
