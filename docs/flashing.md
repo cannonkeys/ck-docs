@@ -42,10 +42,10 @@ The first thing you'll need to do is hook your ST Link into your Blue-pill. For 
 with [STSW-LINK007][stlink007]. You'll also need the [bootloader binary][bootloader]
 
 1. Ensure that your Blue-pill is recognized by running `st-info --probe`
-  * if the `chipid` is `0x0000`, swap the SWDIO and SWCLK pins
-  * if the `chipid` is `0x0410`, you're connected correctly
+    * if the `chipid` is `0x0000`, swap the SWDIO and SWCLK pins
+    * if the `chipid` is `0x0410`, you're connected correctly
 1. Attempt to flash the bootloader using `st-flash --reset --format binary write path/to/generic_boot20_pc13.bin 0x8000000`
-  * if you get a `Unknown memory region` error message, you'll need to unlock the chip with the following command then unplug your ST Link to reboot the Blue-pill:
+    * if you get a `Unknown memory region` error message, you'll need to unlock the chip with the following command then unplug your ST Link to reboot the Blue-pill:
 
 ```
 openocd -f interface/stlink-v2.cfg \
@@ -53,7 +53,7 @@ openocd -f interface/stlink-v2.cfg \
     -c "init; reset halt; stm32f1x unlock 0; reset halt; exit"
 ```
 
-  * If you see the following (or something similar), your Blue-pill was successfully flashed
+ If you see the following (or something similar), your Blue-pill was successfully flashed
 
 ```
 st-flash 1.5.1
