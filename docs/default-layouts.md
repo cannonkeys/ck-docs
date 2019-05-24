@@ -4,10 +4,19 @@
 [Firmware link](assets/cannonkeys_practice60_default.bin)
 
 Default Layer:
-![](images/practice60/layer0.PNG)
+![](images/layouts/layer0.PNG)
 
 First layer:
-![](images/practice60/layer1.PNG)
+![](images/layouts/layer1.PNG)
+
+## Practice65
+[Firmware link](assets/cannonkeys_practice65_default.bin)
+
+Default Layer:
+![](images/layouts/p65_layer0.PNG)
+
+First layer:
+![](images/layouts/p65_layer1.PNG)
 
 ## Ortho60
 [Firmware link](assets/cannonkeys_ortho60_default.bin)
