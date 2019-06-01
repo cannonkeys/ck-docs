@@ -54,7 +54,6 @@ Once the steps in this section are done once, they will not have to be done agai
     ![](images/initial_flash/switch1.jpg)
 1. Plug the PCB in
     ![](images/initial_flash/plug-in.jpg)
-
 1. Open Zadig
     ![](images/initial_flash/ZadigNormal.PNG)
 1. Click "List all Devices" in the Options menu
