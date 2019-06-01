@@ -9,14 +9,15 @@ markdown_extensions:
   - admonition
 nav:
   - Home: index.md
-  - Build Guide: bluepill-build.md
-  - Testing your Bluepill: bluepill-test.md
-  - Bluepill Modification: bluepill-mod.md
-  - Flashing Guide: flashing.md
-  - Firmware Guide: firmware.md
-  - Default Layouts: default-layouts.md
-  - Using Low Profile Sockets: sockets.md
-  - Adding RGB Underglow: rgb_underglow.md
+  - Keyboard Kits:
+    - Build Guide: bluepill-build.md
+    - Testing your Bluepill: bluepill-test.md
+    - Bluepill Modification: bluepill-mod.md
+    - Flashing Guide: flashing.md
+    - Firmware Guide: firmware.md
+    - Default Layouts: default-layouts.md
+    - Using Low Profile Sockets: sockets.md
+    - Adding RGB Underglow: rgb_underglow.md
   - Instant60: instant60.md
 
 extra:
