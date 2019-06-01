@@ -17,6 +17,7 @@ nav:
   - Default Layouts: default-layouts.md
   - Using Low Profile Sockets: sockets.md
   - Adding RGB Underglow: rgb_underglow.md
+  - Instant60: instant60.md
 
 extra:
   social:
