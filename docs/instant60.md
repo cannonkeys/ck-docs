@@ -6,6 +6,7 @@ The layouts shown are as they look in VIA. Due to a VIA limitation, all keys are
 
 ### ANSI
 [Default Firmware](assets/cannonkeys_instant60_via_standard.bin)
+
 * Layer 0
 ![](images/layouts/instant60_ansi_0.jpg)
 * Layer 1
@@ -14,6 +15,7 @@ The layouts shown are as they look in VIA. Due to a VIA limitation, all keys are
 
 ### Tsangan
 [Default Firmware](assets/cannonkeys_instant60_via.bin)
+
 * Layer 0
 ![](images/layouts/instant60_tsangan_0.jpg)
 * Layer 1
