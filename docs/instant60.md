@@ -14,7 +14,7 @@ The layouts shown are as they look in VIA. Due to a VIA limitation, all keys are
 
 
 ### Tsangan
-[Default Firmware](assets/cannonkeys_instant60_via.bin)
+[Default Firmware](assets/cannonkeys_instant60_via_tsangan.bin)
 
 * Layer 0
 ![](images/layouts/instant60_tsangan_0.jpg)
