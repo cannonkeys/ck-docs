@@ -23,8 +23,9 @@ The layouts shown are as they look in VIA. Due to a VIA limitation, all keys are
 
 ## Using VIA
 
-!!! Notice
-    VIA support is built in to the default firmware, but the VIA software will not support the board until Late June (ETA). If you need to change the layout in the meantime, you will have to compile and flash the firmware.
+VIA configurator is a graphical tool that can be used to change keymaps. It is available here: https://github.com/olivia/via-config/releases/
+
+You must use a release later than v0.3.4
 
 To change the keymap, simply open VIA Configurator and it will load the keyboard. If it does not work, restart VIA. From there, it's intuitive to change keys.
 
