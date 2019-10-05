@@ -1,4 +1,4 @@
-# Build Guide for the Practice60, Ortho60, and Ortho48
+# Build Guide for the Practice60/65 and Ortho48/60/75
 
 These three boards are all Bluepill based. While the guide photos were taken with the Practice60, the steps still apply for the Ortho60 and Ortho48 as well.
 
