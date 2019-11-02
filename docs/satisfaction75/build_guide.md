@@ -47,7 +47,8 @@ Congrats on your Satisfaction75 purchase! This is a guide to building your Satis
     We highly recommend [clipping and lubing](https://www.youtube.com/watch?v=cD5Zj-ZgMLA) your stabilizers prior to this step, for optimal feel!
 
 1. Install your stabilizers in the PCB:
-c
+    ![](../images/satisfaction75/install_stabs.jpg)
+
 1. Slide your plate over the stabilizers. It might feel tight, but the plate WILL fit! I made this test build with retooled GMK stabilizers:
     ![](../images/satisfaction75/stabs_installed_plate.jpg)
 
