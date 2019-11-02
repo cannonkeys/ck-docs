@@ -27,7 +27,12 @@ Congrats on your Satisfaction75 purchase! This is a guide to building your Satis
 1. Flip the PCB around and install the spacers over the nylon screws:
     ![](../images/satisfaction75/oled_spacers_installed.jpg)
 
-1. 
+1. Drop the OLED into the footprint for the OLED:
+    ![](../images/satisfaction75/install_oled.jpg)
+
+1. Solder the OLED pins into place, being careful to keep it level, and even with the spacer height:
+    ![](../images/satisfaction75/solder_oled_pins.jpg)
+
 
 
 Testing 123
