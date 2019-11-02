@@ -57,3 +57,5 @@ Touch a conductive piece of material to each pair of switch holes (examples circ
 1. At the end, you should see "File downloaded successfully"
 1. Change the switch back to "0" and hit the reset button. Note - your firmware won't work unless your OLED is installed!
     ![](../images/satisfaction75/boot_switch_0.jpg)
+
+Now you can go back to the [Build Guide](satisfaction75/build_guide.md)!
