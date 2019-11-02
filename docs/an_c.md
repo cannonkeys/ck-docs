@@ -7,9 +7,9 @@ The layout shown is as it looks in VIA. Due to a VIA limitation, all keys are sh
 [Default Firmware](assets/cannonkeys_an_c_via.bin)
 
 * Layer 0
-![](images/layouts/an_c_0.jpg)
+![](images/layouts/an_c_0.png)
 * Layer 1
-![](images/layouts/an_c_1.jpg)
+![](images/layouts/an_c_1.png)
 
 
 ## Using VIA
