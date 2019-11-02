@@ -19,6 +19,13 @@ nav:
     - Using Low Profile Sockets: sockets.md
     - Adding RGB Underglow: rgb_underglow.md
   - Instant60: instant60.md
+  - AN-C: an_c.md
+  - Satisfaction75:
+    - Build Guide: satisfaction75/build_guide.md 
+    - Flashing Guide: satisfaction75/flashing.md
+    - User Guide: satisfaction75/user_guide.md
+
+
 
 extra:
   social:
