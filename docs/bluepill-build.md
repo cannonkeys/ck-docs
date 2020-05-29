@@ -6,7 +6,10 @@ Any differences will be called out inside this guide.
 
 !!! Note
     Before starting this build, you should [flash](flashing.md) your Blue Pill using a Micro USB cable, and also [test your Blue Pill](bluepill-test.md)
-
+    
+!!! Note
+    Do **not** plug in both the MicroUSB port on the BluePill and the Mini USB port on your keyboard kit at the same time. This could cause irreparable damage to either the kit, or your computer, so remember - one at a time!
+    
 ## Setup
 1. Starting Kit:
 ![](images/build_guide/0-kit.jpg)
