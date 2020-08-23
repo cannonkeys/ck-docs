@@ -23,7 +23,7 @@ The layouts shown are as they look in VIA. Due to a VIA limitation, all keys are
 
 ## Using VIA
 
-VIA configurator is a graphical tool that can be used to change keymaps. It is available here: https://github.com/olivia/via-config/releases/
+VIA configurator is a graphical tool that can be used to change keymaps. It is available here: https://github.com/the-via/releases
 
 You must use a release later than v0.3.4
 
