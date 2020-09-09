@@ -24,8 +24,9 @@ nav:
     - Build Guide: satisfaction75/build_guide.md 
     - Flashing Guide: satisfaction75/flashing.md
     - User Guide: satisfaction75/user_guide.md
-
-
+  - Chimera65:
+    - Build Guide: chimera65/build_guide.md 
+    - Flashing Guide: chimera65/flashing.md
 
 extra:
   social:
