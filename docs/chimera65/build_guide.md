@@ -4,7 +4,7 @@ Congrats on your Chimera65 purchase! This is a guide to building your Chimera65.
 
 ## Parts
 
-![](../images/chimera65/parts.jpg)
+![](../images/chimera65/01_parts.jpg)
 
 * Chimera65 Case
 * Chimera65 PCB
