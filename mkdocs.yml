@@ -27,6 +27,7 @@ nav:
   - Chimera65:
     - Build Guide: chimera65/build_guide.md 
     - Flashing Guide: chimera65/flashing.md
+  - Resources: resources.md
 
 extra:
   social:
