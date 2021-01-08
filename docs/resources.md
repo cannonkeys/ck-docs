@@ -1,11 +1,38 @@
 # Resources
 
+## Commonly Used Parts
+In many of our CannonKeys designed products, we use the same parts. This is true for a lot of burger mounted O-rings, OLEDs, encoders, etc. This chart shows what those products are and where you can buy extras, if you so desire.
+
+| Part Name |   Part #        | Info       | Vendor       | Link   |
+|---------------------------------------------------------------------------------------------------|-------------------|--------------------------|--------------|--------|
+| Encoder | EC11E18244A5 | Alps Alpine (Detented)| Mouser   | [Link](https://www.mouser.com/ProductDetail/alps-alpine/ec11e18244a5/?qs=seHrhfPpLDydI9KuruJHhA==&countrycode=US&currencycode=USD)   |
+| Encoder | EC11E1534408 | Alps Alpine (No Detents) | LCSC  | [Link](https://lcsc.com/product-detail/Coded-Rotary-Switches_ALPS-Electric-EC11E1534408_C278348.html)   |
+| Oled (With Pins) | B08F1ZBGLN (ASIN) | Blue or White w/ pins| Amazon  | [Link](https://www.amazon.com/MELIFE-Display-SSD1306-3-3V-5V-Arduino/dp/B08F1ZBGLN/ref=mp_s_a_1_13?dchild=1&keywords=almacen%2boled%2b128%2b32%2bwhite&qid=1603905472&sr=8-13&th=1)   |
+| Oled (No Pins) | 8541549353 | Blue or White No pins | Amazon| [Link](https://www.amazon.com/gp/product/B079BN2J8V/ref=ppx_yo_dt_b_asin_title_o01_s00?ie=UTF8&psc=1)   |
+| Nylon Standoff Spacer | XL-NY-CA | M2X5+6   | Amazon      | [Link](https://www.amazon.com/gp/product/B07GCXFVB1/ref=ppx_yo_dt_b_asin_title_o02_s00?ie=UTF8&th=1)   |
+| Bumpon | 3MSJ5302 | 0.312" x 0.085" | Amazon               | [Link](https://www.amazon.com/gp/product/B01ACPT2LU/ref=ppx_yo_dt_b_asin_title_o04_s00?ie=UTF8&psc=1)   |
+| Battery | B019JQB5VS (ASIN) | 10x CR1025   | Amazon       | [Link](https://www.amazon.com/gp/product/B019JQB5VS/ref=ppx_yo_dt_b_asin_title_o05_s00?ie=UTF8&psc=1)   |
+| Mount Screws    | N/A           | M2x6mm   | Monsterbolts | [Link](https://monsterbolts.com/products/m2-socket-head-cap-screws-class-12-9-alloy-steel-w-black-oxide?variant=31159205724243)   |
+| Case Screws    | N/A            | M2x10mm  | Monsterbolts | [Link](https://monsterbolts.com/products/m2-socket-head-cap-screws-class-12-9-alloy-steel-w-black-oxide?variant=31159205855315)   |
+| Micro Cutter | B00FZPDG1K (ASIN) | Hakko, basic| Amazon   | [Link](https://www.amazon.com/Hakko-CHP-170-Micro-Cutter/dp/B00FZPDG1K/ref=sr_1_2?dchild=1&keywords=flush%2bcutter&qid=1603914013&s=hi&sr=1-2&th=1)   |
+| 4-Pin Header| PREC004SAAN-RC|4-Pin with black washer| Digi-key| [Link](https://www.digikey.com/en/products/detail/sullins-connector-solutions/PREC004SAAN-RC/2774850?s=N4IgjCBcoLQdIDGUAuAnArgUwDQgPZQDaIAzAKwgC6AvjXgEzEgAKASgKIDCADDwCwBlAILCAcjDZdqNIA) |
+| Mount O-Rings (70A)| S1.00X002| 1mm (2mm ID/4mm OD)| TORS| [Link](https://www.theoringstore.com/store/index.php?main_page=product_info&cPath=368_686_687&products_id=39516)   |
+| Polyfill | B08BVVXS28 (ASIN) | RIP Mr. Teddy | Amazon | [Link](https://www.amazon.com/Mr-Polyester-Stuffing-Filling-Stuffed/dp/B08BVVXS28/ref=sr_1_2?dchild=1&keywords=stuffing&qid=1609961000&sr=8-2) |
+| Knob Info | Misc | 6mm Shaft, 19mm Diam | Misc | Varies |           
+
+In particular, these M2 screws are used for the Satisfaction75 and Brutal Series Boards (Brutal60, Savage65, Obliterated75, DevastatingTKL, and Rekt1800). 
+
+The Chimera and Balance boards use a different set of hardware, which we will add here in the near future.
+
+*If something is out of stock, please reach out in the #build-help-and-tech-suport channel in the [Cannonkeys Discord](https://discord.com/invite/Jm3sN7N6SN). Special thanks to Chippy for putting this chart together*
+
+
 ## Plate Disclaimer
 For most CannonKeys designed keyboards, since we may not offer plates in every material someone might want, we release our plate files. These are **available solely for personal use**. We've chosen to release this under the [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License](https://creativecommons.org/licenses/by-nc-nd/4.0/). This means while you can use these files to make a plate for your own use, you can't distribute any derivative works, or use them for any commercial purposes. We consider group buys as a commercial purpose.
 
 Furthermore, we provide these files as-is and provide no warranty or guarantee around these files. By using them, you agree to take responsibility for their use.
 
-## Plates
+### Plates
  * [Brutal60, Standard](assets/plates/brutal60_standard.dxf)
  * [Brutal60, Tsangan](assets/plates/brutal60_tsangan.dxf)
  * [Savage65, Standard (6.25U)](assets/plates/savage65_standard.dxf)
