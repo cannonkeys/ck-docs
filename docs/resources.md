@@ -32,7 +32,7 @@ For most CannonKeys designed keyboards, since we may not offer plates in every m
 
 Furthermore, we provide these files as-is and provide no warranty or guarantee around these files. By using them, you agree to take responsibility for their use.
 
-## Plates
+### Plates
  * [Brutal60, Standard](assets/plates/brutal60_standard.dxf)
  * [Brutal60, Tsangan](assets/plates/brutal60_tsangan.dxf)
  * [Savage65, Standard (6.25U)](assets/plates/savage65_standard.dxf)
