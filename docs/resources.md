@@ -18,6 +18,7 @@ In many of our CannonKeys designed products, we use the same parts. This is true
 | 4-Pin Header| PREC004SAAN-RC|4-Pin with black washer| Digi-key| [Link](https://www.digikey.com/en/products/detail/sullins-connector-solutions/PREC004SAAN-RC/2774850?s=N4IgjCBcoLQdIDGUAuAnArgUwDQgPZQDaIAzAKwgC6AvjXgEzEgAKASgKIDCADDwCwBlAILCAcjDZdqNIA) |
 | Mount O-Rings (70A)| S1.00X002| 1mm (2mm ID/4mm OD)| TORS| [Link](https://www.theoringstore.com/store/index.php?main_page=product_info&cPath=368_686_687&products_id=39516)   |
 | Polyfill | B08BVVXS28 (ASIN) | RIP Mr. Teddy | Amazon | [Link](https://www.amazon.com/Mr-Polyester-Stuffing-Filling-Stuffed/dp/B08BVVXS28/ref=sr_1_2?dchild=1&keywords=stuffing&qid=1609961000&sr=8-2) |
+| Per Key LED | Misc | 1.8mm or 2x3x4 | Misc | Varies |     
 | Knob Info | Misc | 6mm Shaft, 19mm Diam | Misc | Varies |           
 
 In particular, these M2 screws are used for the Satisfaction75 and Brutal Series Boards (Brutal60, Savage65, Obliterated75, DevastatingTKL, and Rekt1800). 
