@@ -15,6 +15,7 @@ If you'd like to change your keymap, please visit the [firmware guide](firmware.
 
 ## Stacked Keyboard Kits
 CannonKeys also offers a line of stacked acrylic keyboard kits as part of our Stacked line. This includes:
+
 - Stacked60
 - Stacked65
 - Stacked75
@@ -24,6 +25,7 @@ A build guide for these kits is available [here](stacked/stacked_build.md)
 
 ## Brutal Series Keyboards
 Our Brutal Series of keyboards are sold as in-stock, and are inspired by the Brutalist architecture of Boston City Hall. They feature burger mounting and damping via polyfill. These include:
+
 - Brutal60 (Standard, WKL, and HHKB)
 - Savage65
 - Obliterated75
