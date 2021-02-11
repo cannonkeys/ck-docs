@@ -30,7 +30,8 @@ Our Brutal Series of keyboards are sold as in-stock, and are inspired by the Bru
 - DevastatingTKL (Standard, WKL coming soon)
 - Rekt1800
 
-A build guide for these keyboards is available [here](brutal/brutal_build.md) 
+A build guide for these keyboards is available [here](brutal/brutal_build.md)
+Plate files are also available on our [Resources Page](resources.md)
 
 ## Other Products
 
