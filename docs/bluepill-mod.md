@@ -1,6 +1,6 @@
 # Bluepill Modification
 
-Stock bluepills are quite tall, and interfere with case compatibility. For that reason, we often need to modify the Bluepull to make it as thin as possible.
+Stock bluepills are quite tall, and interfere with case compatibility. For that reason, we often need to modify the Bluepill to make it as thin as possible.
 
 ## With Jumpers
 
