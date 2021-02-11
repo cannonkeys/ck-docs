@@ -17,10 +17,14 @@ nav:
     - Firmware Guide: firmware.md
     - Default Layouts: default-layouts.md
     - Using Low Profile Sockets: sockets.md
-    - Adding RGB Underglow: rgb_underglow.md
   - Stacked Kits:
     - Build Guide: stacked/stacked_build.md
     - BOMs: stacked/stacked_boms.md
+  - Brutal Series Keyboards:
+    - Build Guide: brutal/brutal_build.md
+  - General HOWTOs:
+    - Adding RGB Underglow: rgb_underglow.md
+    - Removing PCB Rails: removing_pcb_rails.md
   - Instant60: instant60.md
   - AN-C: an_c.md
   - Satisfaction75:
