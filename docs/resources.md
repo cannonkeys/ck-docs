@@ -35,7 +35,7 @@ Furthermore, we provide these files as-is and provide no warranty or guarantee a
 
 ### Plates
  * [Brutal60, Standard](assets/plates/brutal60_standard.dxf)
- * [Brutal60, Tsangan](assets/plates/brutal60_tsangan.dxf)
+ * [Brutal60, Tsangan](assets/plates/brutal_tsangan_fixed_v2.dxf)
  * [Savage65, Standard (6.25U)](assets/plates/savage65_standard.dxf)
  * [Savage65, 7U](assets/plates/savage65_7u_plate.dxf)
  * [Obliterated75, Standard (6.25U)](assets/plates/obliterated75_standard_plate.dxf)

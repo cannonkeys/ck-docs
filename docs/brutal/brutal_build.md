@@ -52,7 +52,7 @@ The Brutal Series keyboards all use burger mount to help with sound and feel. Th
 ### Mounting the Plate
 1. Take your PCB and Plate assembly and align it with the top part of your case
 ![](../images/brutal_series/10-align-plate.jpg)
-1. Start screwing in the plate using the M2x6 screws with o-rings, starting with opposite corners. Screw until you just see the o rings start to compress. You can adjust the tightness of the screws to meet your mounting preferences.
+1. Start screwing in the plate using the M2x6 screws with o-rings, starting with opposite corners. Screw until you just see the o rings start to compress. You can adjust the tightness of the screws to meet your mounting preferences, but if they are too loose, your case might not close, or you may have rattling.
 ![](../images/brutal_series/11-screw-plate.jpg)
 1. Finish screwing in the plate
 ![](../images/brutal_series/12-plate-all-screws.jpg)
