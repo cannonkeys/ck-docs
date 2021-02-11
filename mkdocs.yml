@@ -9,7 +9,7 @@ markdown_extensions:
   - admonition
 nav:
   - Home: index.md
-  - Keyboard Kits:
+  - Bluepill Kits:
     - Build Guide: bluepill-build.md
     - Testing your Bluepill: bluepill-test.md
     - Bluepill Modification: bluepill-mod.md
