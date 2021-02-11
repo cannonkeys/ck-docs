@@ -44,3 +44,20 @@ Furthermore, we provide these files as-is and provide no warranty or guarantee a
  * [Obliterated75, 7U](assets/plates/obliterated75_7u_plate.dxf)
  * [Rekt1800, Standard (6.25U)](assets/plates/rekt1800_standard.dxf)
  * [Rekt1800, 7U](assets/plates/rekt1800_wkl.dxf)
+[![License: CC BY-NC-ND 4.0](https://licensebuttons.net/l/by-nc-nd/4.0/80x15.png)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
+
+## PCB Disclaimer
+We also provide STEP models of our PCBs so that other designers can make compatible products. For most of our PCBs, we also have a daughterboard based variant, which we can also share, but are not listed here.
+
+If you're interested in sourcing PCBs for a project from us, or want the daughterboard based models, please reach out to support@cannonkeys.com! We aim to try to keep these PCBs in-stock, so that your customers and supporters can easily obtain replacement PCBs.
+
+These models are provided under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/). You are free to use them for commercial purposes, but you have to give us credit - but not in any way that suggests the we endorse you or your use. No warranties are given - these files are provided as-is, and by using them, you agree to take responsibility for their use.
+
+### PCBs
+* [AN-C V2](assets/pcb_step/ANC60_v2_model.zip)
+* [Savage65](assets/pcb_step/Savage65PCB_model.zip)
+* [Obliterated75](assets/pcb_step/Obliterated75PCB_model.zip)
+* [DevastatingTKL](assets/pcb_step/devastatingTKLPCB_model.zip)
+* [Rekt1800](assets/pcb_step/rek1800PCB_model.zip)
+
+[![License: CC BY 4.0](https://licensebuttons.net/l/by/4.0/80x15.png)](https://creativecommons.org/licenses/by/4.0/)
