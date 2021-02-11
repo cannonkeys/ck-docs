@@ -43,6 +43,7 @@ Keyboard mode (You want this):
 
 ### Preparing the Burger Mount
 The Brutal Series keyboards all use burger mount to help with sound and feel. They act as tiny gaskets between the plate and case. They are optional - you can build the Brutal Series keyboards as top mount - but we suggest burger mounting!
+
 1. First, we need to add o-rings to our M2x6 screws
 ![](../images/brutal_series/08-oring-screws.jpg)
 1. Next, we need to add o-rings to the top of the case. Each plate screw hole has an indentation next to it meant to hold an o-ring
