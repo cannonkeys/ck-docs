@@ -9,7 +9,7 @@ markdown_extensions:
   - admonition
 nav:
   - Home: index.md
-  - Keyboard Kits:
+  - Bluepill Kits:
     - Build Guide: bluepill-build.md
     - Testing your Bluepill: bluepill-test.md
     - Bluepill Modification: bluepill-mod.md
@@ -17,7 +17,14 @@ nav:
     - Firmware Guide: firmware.md
     - Default Layouts: default-layouts.md
     - Using Low Profile Sockets: sockets.md
+  - Stacked Kits:
+    - Build Guide: stacked/stacked_build.md
+    - BOMs: stacked/stacked_boms.md
+  - Brutal Series Keyboards:
+    - Build Guide: brutal/brutal_build.md
+  - General HOWTOs:
     - Adding RGB Underglow: rgb_underglow.md
+    - Removing PCB Rails: removing_pcb_rails.md
   - Instant60: instant60.md
   - AN-C: an_c.md
   - Satisfaction75:
@@ -27,6 +34,7 @@ nav:
   - Chimera65:
     - Build Guide: chimera65/build_guide.md 
     - Flashing Guide: chimera65/flashing.md
+  - Resources: resources.md
 
 extra:
   social:
