@@ -18,8 +18,10 @@ In many of our CannonKeys designed products, we use the same parts. This is true
 | 4-Pin Header| PREC004SAAN-RC|4-Pin with black washer| Digi-key| [Link](https://www.digikey.com/en/products/detail/sullins-connector-solutions/PREC004SAAN-RC/2774850?s=N4IgjCBcoLQdIDGUAuAnArgUwDQgPZQDaIAzAKwgC6AvjXgEzEgAKASgKIDCADDwCwBlAILCAcjDZdqNIA) |
 | Mount O-Rings (70A)| S1.00X002| 1mm (2mm ID/4mm OD)| TORS| [Link](https://www.theoringstore.com/store/index.php?main_page=product_info&cPath=368_686_687&products_id=39516)   |
 | Polyfill | B08BVVXS28 (ASIN) | RIP Mr. Teddy | Amazon | [Link](https://www.amazon.com/Mr-Polyester-Stuffing-Filling-Stuffed/dp/B08BVVXS28/ref=sr_1_2?dchild=1&keywords=stuffing&qid=1609961000&sr=8-2) |
+| RGB Strip | Misc | WS2812B | Amazon | [Link](https://www.amazon.com/ALITOVE-Individual-Addressable-Programmable-Non-Waterproof/dp/B01MG49QKD/) |   
+| Solid Core Wire | Misc | 22 AWG | Amazon | [Link](  https://www.amazon.com/TUOFENG-Wire-Solid-different-colored-spools/dp/B07TX6BX47/) | 
 | Per Key LED | Misc | 1.8mm or 2x3x4 | Misc | Varies |     
-| Knob Info | Misc | 6mm Shaft, 19mm Diam | Misc | Varies |           
+| Knob Info | Misc | 6mm Shaft, 19mm Diam | Misc | Varies |         
 
 In particular, these M2 screws are used for the Satisfaction75 and Brutal Series Boards (Brutal60, Savage65, Obliterated75, DevastatingTKL, and Rekt1800). 
 
@@ -35,14 +37,14 @@ Furthermore, we provide these files as-is and provide no warranty or guarantee a
 
 ### Plates
  * [Brutal60, Standard](assets/plates/brutal60_standard.dxf)
- * [Brutal60, Tsangan](assets/plates/brutal_tsangan_fixed_v2.dxf)
+ * [Brutal60, Tsangan](assets/plates/brutal60_tsangan.dxf)
  * [Savage65, Standard (6.25U)](assets/plates/savage65_standard.dxf)
  * [Savage65, 7U](assets/plates/savage65_7u_plate.dxf)
  * [Obliterated75, Standard (6.25U)](assets/plates/obliterated75_standard_plate.dxf)
  * [Obliterated75, 7U](assets/plates/obliterated75_7u_plate.dxf)
  * [Rekt1800, Standard (6.25U)](assets/plates/rekt1800_standard.dxf)
  * [Rekt1800, 7U](assets/plates/rekt1800_wkl.dxf)
-
+ 
 [![License: CC BY-NC-ND 4.0](https://licensebuttons.net/l/by-nc-nd/4.0/80x15.png)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 
 ## PCB Disclaimer
@@ -60,4 +62,3 @@ These models are provided under a [Creative Commons Attribution 4.0 Internationa
 * [Rekt1800](assets/pcb_step/rek1800PCB_model.zip)
 
 [![License: CC BY 4.0](https://licensebuttons.net/l/by/4.0/80x15.png)](https://creativecommons.org/licenses/by/4.0/)
-
