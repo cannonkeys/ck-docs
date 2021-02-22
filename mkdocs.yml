@@ -25,6 +25,7 @@ nav:
   - General HOWTOs:
     - Adding RGB Underglow: rgb_underglow.md
     - Removing PCB Rails: removing_pcb_rails.md
+    - Raffle Queue: raffle-queue.md
   - Instant60: instant60.md
   - AN-C: an_c.md
   - Satisfaction75:
@@ -35,7 +36,6 @@ nav:
     - Build Guide: chimera65/build_guide.md 
     - Flashing Guide: chimera65/flashing.md
   - Resources: resources.md
-  - Raffle Queue: raffle-queue.md
 
 extra:
   social:
