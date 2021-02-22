@@ -1,5 +1,5 @@
 # CannonKeys Raffle Queue How-To
-##### Link: https://hype.cannonkeys.com/
+**Link: https://hype.cannonkeys.com/**
 &nbsp;
 If you arrive a few minutes before the drop begins, you should see a screen like this:
 
@@ -19,8 +19,8 @@ If you are lucky you may be brought into a screen to select your options!
 
 ![](images/raffle_queue/choose_options.png)
 
-#### Please keep in mind that even if you make it past the queue, you are not guaranteed your item, make sure to choose options and checkout as fast as you can!
-#### Your main focus should be to checkout your board in this stage, you can add extras (plates, PCB's, accents) using the 'Edit an Existing Order' button on the first page. You will also be emailed a Google form to select your board options (color, layout)
+**Please keep in mind that even if you make it past the queue, you are not guaranteed your item, make sure to choose options and checkout as fast as you can!**
+**Your main focus should be to checkout your board in this stage, you can add extras (plates, PCB's, accents) using the 'Edit an Existing Order' button on the first page. You will also be emailed a Google form to select your board options (color, layout)**
 
 After you select your options, you will again be put in a brief queue and finally be brought to a checkout screen!
 
