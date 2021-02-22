@@ -35,6 +35,7 @@ nav:
     - Build Guide: chimera65/build_guide.md 
     - Flashing Guide: chimera65/flashing.md
   - Resources: resources.md
+  - Raffle Queue: raffle-queue.md
 
 extra:
   social:

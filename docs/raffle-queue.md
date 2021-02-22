@@ -1,7 +1,6 @@
 # CannonKeys Raffle Queue How-To
 **Link: https://hype.cannonkeys.com/**
 
-&nbsp;
 If you arrive a few minutes before the drop begins, you should see a screen like this:
 
 ![](images/raffle_queue/before_start.png)
