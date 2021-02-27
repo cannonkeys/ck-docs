@@ -9,7 +9,8 @@ In many of our CannonKeys designed products, we use the same parts. This is true
 | Encoder | EC11E1534408 | Alps Alpine (No Detents) | LCSC  | [Link](https://lcsc.com/product-detail/Coded-Rotary-Switches_ALPS-Electric-EC11E1534408_C278348.html)   |
 | Oled (With Pins) | B08F1ZBGLN (ASIN) | Blue or White w/ pins| Amazon  | [Link](https://www.amazon.com/MELIFE-Display-SSD1306-3-3V-5V-Arduino/dp/B08F1ZBGLN/ref=mp_s_a_1_13?dchild=1&keywords=almacen%2boled%2b128%2b32%2bwhite&qid=1603905472&sr=8-13&th=1)   |
 | Oled (No Pins) | 8541549353 | Blue or White No pins | Amazon| [Link](https://www.amazon.com/gp/product/B079BN2J8V/ref=ppx_yo_dt_b_asin_title_o01_s00?ie=UTF8&psc=1)   |
-| Nylon Standoff Spacer | XL-NY-CA | M2X5+6   | Amazon      | [Link](https://www.amazon.com/gp/product/B07GCXFVB1/ref=ppx_yo_dt_b_asin_title_o02_s00?ie=UTF8&th=1)   |
+| Nylon Standoff Spacer | 13SP039 | M2x.25"   | Mouser      | [Link](https://www.mouser.com/Search/Refine?Keyword=13SP039)   |
+| Nylon Standoff Screw | 50M020040F004 | M2x4mm   | Mouser      | [Link](https://www.mouser.com/Search/Refine?Keyword=50M020040F004)   |
 | Bumpon | 3MSJ5302 | 0.312" x 0.085" | Amazon               | [Link](https://www.amazon.com/gp/product/B01ACPT2LU/ref=ppx_yo_dt_b_asin_title_o04_s00?ie=UTF8&psc=1)   |
 | Battery | B019JQB5VS (ASIN) | 10x CR1025   | Amazon       | [Link](https://www.amazon.com/gp/product/B019JQB5VS/ref=ppx_yo_dt_b_asin_title_o05_s00?ie=UTF8&psc=1)   |
 | Mount Screws    | N/A           | M2x6mm   | Monsterbolts | [Link](https://monsterbolts.com/products/m2-socket-head-cap-screws-class-12-9-alloy-steel-w-black-oxide?variant=31159205724243)   |
