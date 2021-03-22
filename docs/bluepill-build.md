@@ -1,4 +1,6 @@
-# Build Guide for the Practice60/65 and Ortho48/60/75
+# Build Guide for the Practice60/65 V1 and Ortho48/60/75
+
+Please note this guide is for the original versions of the Practice60/65, **NOT** the Practice65 V2. Please reference the [Brutalist guide](https://docs.cannonkeys.com/brutal/brutal_build/) for the Practice65 V2, as it uses a Savage65 PCB. 
 
 These three boards are all Bluepill based. While the guide photos were taken with the Practice60, the steps still apply for the Ortho60 and Ortho48 as well.
 
