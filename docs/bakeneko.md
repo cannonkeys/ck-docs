@@ -102,7 +102,7 @@ Bakeneko PCBs come preflashed with VIA compatible firmware. But make sure the sw
 ![](images/bakeneko/29-add-keycaps.jpg)
 
 ## Backspace Fix
-For some of the early Bakeneko PCBs, "Delete" is mapped to the "Backspace" key. Here is how to easily fix it using [VIA Configurator](caniusevia.com)
+For some of the early Bakeneko PCBs, "Delete" is mapped to the "Backspace" key. Here is how to easily fix it using [VIA Configurator](https://caniusevia.com)
 
 1. Open VIA. It will look like this:
 ![](images/bakeneko/via_default.png)
