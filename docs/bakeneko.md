@@ -105,11 +105,11 @@ Bakeneko PCBs come preflashed with VIA compatible firmware. But make sure the sw
 For some of the early Bakeneko PCBs, "Delete" is mapped to the "Backspace" key. Here is how to easily fix it using [VIA Configurator](caniusevia.com)
 
 1. Open VIA. It will look like this:
-![](images/bakeneko/via_default.jpg)
+![](images/bakeneko/via_default.png)
 2. Using the Layout tab, toggle on "Split Backspace":
-![](images/bakeneko/via_split_layout.jpg)
+![](images/bakeneko/via_split_layout.png)
 3. Go back to the keymap tab, and map "Delete" to "Backspace"
-![](images/bakeneko/via_remap.jpg)
+![](images/bakeneko/via_remap.png)
 4. Backspace is now fixed!
-![](images/bakeneko/via_bs_fixed.jpg)
+![](images/bakeneko/via_bs_fixed.png)
 
