@@ -17,6 +17,7 @@ nav:
     - Firmware Guide: firmware.md
     - Default Layouts: default-layouts.md
     - Using Low Profile Sockets: sockets.md
+  - Bakeneko Build Guide: bakeneko.md
   - Stacked Kits:
     - Build Guide: stacked/stacked_build.md
     - BOMs: stacked/stacked_boms.md
