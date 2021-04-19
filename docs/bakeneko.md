@@ -23,10 +23,13 @@ Bakeneko PCBs come preflashed with VIA compatible firmware. But make sure the sw
 ## Building a Bakeneko
 1. Starting Kit:
 ![](images/bakeneko/01-kit.jpg)
-(The o-ring unfortunately did not make it into this photo)
+(Unfortunately, the o-ring and silicone feet did not make it into this photo)
+1. To help protect the painted finish: flip the keyboard over and install the 4 feet into the indents on the bottom of the case.
+![](images/bakeneko/28-install-feet.jpg)
+
 
 ### Installing the Daughterboard
-1. First, we are going to add the daughterboard to the case. Check out your daughterboard and look at how the pins are aligned. Here, they are closer to the top.
+1. We are going to add the daughterboard to the case. Check out your daughterboard and look at how the pins are aligned. Here, they are closer to the top.
 ![](images/bakeneko/02-daughterboard.jpg)
 1. Check out your JST cable, and make sure the holes will align with the daughterboard pins.
 ![](images/bakeneko/03-jstcable.jpg)
@@ -81,7 +84,7 @@ Bakeneko PCBs come preflashed with VIA compatible firmware. But make sure the sw
 ### Connecting the PCB
 
 !!! Note
-    Be careful here! JST connectors can sometimes be delicate, so use caution and be sure not to break it off your PCB!
+    Be careful here! JST connectors can sometimes be delicate, so use caution and be sure not to break it off your PCB! CannonKeys will not be responsible for damages that occur due to forces applied to your JST connector!
 
 1. Now we need to connect the PCB to the daughterboard. Ensuring that the JST cable is aligned with the JST connector on the PCB, insert the cable into the connector.
 ![](images/bakeneko/22-jst-pcb.jpg)
@@ -96,8 +99,6 @@ Bakeneko PCBs come preflashed with VIA compatible firmware. But make sure the sw
 ![](images/bakeneko/26-oring-tucked.jpg)
 1. Push the PCB/Plate assembly down. You should feel some of the O-ring friction as you do this. It will end up resting on the posts in the case.
 ![](images/bakeneko/27-pushed-down.jpg)
-1. Flip the keyboard over and install the 4 feet into the indents on the bottom of the case.
-![](images/bakeneko/28-install-feet.jpg)
 1. Add keycaps and ENJOY!
 ![](images/bakeneko/29-add-keycaps.jpg)
 
