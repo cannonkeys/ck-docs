@@ -62,6 +62,6 @@ These models are provided under a [Creative Commons Attribution 4.0 Internationa
 * [Savage65](assets/pcb_step/Savage65PCB_model.zip)
 * [Obliterated75](assets/pcb_step/Obliterated75PCB_model.zip)
 * [DevastatingTKL](assets/pcb_step/devastatingTKLPCB_model.zip)
-* [Rekt1800](assets/pcb_step/rek1800PCB_model.zip)
+* [Rekt1800](assets/pcb_step/rekt1800PCB_model.zip)
 
 [![License: CC BY 4.0](https://licensebuttons.net/l/by/4.0/80x15.png)](https://creativecommons.org/licenses/by/4.0/)
