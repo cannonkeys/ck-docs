@@ -8,7 +8,8 @@ repo_url: 'https://github.com/cannonkeys/ck-docs'
 markdown_extensions:
   - admonition
 nav:
-  - Home: index.md
+  - Back to Cannonkeys: 'https://cannonkeys.com'
+  - Docs Home: index.md
   - Bluepill Kits:
     - Build Guide: bluepill-build.md
     - Testing your Bluepill: bluepill-test.md
@@ -35,6 +36,7 @@ nav:
   - Chimera65:
     - Build Guide: chimera65/build_guide.md 
     - Flashing Guide: chimera65/flashing.md
+  - Bakeneko Build Guide: bakeneko.md
   - Resources: resources.md
 
 extra:
