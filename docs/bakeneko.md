@@ -114,3 +114,16 @@ For some of the early Bakeneko PCBs, "Delete" is mapped to the "Backspace" key. 
 4. Backspace is now fixed!
 ![](images/bakeneko/via_bs_fixed.png)
 
+## Spacebar Fix
+For some of the Bakeneko PCBs (db60), there is an issue in rebinding the spacebar within [VIA](https://caniusevia.com). Here is the fix for the issue.
+
+1. Download the [.json](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/the-via/keyboards/blob/master/src/cannonkeys/db60/db60.json)
+2. Open the file in a text editor, and change every occurrence of `4,5` to `4,6`
+![](images/bakeneko/space-fix-editor.png)
+3. Save the document, and open Via.
+4. Once in via, go to the design tab. Click the load button, and open the .json you just saved.
+![](images/bakeneko/space-fix-load.png)
+5. Once loaded, your screen should show the keyboard matrix like this.
+![](images/bakeneko/space-fix-preview.png)
+6. Once that is done, click on the configurator tab on the top left of VIA. You should now be able to edit your keymap as you wish.
+![](images/bakeneko/space-fix-final.png)
