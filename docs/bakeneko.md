@@ -103,7 +103,10 @@ Bakeneko PCBs come preflashed with VIA compatible firmware. But make sure the sw
 ![](images/bakeneko/29-add-keycaps.jpg)
 
 ## Backspace Fix
-For some of the early Bakeneko PCBs, "Delete" is mapped to the "Backspace" key. Here is how to easily fix it using [VIA Configurator](https://caniusevia.com)
+For some of the early Bakeneko PCBs, "Delete" is mapped to the "Backspace" key. Here is how to easily fix it using [VIA Configurator](https://caniusevia.com).
+
+!!! Note
+	Before applying any of these fixes, make sure you are on the most recent version of VIA. [Latest version available here.](https://github.com/the-via/releases/releases/latest)
 
 1. Open VIA. It will look like this:
 ![](images/bakeneko/via_default.png)
@@ -114,6 +117,7 @@ For some of the early Bakeneko PCBs, "Delete" is mapped to the "Backspace" key. 
 4. Backspace is now fixed!
 ![](images/bakeneko/via_bs_fixed.png)
 
+
 ## Spacebar Fix
 For some of the Bakeneko PCBs (db60), there is an issue in rebinding the spacebar within [VIA](https://caniusevia.com). Here is the fix for the issue.
 
@@ -122,6 +126,10 @@ For some of the Bakeneko PCBs (db60), there is an issue in rebinding the spaceba
 ![](images/bakeneko/space-fix-editor.png)
 3. Save the document, and open Via.
 4. Once in via, go to the design tab. Click the load button, and open the .json you just saved.
+
+!!! Note 
+	If you do not see a design tab, go to the settings tab and toggle it.
+	
 ![](images/bakeneko/space-fix-load.png)
 5. Once loaded, your screen should show the keyboard matrix like this.
 ![](images/bakeneko/space-fix-preview.png)
