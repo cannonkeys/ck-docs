@@ -93,7 +93,7 @@ Bakeneko PCBs come preflashed with VIA compatible firmware. But make sure the sw
 ![](images/bakeneko/25-jst-tuck.jpeg)
 
 ### Final Assembly
-1. Tuck the o-ring into the inside of the case. You may need to apply some downward pressure in order to do this. The o-ring uses friction to hold the PCB/Plate assembly in.
+1. Tuck the o-ring into the inside of the case, paying close attention to the backspace stabilizer (you need to tuck the o-ring in around the entire assembly, but the backspace stabilizer area will be extra tight). You may need to apply some downward pressure in order to do this. The o-ring uses friction to hold the PCB/Plate assembly in.
 ![](images/bakeneko/26-oring-tucked.jpeg)
 1. Push the PCB/Plate assembly down. You should feel some of the O-ring friction as you do this. It will end up resting on the posts in the case.
 ![](images/bakeneko/27-pushed-down.jpeg)
