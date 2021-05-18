@@ -52,7 +52,7 @@ Bakeneko PCBs come preflashed with VIA compatible firmware. But make sure the sw
 ![](images/bakeneko/09-wire-clipped.jpeg)
 1. Repeat the process for the other side and finish assembling your stabilizer.
 ![](images/bakeneko/10-stab-assembled.jpeg)
-1. Repeat the process for all of the other stabilizers. (Note: The red stuff you see is lube)
+1. Repeat the process for all of the other stabilizers.
 ![](images/bakeneko/11-all-stabs.jpeg)
 
 ### Preparing the PCB/Plate Assembly
@@ -60,9 +60,9 @@ Bakeneko PCBs come preflashed with VIA compatible firmware. But make sure the sw
 ![](images/bakeneko/12-stabs-installed.jpeg)
 1. Before inserting any switches, make sure the pins are straight.
 ![](images/bakeneko/13-straight-pins.jpeg)
-1. Now we are going to add switches to our PCB. Insert 6 or so switches along the outside of the plate, then place the plate ontop of the PCB and push the switches in.
+1. Now we are going to add switches to our PCB. Insert 6 or so switches along the outside of the plate, then place the plate ontop of the PCB. Don't push switches in yet.
 ![](images/bakeneko/15-switch-plate-insert.jpeg)
-1. Now that we know pins are straight, line them up on the PCB, making sure the plate stays level. If the plate slides down on the switch, you can pull it back up, ensuring the switches are clipped in properly.
+1. Now that we know pins are straight and the plate is ontop of the PCB, line up the switch pins to the socket and push in while supporting the socket from the bottom. If the plate slides down on the switch, you can pull it back up, ensuring the switches are clipped in properly.
 ![](images/bakeneko/14-switch-plate.gif)
 
 !!! Note
@@ -89,7 +89,7 @@ Bakeneko PCBs come preflashed with VIA compatible firmware. But make sure the sw
 ![](images/bakeneko/22-jst-pcb.jpeg)
 1. Flip the PCB over horizontally to orient it properly. Be sure not to cause any stress to the JST cable or connectors as you do this.
 ![](images/bakeneko/23-pcb-flip.jpeg)
-1. Tuck the JST cable under the PCB
+1. Tuck the JST cable under the PCB and lower the assembly.
 ![](images/bakeneko/25-jst-tuck.jpeg)
 
 ### Final Assembly
