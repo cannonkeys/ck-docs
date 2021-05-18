@@ -59,11 +59,11 @@ Bakeneko PCBs come preflashed with VIA compatible firmware. But make sure the sw
 ### Preparing the PCB/Plate Assembly
 1. Install all the stabilizers into the PCB. The front of the stabilizer should go into the larger holes, allowing the back to clip into the smaller ones.
 ![](images/bakeneko/12-stabs-installed.jpeg)
-1. Add the plate to the assembly. It should fit easily over the stabilizers.
-![](images/bakeneko/13-straight pins.jpeg)
-1. Now we are going to add switches to our PCB. Ensure our switch pins are straight.
+1. Before inserting any switches, make sure the pins are straight.
+![](images/bakeneko/13-straight-pins.jpeg)
+1. Now we are going to add switches to our PCB.
 ![](images/bakeneko/14-switch-plate.gif)
-1. Align the switch pins with the holes of the hotswap socket in the PCB. Press straight down to install the switch. Be sure the hotswap socket is supported from below to avoid any potential breakage.
+1. Now that we know pins are straight, line them up on the PCB, making sure the plate stays level. If the plate slides down on the switch, you can pull it back up, ensuring the switches are clipped in properly.
 ![](images/bakeneko/15-switch-plate-insert.jpeg)
 
 !!! Note
