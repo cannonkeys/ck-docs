@@ -22,21 +22,21 @@ Bakeneko PCBs come preflashed with VIA compatible firmware. But make sure the sw
 
 ## Building a Bakeneko
 1. Starting Kit:
-![](images/bakeneko/01-kit.jpg)
+![](images/bakeneko/01-kit.jpeg)
 (Unfortunately, the o-ring and silicone feet did not make it into this photo)
 1. To help protect the painted finish: flip the keyboard over and install the 4 feet into the indents on the bottom of the case.
-![](images/bakeneko/28-install-feet.jpg)
+![](images/bakeneko/28-install-feet.jpeg)
 
 
 ### Installing the Daughterboard
 1. We are going to add the daughterboard to the case. Check out your daughterboard and look at how the pins are aligned. Here, they are closer to the top.
-![](images/bakeneko/02-daughterboard.jpg)
+![](images/bakeneko/02-daughterboard.jpeg)
 1. Check out your JST cable, and make sure the holes will align with the daughterboard pins.
-![](images/bakeneko/03-jstcable.jpg)
+![](images/bakeneko/03-jstcable.jpeg)
 1. Insert the JST cable into the daughterboard, keeping in mind the holes of the cable need to align with the pins on the DB.
-![](images/bakeneko/04-jstindb.jpg)
+![](images/bakeneko/04-jstindb.jpeg)
 1. Using the 4 M2 screws and hex key, screw the daughterboard into the Bakeneko case. Set the case/DB assembly aside.
-![](images/bakeneko/05-db-installed.jpg)
+![](images/bakeneko/05-db-installed.jpeg)
 
 ### Preparing your Stabilizers
 
@@ -44,42 +44,42 @@ Bakeneko PCBs come preflashed with VIA compatible firmware. But make sure the sw
     If you've never prepared stabilizers before, it may be easier to watch a [video guide](https://www.youtube.com/watch?v=usNx1_d0HbQ) on stabilizers before continuing. We always recommend clipping and lubing stabilizers before using them in a build!
 
 1. Align your stabilizer stem so that the portion with 2 holes is facing outwards.
-![](images/bakeneko/06-stab-stem.jpg)
+![](images/bakeneko/06-stab-stem.jpeg)
 1. The 2 holes in the stem will face out of this hole in the housing.
-![](images/bakeneko/07-stab-housing.jpg)
+![](images/bakeneko/07-stab-housing.jpeg)
 1. Put the stem in the housing. Notice how you can see both holes here. (Or rather - the little plastic piece separating the holes)
-![](images/bakeneko/08-stem-in-housing.jpg)
+![](images/bakeneko/08-stem-in-housing.jpeg)
 1. Insert the stab wire into the bottom hole and clip the wire into the stabilizer housing. If you're having trouble with this step, watch the video linked above!
-![](images/bakeneko/09-wire-clipped.jpg)
+![](images/bakeneko/09-wire-clipped.jpeg)
 1. Repeat the process for the other side and finish assembling your stabilizer.
-![](images/bakeneko/10-stab-assembled.jpg)
+![](images/bakeneko/10-stab-assembled.jpeg)
 1. Repeat the process for all of the other stabilizers. (Note: The red stuff you see is lube)
-![](images/bakeneko/11-all-stabs.jpg)
+![](images/bakeneko/11-all-stabs.jpeg)
 
 ### Preparing the PCB/Plate Assembly
 1. Install all the stabilizers into the PCB. The front of the stabilizer should go into the larger holes, allowing the back to clip into the smaller ones.
-![](images/bakeneko/12-stabs-installed.jpg)
+![](images/bakeneko/12-stabs-installed.jpeg)
 1. Add the plate to the assembly. It should fit easily over the stabilizers.
-![](images/bakeneko/13-add-plate.jpg)
+![](images/bakeneko/13-straight pins.jpeg)
 1. Now we are going to add switches to our PCB. Ensure our switch pins are straight.
-![](images/bakeneko/14-straight-pins.jpg)
+![](images/bakeneko/14-switch-plate.gif)
 1. Align the switch pins with the holes of the hotswap socket in the PCB. Press straight down to install the switch. Be sure the hotswap socket is supported from below to avoid any potential breakage.
-![](images/bakeneko/15-align-pins.jpg)
+![](images/bakeneko/15-switch-plate-insert.jpeg)
 
 !!! Note
     Be sure to support the hotswap socket from below when installing switches! CannonKeys will not be responsible for damages that occur if this is not done.
 
 5. When installed, the switch will look like this:
-![](images/bakeneko/16-switch-installed.jpg)
+![](images/bakeneko/16-switch-edge.jpeg)
 6. Finish installing the rest of the switches:
-![](images/bakeneko/17-all-switches.jpg)
+![](images/bakeneko/17-all-switches.jpeg)
 
 ### Installing the O-ring
 1. Now we'll install the O-ring. Follow these visual steps. The o ring is stretchy so don't be afraid to stretch it!
-![](images/bakeneko/18-oring-start.jpg)
-![](images/bakeneko/19-oring-align.jpg)
-![](images/bakeneko/20-oring-stretch.jpg)
-![](images/bakeneko/21-oring-installed.jpg)
+![](images/bakeneko/18-oring-start.jpeg)
+![](images/bakeneko/19-oring-align.jpeg)
+![](images/bakeneko/20-oring-stretch.jpeg)
+![](images/bakeneko/21-oring-installed.jpeg)
 
 ### Connecting the PCB
 
@@ -87,20 +87,19 @@ Bakeneko PCBs come preflashed with VIA compatible firmware. But make sure the sw
     Be careful here! JST connectors can sometimes be delicate, so use caution and be sure not to break it off your PCB! CannonKeys will not be responsible for damages that occur due to forces applied to your JST connector!
 
 1. Now we need to connect the PCB to the daughterboard. Ensuring that the JST cable is aligned with the JST connector on the PCB, insert the cable into the connector.
-![](images/bakeneko/22-jst-pcb.jpg)
+![](images/bakeneko/22-jst-pcb.jpeg)
 1. Flip the PCB over horizontally to orient it properly. Be sure not to cause any stress to the JST cable or connectors as you do this.
-![](images/bakeneko/23-pcb-flip.jpg)
-![](images/bakeneko/24-post-flip.jpg)
+![](images/bakeneko/23-pcb-flip.jpeg)
 1. Tuck the JST cable under the PCB
-![](images/bakeneko/25-jst-tuck.jpg)
+![](images/bakeneko/25-jst-tuck.jpeg)
 
 ### Final Assembly
 1. Tuck the o-ring into the inside of the case. You may need to apply some downward pressure in order to do this. The o-ring uses friction to hold the PCB/Plate assembly in.
-![](images/bakeneko/26-oring-tucked.jpg)
+![](images/bakeneko/26-oring-tucked.jpeg)
 1. Push the PCB/Plate assembly down. You should feel some of the O-ring friction as you do this. It will end up resting on the posts in the case.
-![](images/bakeneko/27-pushed-down.jpg)
+![](images/bakeneko/27-pushed-down.jpeg)
 1. Add keycaps and ENJOY!
-![](images/bakeneko/29-add-keycaps.jpg)
+![](images/bakeneko/29-add-keycaps.jpeg)
 
 ## Backspace Fix
 For some of the early Bakeneko PCBs, "Delete" is mapped to the "Backspace" key. Here is how to easily fix it using [VIA Configurator](https://caniusevia.com).
