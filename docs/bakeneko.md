@@ -23,7 +23,6 @@ Bakeneko PCBs come preflashed with VIA compatible firmware. But make sure the sw
 ## Building a Bakeneko
 1. Starting Kit:
 ![](images/bakeneko/01-kit.jpeg)
-(Unfortunately, the o-ring and silicone feet did not make it into this photo)
 1. To help protect the painted finish: flip the keyboard over and install the 4 feet into the indents on the bottom of the case.
 ![](images/bakeneko/28-install-feet.jpeg)
 
@@ -61,18 +60,18 @@ Bakeneko PCBs come preflashed with VIA compatible firmware. But make sure the sw
 ![](images/bakeneko/12-stabs-installed.jpeg)
 1. Before inserting any switches, make sure the pins are straight.
 ![](images/bakeneko/13-straight-pins.jpeg)
-1. Now we are going to add switches to our PCB.
-![](images/bakeneko/14-switch-plate.gif)
-1. Now that we know pins are straight, line them up on the PCB, making sure the plate stays level. If the plate slides down on the switch, you can pull it back up, ensuring the switches are clipped in properly.
+1. Now we are going to add switches to our PCB. Insert 6 or so switches along the outside of the plate, then place the plate ontop of the PCB and push the switches in.
 ![](images/bakeneko/15-switch-plate-insert.jpeg)
+1. Now that we know pins are straight, line them up on the PCB, making sure the plate stays level. If the plate slides down on the switch, you can pull it back up, ensuring the switches are clipped in properly.
+![](images/bakeneko/14-switch-plate.gif)
 
 !!! Note
     Be sure to support the hotswap socket from below when installing switches! CannonKeys will not be responsible for damages that occur if this is not done.
 
-5. When installed, the switch will look like this:
+5. Now that we have some switches in, go along the border and continue inserting switches. Like the first ones, make sure to support the hotswap sockets, and make sure the plate stays level.
 ![](images/bakeneko/16-switch-edge.jpeg)
-6. Finish installing the rest of the switches:
-![](images/bakeneko/17-all-switches.jpeg)
+6. Finish installing the rest of the switches.
+![](images/bakeneko/17-all-switches.jpg)
 
 ### Installing the O-ring
 1. Now we'll install the O-ring. Follow these visual steps. The o ring is stretchy so don't be afraid to stretch it!
