@@ -20,9 +20,9 @@
 
 #### Suggested test order
 
-- [ ] Test USB cable/port
-- [ ] Check PCB switch (0/1)
-- [ ] Check loose connections (JST/USB)
+- Test USB cable/port
+- Check PCB switch (0/1)
+- Check loose connections (JST/USB)
 
 #### Cause 1: PCB not getting enough power from the connection.
 
@@ -43,8 +43,8 @@ Grab a new basic cable (ie: not a custom coiled cable/artisa cable), and try plu
     
 
   
-
-!!! Note  All brutalist series PCBs, Instant60/65, AN-C v2, DB60 (bakeneko PCB), Satisfaction75, Chimera65, and most if not all CK designed PCBs will have this switch on them.
+!!! Note
+    All brutalist series PCBs, Instant60/65, AN-C v2, DB60 (bakeneko PCB), Satisfaction75, Chimera65, and most if not all CK designed PCBs will have this switch on them.
 
   
 
@@ -72,7 +72,8 @@ Occasionally, the switch on the back of the PCB gets switched on accident, or it
 -   JST connection: Make sure the JST cable is properly seated, and all the pins on the JST female ports are soldered in place.
     
 
--   Note: when inserting the JST cable into the connector, support the JST female header by holding it while they plug in the JST cable. The ports can be delicate, and while they can sometimes be reattached, that is not an ideal situation to be in.
+!!! Note
+    When inserting the JST cable into the connector, support the JST female header by holding it while they plug in the JST cable. The ports can be delicate, and while they can sometimes be reattached, that is not an ideal situation to be in.
     
 ![](images/troubleshooting/jst-cable-and-header.jpg)
 
@@ -98,19 +99,20 @@ Right image: JST header (female), where the JST cable plugs into. The daughterbo
 
 #### Suggested test order (Hotswap)
 
-- [ ] Check for bent switch pin
-- [ ] Check for loose hotswap socket
-- [ ] Check leaf contact
+- Check for bent switch pin
+- Check for loose hotswap socket
+- Check leaf contact
 
-!!! Note If none of the above, continue into solderable PCB flow
+!!! Note
+    If none of the above, continue into solderable PCB flow
     
 
 #### Suggested test order (Solderable)
 
-- [ ] Check for key binding issue
-- [ ] Check for missing diode  
-- [ ] Check for poor solder joint
-- [ ] Check for pulled pad
+- Check for key binding issue
+- Check for missing diode  
+- Check for poor solder joint
+- Check for pulled pad
     
 
  --- 
