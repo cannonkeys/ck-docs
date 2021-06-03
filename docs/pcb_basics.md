@@ -51,7 +51,9 @@ There are a handful of major components to a PCB. Not all PCBs will have each of
 
 Regardless of manufacturer, price, or experience, it is always recommended to test your PCB before doing anything else. This is commonly done by shorting (connecting) the two switch pin pads using metal tweezers. It is recommended to use a [keyboard tester](https://www.keyboardtester.com/) while doing this, to make sure everything is triggering correctly. If you’re using VIA, there is a keytester built-in.
 
-!!! Note Not all keys will show up in keytesters. Layer keys will not show up. Occasionally due to your OS settings, the windows key might not show up as well.
+
+!!! Note
+    Not all keys will show up in keytesters. Layer keys will not show up. Occasionally due to your OS settings, the windows key might not show up as well.
 
  ![](images/pcb_basics/hotswap-and-solder-test.png) 
 
@@ -59,7 +61,8 @@ Regardless of manufacturer, price, or experience, it is always recommended to te
 
 We won’t get too in depth here, but here are some quick bullets to help you understand the basics.
 
-!!! Note Here is a [lovely guide](https://learn.adafruit.com/adafruit-guide-excellent-soldering) that covers most of the basics, as well as potential errors.
+!!! Note
+    Here is a [lovely guide](https://learn.adafruit.com/adafruit-guide-excellent-soldering) that covers most of the basics, as well as potential errors. 
 
 -   Temperature is important. It’s recommended to start at a lower temperature when learning, then move up to a higher temperature once you have more experience.
     
