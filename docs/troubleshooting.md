@@ -283,7 +283,6 @@ Symptoms of this include device not powering on when plugged in, or the device d
 
 #### Solution: Download and flash the relevant firmware. [Link.](https://www.dropbox.com/sh/sxv7h36hbq2qkmu/AABp7AveLqB1CQwK7rWSTewYa?dl=0)
 
- ~~Some CannonKeys PCBs, among others, have lighting issues due to a bug in QMK. Please download firmware from the above [link](https://www.dropbox.com/sh/sxv7h36hbq2qkmu/AABp7AveLqB1CQwK7rWSTewYa?dl=0), flash it, and load up VIA. Your issues should now hopefully be solved.~~
 
 ***This bug has been fixed, and applied to the current QMK Master. You can now compile firmware on the latest QMK build and your problem should be fixed.***
 
