@@ -17,6 +17,7 @@ nav:
     - PCB Basics: pcb_basics.md
     - Removing PCB Rails: removing_pcb_rails.md
     - Raffle Queue: raffle-queue.md
+  - Bakeneko Build Guide: bakeneko.md
   - Bluepill Kits:
     - Build Guide: bluepill-build.md
     - Testing your Bluepill: bluepill-test.md
@@ -39,7 +40,6 @@ nav:
   - Chimera65:
     - Build Guide: chimera65/build_guide.md 
     - Flashing Guide: chimera65/flashing.md
-  - Bakeneko Build Guide: bakeneko.md
 
 extra:
   social:
