@@ -52,9 +52,9 @@ Occasionally, the switch on the back of the PCB gets switched on accident, or it
 
   
 
-![](https://lh4.googleusercontent.com/FVuciE66DtjNFm1o5QPfQJhzwrgPkpVe4qEyGet9aQY7Sof7ND3BF_qiTGylcjRT3TCIbQhV9VcpZtTGYio4xRqxFbIEpb-KXwtEMkKU1hw4pHzgCLUOtvyXJMi_P-VWdjP1RLrv)
+![](images/troubleshooting/switch-0-1.jpg)
 
-Above image shows an example of a PCB switch in the 0 position for use.
+*Above image shows an example of a PCB switch in the 0 position for use.*
 
 ---  
   
@@ -74,13 +74,15 @@ Above image shows an example of a PCB switch in the 0 position for use.
 
 -   Note: when inserting the JST cable into the connector, support the JST female header by holding it while they plug in the JST cable. The ports can be delicate, and while they can sometimes be reattached, that is not an ideal situation to be in.
     
-![enter image description here](https://i.imgur.com/c11cXkH.jpg)
+![](images/troubleshooting/jst-cable-and-header.jpg)
+
 *Left image: Male JST end with no issues. Each end of the JST cable will have one of these connectors. Color of wires may vary.
 Right image: JST header (female), where the JST cable plugs into. The daughterboard will have one of these, as well as the PCB.*
 
   
 
-![](https://lh6.googleusercontent.com/IEkDFNHxkwyW0Ad09DbxvCuolOVVdo4v4M8j9zrFLTDJVkNemHNSLzwcaGGSwdXxDdXN4ueXkVAjRzz0kEMlXguFuG03iXkU27b1ySbaCHnQfT_kZdmTu03cdZ4g7mEjeVTNNHYg)
+![](images/troubleshooting/05-db-installed.jpeg)
+
 *Above image shows a properly seated JST cable inserted into the female port of a daughterboard. Note how far the cable is inserted, as well as how it is evenly inserted.* 
 
 ----
@@ -127,7 +129,8 @@ Right image: JST header (female), where the JST cable plugs into. The daughterbo
 
 Pins can bend when inserting a switch into a socket, and when removed you will be able to clearly see one of the pins bent. Straighten it with pliers gently, and then put back into the socket.
 
-![Straight pins on left, bent pins on right](https://i.imgur.com/YqaVinb.jpg)
+![](images/troubleshooting/switch-pin-straight-and-bent.jpg)
+
 *Left image: A lavender switch with straight pins.
 Right image: A lavender switch with a bent pin.*
 
@@ -152,7 +155,8 @@ With the switch still in the socket, look closely at the hotswap socket, and man
 
   
 
-![](https://lh5.googleusercontent.com/cxNMAqns2FGzDXovqgQjjQcXf1viGpdZlHZr7afg0IaEp1nAAhzXPvpIzXgJytzSzyBt1fytVogUGAgFj3rF-EG8sOTS6N6lRj1RUX61ZjQWvzwG12vbIXP5rfq2i3BjaMjKLis3)
+![](images/troubleshooting/socket-leaf-fix.png)
+
 *In the above image, each switch socket is circled in blue. The goal is to manipulate the leaves (red lines) to make contact with the switch pin (green).*
 
   ---
@@ -187,7 +191,8 @@ It is very easy to accidentally bind a key to a transparent key, or another key 
 
   
 
-![](https://lh6.googleusercontent.com/drUreixxwcrZQrM8aH5_UoB2mz_bdGUuh_PLOfSDVA4DQlfGVKeUxf1OIPoCtjKM-LFJDtI1-J83DZ8oycP_M560VV4DGNfYB16SvZyyQ1RjFjFq-hSLTFTMPJm5Hoy7pyHUd1-f)
+![](images/troubleshooting/key-examples-via.png)
+
 *Above image shows different keymapings that will not be seen in common keytesters, and will potentially cause issues. From left to right: blank key (no binding), transparent, layer key.*
 
   ---
@@ -210,7 +215,8 @@ Put simply, diodes are needed for keypresses to register. Every single switch ne
 
   
 
-![](https://lh6.googleusercontent.com/WRbhSbfeXQyLq3ATLu-_scyy2PvKV5ygZfuwmlpkfQ-iUg50rICMdaQUpB2HXfY8J7A7mVbVFyy-08QATt0XRUPRlv17cc73-04-vHvAwZ-DNvCKFGfok55X57uDO1XWHWQUiqPe)
+![](images/troubleshooting/diode-circle.png)
+
 *Above image shows a PCB with diodes circled in blue.*
   
 ---
@@ -246,7 +252,8 @@ A bridge is when you take a wire, and connect one pin to another pin. This bridg
 
   
 
-![](https://lh3.googleusercontent.com/6DrmRREgyP0f5-mz0KPGrTLgzRTBzLT1YdCf6BpX2lHjm82xkZWgzAh_tHQwsououFCQDfI52Ksnj89xUcvdWCUlWVyF3mkdxewTV2TWH01J3wwA4DGtKptvhAVGS6vJDIHH2c3H)
+![](images/troubleshooting/bridge-example-small.jpg)
+
 *Above image shows an example of a switch bridge.
 Helpful YouTube video: [Video Link.](https://youtu.be/N5IivDkrp6U)*
 
@@ -303,7 +310,7 @@ Here are some things to try:
 
   
 
-![](https://lh3.googleusercontent.com/XFRK91FbmjSAr1JrOE4nBYHlwM4z0Fg5_bBfmlgiZkqwUOi6T7gWsjs-oOWpd8WYRkS1MK619LAJnmjlcq9FTTr0V13Pt8cHQhWjgAJxnkLoekltGoh_Nb7bs9IlG2ztF4zOGxzk)
+![](images/troubleshooting/diode-resistor-circle.png)
 *Above image shows diodes (circled in blue), and resistors (circled in green. The square and circle through holes south of switch cutouts are for single color LEDs.* 
 
 
