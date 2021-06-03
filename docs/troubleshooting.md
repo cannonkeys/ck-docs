@@ -297,8 +297,9 @@ Symptoms of this include device not powering on when plugged in, or the device d
 #### Solution: The solution will vary.
 
   
+Per-key LEDs/single LEDs are wired individually, and rely on the resistors to function correctly. If a resistor is missing, that is most likely the cause for the malfunctioning LED.
 
-LEDs are generally wired in a series, which means if there are 4 LEDs in a row, and the second LED in the line doesn’t work, the third and fourth LED will also not work. This means that all it takes is one malfunctioning LED to take out all the ones behind it. 
+LED strips are generally wired in a series, which means if there are 4 LEDs in a row, and the second LED in the line doesn’t work, the third and fourth LED will also not work. This means that all it takes is one malfunctioning LED to take out all the ones behind it. 
 
 Here are some things to try:
 
@@ -306,7 +307,7 @@ Here are some things to try:
     
 -   Check for poor solder joints
     
--   Check for a missing diode or resistor
+-   Check for a missing resistor
     
 
   
@@ -314,5 +315,6 @@ Here are some things to try:
 ![](images/troubleshooting/diode-resistor-circle.png)
 *Above image shows diodes (circled in blue), and resistors (circled in green. The square and circle through holes south of switch cutouts are for single color LEDs.* 
 
+---
 
 *If you have suggestions or corrections for this guide, please feel free to reach out in the [CannonKeys Discord](https://discord.gg/Jm3sN7N6SN) and let us know in the suggestion channel*
