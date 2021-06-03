@@ -1,5 +1,5 @@
 ## PCB Basics and Troubleshooting
-![](https://lh5.googleusercontent.com/cCSCp7iFm6DB2mSQQ1q2ZHDl_faU4Q8QIZ71M7DQByJ4VGMUBXdMBS7dU2A1q7mqxX_IQ3xmMqa6Il6Bx8iL6AMyq6ZMmQv-9wB1zRfM3OmNaxGujCVKkeWwALKWK2QFjvXC3ZVf)
+![](images/pcb_basics/pcb_angle_crop.jpg)
 
   
 
@@ -31,7 +31,7 @@ There are a handful of major components to a PCB. Not all PCBs will have each of
     
 
   
- ![](https://lh4.googleusercontent.com/AMjuKhgYxVqVNRsiYkaVB-g8gQq-KiUF7qz39E3tJOA7okZQst5ZE23DNjRA05Xsx9fQFm8XMNw9hVyniqrPvzh3Sam7X5t-mNRNThys3eLdplv1JPfZOQ1Yn8dgjkzDQ94Bz2K_)
+ ![](images/pcb_basics/pcb-diagram-colored.jpg)
 
  - Color guide
 	-   Orange: where metal switch pins are inserted  
@@ -41,7 +41,7 @@ There are a handful of major components to a PCB. Not all PCBs will have each of
     -   Red: Where LED pins are inserted (generally square is negative, circle is positive)
     
 
-![](https://lh6.googleusercontent.com/Pps5smdumQmcCgY5uq-sLz4RHuuGYnI36ud3VVuMyD21oPphM5P-nZF7TaEzaI5y-LC3X9YRnY348D8b_Rl_7mIqrCfZkeEeRYcTyquy6gBiSoG-MIiK2X1gAbOAQFdAHBsJSUo9)
+![](images/pcb_basics/diode-resistor-circle.png)
 
  - Color guide
 	 - Blue circle: Diode
@@ -53,7 +53,7 @@ Regardless of manufacturer, price, or experience, it is always recommended to te
 
 !!! Note Not all keys will show up in keytesters. Layer keys will not show up. Occasionally due to your OS settings, the windows key might not show up as well.
 
- ![testing a hotswap and solderable pcb](https://i.imgur.com/8q57tYj.jpg) 
+ ![](images/pcb_basics/hotswap-and-solder-test.png) 
 
 ## Soldering a PCB
 
