@@ -299,7 +299,7 @@ Symptoms of this include device not powering on when plugged in, or the device d
   
 Per-key LEDs/single LEDs are wired individually, and rely on the resistors to function correctly. If a resistor is missing, that is most likely the cause for the malfunctioning LED.
 
-LED strips are generally wired in a series, which means if there are 4 LEDs in a row, and the second LED in the line doesn’t work, the third and fourth LED will also not work. This means that all it takes is one malfunctioning LED to take out all the ones behind it. 
+LED strips as well as certain LED underglow are generally wired in a series, which means if there are four LEDs in a row, and the second LED in the line doesn’t work, the third and fourth LED will also not work. This means that all it takes is one malfunctioning LED to take out all the ones behind it. 
 
 Here are some things to try:
 
