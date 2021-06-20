@@ -12,7 +12,7 @@ Occasionally a keyboard has support for VIA, but has not yet been added into the
 
  - Open VIA
  - On the top right of the VIA interface, press the settings tab
- - Toggle the Show design tab
+ - Toggle the show design tab
  - Click the new design tab, and load in the .json you downloaded
  
  
@@ -35,7 +35,7 @@ Occasionally a keyboard has support for VIA, but has not yet been added into the
 
 **Bonus Step**
 
- - To view multiple layers, click on the layer button in the top left of the interface to navigate between all your layers
+ - To view different layers, click on the layer button in the top left of the interface to navigate between all your layers. You can only view one layer at a time.
 
 
 ![keymap shown multiple layers](images/via-json/04-keebs-rgb-keymap.png)
