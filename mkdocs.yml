@@ -27,6 +27,7 @@ nav:
     - Adding RGB Underglow: rgb_underglow.md
     - Removing PCB Rails: removing_pcb_rails.md
     - Raffle Queue: raffle-queue.md
+    - VIA .json Loading: via-json-loading.md
   - Instant60: instant60.md
   - AN-C: an_c.md
   - Satisfaction75:
@@ -45,3 +46,4 @@ extra:
       link: 'https://github.com/cannonkeys'
     - type: 'instagram'
       link: 'https://www.instagram.com/cannon.keys/'
+      
