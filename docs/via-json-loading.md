@@ -35,7 +35,7 @@ Occasionally a keyboard has support for VIA, but has not yet been added into the
 
  ![via keymap opened](images/via-json/03-keebs-config-last.png)
 
-**Bonus Step**
+**Bonus Steps**
 
  - To view different layers, click on the layer button in the top left of the interface to navigate between all your layers. You can only view one layer at a time.
  - To change lighting effects and colors, click the lighting tab in the bottom left of the interface.
