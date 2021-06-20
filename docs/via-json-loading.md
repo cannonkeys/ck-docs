@@ -38,6 +38,7 @@ Occasionally a keyboard has support for VIA, but has not yet been added into the
 **Bonus Step**
 
  - To view different layers, click on the layer button in the top left of the interface to navigate between all your layers. You can only view one layer at a time.
+ - To change lighting effects and colors, click the lighting tab in the bottom left of the interface.
 
 
 ![keymap shown multiple layers](images/via-json/04-keebs-rgb-keymap.png)
