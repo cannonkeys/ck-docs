@@ -27,7 +27,7 @@ nav:
     - Adding RGB Underglow: rgb_underglow.md
     - Removing PCB Rails: removing_pcb_rails.md
     - Raffle Queue: raffle-queue.md
-    - VIA .json loading: via-json-loading.md
+    - VIA .json Loading: via-json-loading.md
   - Instant60: instant60.md
   - AN-C: an_c.md
   - Satisfaction75:
