@@ -8,6 +8,8 @@ Occasionally a keyboard has support for VIA, but has not yet been added into the
  - [Keebs RGB PCB .json](assets/keebsrgb.json) 
 	 - *If you are using this guide for a different PCB, you will need the .json for that specific keyboard*
 
+---
+
 **Step 1: Open VIA**
 
  - Open VIA
