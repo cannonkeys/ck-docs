@@ -21,7 +21,7 @@ PCBs in Stacked kits come preflashed with VIA compatible firmware. But make sure
 ![](../images/stacked/06-assemble-stabs.jpg)
 1. Clip some switches in around the outside and middle of your plate.
 ![](../images/stacked/07-switches-in-plate.jpg)
-1. Put plate ontop of pcb and push switches into pcb, making sure they are completely and evenly inserted. Start adding switches to plate.
+1. Put plate on top of pcb and push switches into pcb, making sure they are completely and evenly inserted. Start adding switches to plate.
 ![](../images/stacked/08-plate-on-pcb.jpg)
 1. Finish adding all switches to the PCB and solder each pin to the PCB.
 ![](../images/stacked/09-insert-switches.jpg)
@@ -31,10 +31,10 @@ PCBs in Stacked kits come preflashed with VIA compatible firmware. But make sure
 ![](../images/stacked/02-leg-stack.jpg)
 1. Insert the screw and standoff into the legs from the bottom of the leg assembly. Screw in the standoff all the way, then unscrew a few turns to extend the standoff. 
 ![](../images/stacked/03-screw-leg.jpg)
-1. Place the legs with standoff installed onto your build surface and place the bottom layer of the case ontop. Then put a little pressure down to keep the screw on the bottom of the leg assemble still while you screw in from the top.
+1. Place the legs with standoff installed onto your build surface and place the bottom layer of the case on top. Then put a little pressure down to keep the screw on the bottom of the leg assemble still while you screw in from the top.
 ![](../images/stacked/04-legs-on-bot.jpg)
 1. Your legs should now be secured to the bottom layer
-![](../images/stacked/05-leg-screws-in.jpg)
+![](../images/stacked/05-leg-screwed-in.jpg)
 
 
 ### Assembling the Acrylic Case
@@ -50,7 +50,7 @@ PCBs in Stacked kits come preflashed with VIA compatible firmware. But make sure
 ![](../images/stacked/14-plate-insert.jpg)
 !!! Note
     Be careful inserting the plate+PCB assembly as the usb port can get caught. We recommend gently inserting the usb side first at an angle.
-1. Add the three top layers. The smallest of the three top layers goes ontop.
+1. Add the three top layers. The smallest of the three top layers goes on top.
 ![](../images/stacked/15-top-layers.jpg)
 1. Screw in the top layers, making sure to keep it aligned. The side will look like this once done:
 ![](../images/stacked/16-side-shot-show-top-layers.jpg)
