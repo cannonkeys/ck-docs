@@ -1,12 +1,13 @@
 # Stacked Build Guide
 
 First make sure we have all the items we'll need.
-Each Stacked case is slightly different, but in general we will have:
+Each Stacked case is slightly different, but in general you will have:
 
 * A PCB
-* Acrylic Layers
-* M2 screws (Typically 2 sizes, large and small)
-* M2 standoffs (Typically 2 sizes, large and small)
+* Acrylic Layers (7 case layers, 4 feet layers)
+* FR4 plate
+* M2 screws
+* M2 standoffs (2 sizes, large and small)
 
 ## PCB Notice
 PCBs in Stacked kits come preflashed with VIA compatible firmware. But make sure the switch on the back is set to "0". If it is set to "1", your PCB will be stuck in the failsafe flashing mode.
