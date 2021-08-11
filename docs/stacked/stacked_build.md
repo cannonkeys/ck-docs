@@ -40,14 +40,17 @@ PCBs in Stacked kits come preflashed with VIA compatible firmware. But make sure
 ### Assembling the Acrylic Case
 1. Install the bottom standoffs pointing up (away from leg), and stack your first layer (a ring with a usb cutout in the back).
 ![](../images/stacked/11-first-stack.jpg)
+
 !!! Note
     Images from this point forward will not have legs assembled. Your stacked should have the legs assembled and attached to the bottom layer already.
+    
 1. Stack the next layer that is a ring with a usb cutout. It will look like this:
 ![](../images/stacked/12-usb-cutout-bits.jpg)
 1. Stack the full ring layer next. It will look like this:
 ![](../images/stacked/13-full-ring.jpg)
 1. Next, stack your assembled and soldered plate+PCB assembly.
 ![](../images/stacked/14-plate-insert.jpg)
+
 !!! Note
     Be careful inserting the plate+PCB assembly as the usb port can get caught. We recommend gently inserting the usb side first at an angle.
 1. Add the three top layers. The smallest of the three top layers goes on top.
