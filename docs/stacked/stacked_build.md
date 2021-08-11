@@ -53,11 +53,11 @@ PCBs in Stacked kits come preflashed with VIA compatible firmware. But make sure
 1. Screw in the top layers, making sure to keep it aligned. The side will look like this once done:
 ![](../images/stacked/16-side-shot-show-top-layers.jpg)
 1. Almost done!
-![](../images/stacked/17-top-shot)
+![](../images/stacked/17-top-shot.jpg)
 
 ### Adding Keycaps
 1. Add keycaps, and you're finished!
-![](../images/stacked/18-with keycaps.jpg)
+![](../images/stacked/18-with-keycaps.jpg)
 Enjoy!
 
 ## RGB Underglow
