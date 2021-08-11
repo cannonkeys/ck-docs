@@ -13,47 +13,51 @@ PCBs in Stacked kits come preflashed with VIA compatible firmware. But make sure
 
 ## Building a Stacked Kit
 1. Starting Kit:
-![](../images/stacked65/01-bom.JPG)
+![](../images/stacked/01-bom.jpg)
 
 ### Preparing the PCB/Plate Assembly
-1. First, we have to add stabilizers to our PCB. We highly recommend lubing stabs.
-![](../images/stacked65/02-stabs.JPG)
-1. Put your plate on top of your PCB and start adding switches.
-![](../images/stacked65/03-switches-plate.JPG)
+1. First, we have to add stabilizers to our PCB. We highly recommend lubing and clipping stabs.
+![](../images/stacked/06-assemble-stabs.jpg)
+1. Clip some switches in around the outside and middle of your plate.
+![](../images/stacked/07-switches-in-plate.jpg)
+1. Put plate ontop of pcb and push switches into pcb, making sure they are completely and evenly inserted. Start adding switches to plate.
+![](../images/stacked/08-plate-on-pcb.jpg)
 1. Finish adding all switches to the PCB and solder each pin to the PCB.
-![](../images/stacked65/04-switches-complete.JPG)
+![](../images/stacked/09-insert-switches.jpg)
+
+### Assembling the Feet
+1. Stack the leg layers up, the largest feet layer is what attaches to the bottom layer of the case.
+![](../images/stacked/02-leg-stack.jpg)
+1. Insert the screw and standoff into the legs from the bottom of the leg assembly. Screw in the standoff all the way, then unscrew a few turns to extend the standoff. 
+![](../images/stacked/03-screw-leg.jpg)
+1. Place the legs with standoff installed onto your build surface and place the bottom layer of the case ontop. Then put a little pressure down to keep the screw on the bottom of the leg assemble still while you screw in from the top.
+![](../images/stacked/04-legs-on-bot.jpg)
+1. Your legs should now be secured to the bottom layer
+![](../images/stacked/05-leg-screws-in.jpg)
+
 
 ### Assembling the Acrylic Case
-1. We'll start off by adding the foot mounting hardware to the board. Start with these layers. You will need a 1.5mm Hex head screwdriver.
-![](../images/stacked65/05-acrylic-start.JPG)
-1. Install the small screw and small standoff in each foot mounting hole as shown. The next layer we'll use is also shown here.
-![](../images/stacked65/06-feet-standoffs.JPG)
-1. When you're done, it should look like this:
-![](../images/stacked65/07-all-feet-standoffs.JPG)
-1. Repeat the process using the new layer and the larger screws and hardware.
-![](../images/stacked65/07-case-standoff.JPG)
-1. When you're done, it should look like this:
-![](../images/stacked65/08-all-case-standoffs.JPG)
-1. Add the next layers with the USB cutouts:
-![](../images/stacked65/09-usb-layers.JPG)
-1. Add the full loop layer:
-![](../images/stacked65/10-pre-plate-layer.JPG)
-1. Add the PCB/Plate assembly. Since the USB port might interfere with the previous layer, you may need to angle the assembly in.
-![](../images/stacked65/11-plate-layer.JPG)
-1. Add the two top layers. Note that the top layer does not go around the standoff like previous layers.
-![](../images/stacked65/12-top-layers.JPG)
-1. Finish the case using the long screws
-![](../images/stacked65/13-hardware-added.JPG)
-
-### Adding the Feet
-1. Flip the keyboard around and add the two feet layers. Notice the top foot layer does not go around the standoff.
-![](../images/stacked65/14-feet-layers.JPG)
-1. Install the small screws
-![](../images/stacked65/15-final-hardware.JPG)
+1. Install the bottom standoffs pointing up (away from leg), and stack your first layer (a ring with a usb cutout in the back).
+![](../images/stacked/11-first-stack.jpg)
+*Note: images from this point forward will not have legs assembled. Your stacked should have the legs assembled and attached to the bottom layer already.*
+1. Stack the next layer that is a ring with a usb cutout. It will look like this:
+![](../images/stacked/12-usb-cutout-bits.jpg)
+1. Stack the full ring layer next. It will look like this:
+![](../images/stacked/13-full-ring.jpg)
+1. Next, stack your assembled and soldered plate+PCB assembly.
+![](../images/stacked/14-plate-insert.jpg)
+!!! Note
+    Be careful inserting the plate+PCB assembly as the usb port can get caught. We recommend gently inserting the usb side first at an angle.
+1. Add the three top layers. The smallest of the three top layers goes ontop.
+![](../images/stacked/15-top-layers.jpg)
+1. Screw in the top layers, making sure to keep it aligned. The side will look like this once done:
+![](../images/stacked/16-side-shot-show-top-layers.jpg)
+1. Almost done!
+![](../images/stacked/17-top-shot)
 
 ### Adding Keycaps
-1. Flip your keyboard back over, and add keycaps.
-![](../images/stacked65/16-add-keycaps.JPG)
+1. Add keycaps, and you're finished!
+![](../images/stacked/18-with keycaps.jpg)
 Enjoy!
 
 ## RGB Underglow
