@@ -28,7 +28,7 @@
 
 #### Solution: Try a different cable, and a different USB port on the computer, not  a  USB hub.
 
-Grab a new basic cable (ie: not a custom coiled cable/artisa cable), and try plugging it into a different USB port on the computer itself. Not on a USB hub. It’s important you try using a basic cable, as the issue sometimes is the amount of power going to your keyboard. Some coiled/artisan cables are too long, and won’t give you the power that you need. This is more common on keyboards that have LEDs of any kind.
+Grab a new basic cable (ie: not a custom coiled cable/artisan cable), and try plugging it into a different USB port on the computer itself. Not on a USB hub. It’s important you try using a basic cable, as the issue sometimes is the amount of power going to your keyboard. Some coiled/artisan cables are too long, and won’t give you the power that you need. This is more common on keyboards that have LEDs of any kind.
 
   ----
   
@@ -204,7 +204,7 @@ It is very easy to accidentally bind a key to a transparent key, or another key 
 
 #### Solution: Reattach the diode to the pads.
 
-  
+
 
 Put simply, diodes are needed for keypresses to register. Every single switch needs a diode to properly input. Fixing this requires a soldering iron and solder. The orientation of diodes is specific, they will only work in one direction.
 
@@ -214,7 +214,7 @@ Put simply, diodes are needed for keypresses to register. Every single switch ne
     
 -   If one or both of the pads connecting the diode to the PCB were pulled, then replacing the diode will not fix this. You can, however, bridge the connection.
     
-
+*Helpful video that shows the attachment of a diode: [Video Link.](https://drive.google.com/file/d/1hLbzG7kHaN4DGFpHPc6eHSwGfqTXESQM/view?usp=sharing)*
   
 
 ![](images/troubleshooting/diode-circle.png)
