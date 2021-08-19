@@ -90,9 +90,9 @@ Right image: JST header (female), where the JST cable plugs into. The daughterbo
  
 ### Issue: Specific key/keys are not registering.
 
-- #### Before attempting any of these steps, test the connection by bridging the pads with tweezers. If the PCB is hotswap, request they remove the switch before shorting.
-	-   Solderable PCB - If the key triggers when shorting, but not when pressing the switch, it can be concluded the switch is the issue, not the PCB.
-	   -   Hotswap PCB - If the key triggers when shorting, but not when pressing the switch, try a different switch. If you try 2 more switches and the problem persists, it is most likely an issue with the hotswap socket.
+- #### Before attempting any of these steps, test the connection by bridging the pads with tweezers. If the PCB is hotswap, remove the switch before bridging.
+	-   Solderable PCB - If the key triggers when bridging, but not when pressing the switch, it can be concluded the switch is the issue, not the PCB.
+	   -   Hotswap PCB - If the key triggers when bridging, but not when pressing the switch, try a different switch. If you try 2 more switches and the problem persists, it is most likely an issue with the hotswap socket.
     
 
   
@@ -238,6 +238,8 @@ Reflowing a joint is very simple. This requires a soldering iron. You will also 
     
 4.  Once the second passes, remove the iron gently/slowly
 	- Repeat steps 2-4 for the other pin
+
+*Helpful video that shows the reflowing of a switch pin: [Video Link.](https://drive.google.com/file/d/17Idpdh21L0SJZ0zG96Gbf036uL5Gspzt/view?usp=sharing)*
     
 
 If the joint is lacking solder, you will need to add solder to the joint. To add solder, do the same as above, except instead of just holding the iron and removing it, feed a tiny bit of solder first.
