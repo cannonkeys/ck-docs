@@ -283,10 +283,10 @@ Symptoms of this include device not powering on when plugged in, or the device d
 
 #### Cause 1: Firmware is not working as intended.
 
-#### Solution: Download and flash the relevant firmware. [Link.](https://www.dropbox.com/sh/sxv7h36hbq2qkmu/AABp7AveLqB1CQwK7rWSTewYa?dl=0)
+#### Solution: Download and flash the relevant firmware from the VIA website. [Link.](https://caniusevia.com/docs/download_firmware)
 
 
-***This bug has been fixed, and applied to the current QMK Master. You can now compile firmware on the latest QMK build and your problem should be fixed.***
+***There was a QMK bug that caused lighting to not properly work on some of our PCBs. This bug has since been fixed. You can now compile your own firmware on QMK master without issue.***
 
 ---
 
