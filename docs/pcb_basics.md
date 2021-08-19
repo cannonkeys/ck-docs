@@ -18,7 +18,6 @@ There are a handful of major components to a PCB. Not all PCBs will have each of
 	 - One negative, and one positive hole, where LEDs can be
    soldered in.
 		-	2 holes/contacts are needed for single color LEDs.
-		-	3 holes/contacts are needed for RGB LEDs.
     
 
 -   Diodes - Makes sure current flows in the correct direction.
@@ -64,7 +63,7 @@ We won’t get too in depth here, but here are some quick bullets to help you un
 !!! Note
     Here is a [lovely guide](https://learn.adafruit.com/adafruit-guide-excellent-soldering) that covers most of the basics, as well as potential errors. 
 
--   Temperature is important. It’s recommended to start at a lower temperature when learning, then move up to a higher temperature once you have more experience.
+-   Temperature is important. It’s recommended to start at a lower temperature like 550F when learning, then move up to a higher temperature once you have more experience.
     
 -   The solder you use is also important. It is highly recommended to choose a leaded solder with rosin, the diameter is up to you.
 	-  Here is an example of what to look for: [Kester 63/37 .031” diameter with rosin flux core](https://www.amazon.com/gp/product/B0149K4JTY/).
