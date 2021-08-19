@@ -17,6 +17,7 @@ nav:
     - PCB Basics: pcb_basics.md
     - Removing PCB Rails: removing_pcb_rails.md
     - Raffle Queue: raffle-queue.md
+    - VIA .json Loading: via-json-loading.md
   - Bakeneko Build Guide: bakeneko.md
   - Bluepill Kits:
     - Build Guide: bluepill-build.md
