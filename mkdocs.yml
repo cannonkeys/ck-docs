@@ -10,15 +10,7 @@ markdown_extensions:
 nav:
   - Back to Cannonkeys: 'https://cannonkeys.com'
   - Docs Home: index.md
-  - Resources: resources.md
   - PCB Troubleshooting: troubleshooting.md
-  - General HOWTOs:
-    - Adding RGB Underglow: rgb_underglow.md
-    - PCB Basics: pcb_basics.md
-    - Removing PCB Rails: removing_pcb_rails.md
-    - Raffle Queue: raffle-queue.md
-    - VIA .json Loading: via-json-loading.md
-  - Bakeneko Build Guide: bakeneko.md
   - Bluepill Kits:
     - Build Guide: bluepill-build.md
     - Testing your Bluepill: bluepill-test.md
@@ -32,6 +24,12 @@ nav:
     - BOMs: stacked/stacked_boms.md
   - Brutal Series Keyboards:
     - Build Guide: brutal/brutal_build.md
+  - General HOWTOs:
+    - PCB Basics: pcb_basics.md
+    - Adding RGB Underglow: rgb_underglow.md
+    - Removing PCB Rails: removing_pcb_rails.md
+    - Raffle Queue: raffle-queue.md
+    - VIA .json Loading: via-json-loading.md
   - Instant60: instant60.md
   - AN-C: an_c.md
   - Satisfaction75:
@@ -41,6 +39,8 @@ nav:
   - Chimera65:
     - Build Guide: chimera65/build_guide.md 
     - Flashing Guide: chimera65/flashing.md
+  - Bakeneko Build Guide: bakeneko.md
+  - Resources: resources.md
 
 extra:
   social:
@@ -48,3 +48,4 @@ extra:
       link: 'https://github.com/cannonkeys'
     - type: 'instagram'
       link: 'https://www.instagram.com/cannon.keys/'
+      
