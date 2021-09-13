@@ -10,6 +10,7 @@ markdown_extensions:
 nav:
   - Back to Cannonkeys: 'https://cannonkeys.com'
   - Docs Home: index.md
+  - PCB Troubleshooting: troubleshooting.md
   - Bluepill Kits:
     - Build Guide: bluepill-build.md
     - Testing your Bluepill: bluepill-test.md
@@ -24,6 +25,7 @@ nav:
   - Brutal Series Keyboards:
     - Build Guide: brutal/brutal_build.md
   - General HOWTOs:
+    - PCB Basics: pcb_basics.md
     - Adding RGB Underglow: rgb_underglow.md
     - Removing PCB Rails: removing_pcb_rails.md
     - Raffle Queue: raffle-queue.md
