@@ -1,5 +1,5 @@
 # CannonKeys Raffle Queue How-To
-**Link: https://hype.cannonkeys.com/**
+**Link: [https://hype.cannonkeys.com/](https://hype.cannonkeys.com/)**
 
 !!! Note
     **Please keep in mind that even if you make it past the queue, you are not guaranteed your item, make sure to choose options and checkout as fast as you can!**
