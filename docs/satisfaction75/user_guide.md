@@ -27,6 +27,10 @@ The OLED screen has a 3 different modes. You can toggle between them using **FN 
 * Time Mode - This mode shows the date and time, as well as the encoder mode, layer indicator, and CAPS lock indicator.
 * OFF Mode - Sometimes you don't want to see your OLED, so you can turn it off.
 
+!!! Note
+    Within Via, FN is called MO(1).
+
+
 ## Clock Setting
 
 In order to set the clock, we have to enter CLOCK setting mode. In order to do so, press **FN + the key directly below the knob**.
