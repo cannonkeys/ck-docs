@@ -45,10 +45,9 @@ In addition to that, there is a special menu, made specifically for the Satisfac
 
 From there, you can control the enabled encoder modes and default OLED mode:
 
-![](../images/satisfaction75/via_encoder_modes.jpg)
-![](../images/satisfaction75/via_oled.jpg)
+![](../images/satisfaction75/via_encoder_oled_mode.jpg)
 
 To set a custom encoder behavior, you can use this chart:
 ![](../images/satisfaction75/via_custom_encoder.jpg)
 
-Each box controls a different behavior in the custom encoder mode, and can be defined with a QMK keycode.
+Each box controls a different behavior in the custom encoder mode, and can be defined with a [QMK keycode](https://beta.docs.qmk.fm/using-qmk/simple-keycodes/keycodes).
