@@ -37,7 +37,7 @@ When done setting the time, press **FN + the key directly below the knob** to ex
 
 ## VIA Support
 
-You can use [VIA Configurator](https://github.com/olivia/via-config/releases) to configure your Satisfaction75 keyboard. It's a nice and intuitive way of setting up your keymaps. MechMerlin has made a cool demo of the VIA software available [here](https://www.youtube.com/watch?v=sAUO7_Ts4Pw)
+You can use [VIA Configurator](https://github.com/olivia/via-config/releases) to configure your Satisfaction75 keyboard. It's a nice and intuitive way of setting up your keymaps.
 
 In addition to that, there is a special menu, made specifically for the Satisfaction75. From the default view, hit the "CUSTOM" header:
 
