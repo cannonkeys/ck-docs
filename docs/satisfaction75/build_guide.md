@@ -17,6 +17,7 @@ Congrats on your Satisfaction75 purchase! This is a guide to building your Satis
 * OLED Screen
 * Black screws w/ Hex Key
 * Bumpons
+* Conductive foam block (not pictured)
 
 ## Install the OLED and conductive foam
 
