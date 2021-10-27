@@ -7,7 +7,7 @@ To allow every recipient of the Satisfaction75 to first test their PCB, the stoc
 But before we do that, we should test our PCB!
 
 !!! Note
-    If you're already comfortable with testing and flashing PCBs, the firmware is available here! [Satisfaction75 Firmware](../assets/cannonkeys_satisfaction75_rev1_via.bin)
+    If you're already comfortable with testing and flashing PCBs, the firmware is available here! [Satisfaction75 Firmware](../assets/cannonkeys_satisfaction75_rev1_via_new.bin)
 
 
 ## Testing the PCB
