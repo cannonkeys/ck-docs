@@ -15,7 +15,7 @@ Congrats on your Satisfaction75 purchase! This is a guide to building your Satis
 * ALPS Encoder
 * O rings
 * OLED Screen
-* Black screws w/ Hex Key
+* Screws
 * Bumpons
 * Conductive foam block (not pictured)
 
