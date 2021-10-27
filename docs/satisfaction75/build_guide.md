@@ -19,7 +19,7 @@ Congrats on your Satisfaction75 purchase! This is a guide to building your Satis
 * Bumpons
 * Conductive foam block (not pictured)
 
-## Install the OLED and conductive foam
+## Install the OLED and Conductive Foam
 
 1. The first thing we have to do is to install the OLED. We're going to use the spacers to ensure the OLED ends up at the proper height. Simply drop the nylon screws in the holes circled below:
     ![](../images/satisfaction75/oled_screw_holes.jpg)
