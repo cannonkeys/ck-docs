@@ -47,7 +47,7 @@ Touch a conductive piece of material to each pair of switch holes (examples circ
     ![](../images/initial_flash/ZadigInstallingDriver.PNG)
 
 ### Actual Flashing
-1. Download the [Satisfaction75 Firmware](../assets/cannonkeys_satisfaction75_rev1_via.bin)
+1. Download the [Satisfaction75 Firmware](../assets/cannonkeys_satisfaction75_rev1_via_new.bin)
 1. Start QMK Toolbox, and click the "Open" buttom
     ![](../images/initial_flash/QMKToolbox.PNG)
 1. Change the filetype dropdown to ".bin" and select the proper firmware
