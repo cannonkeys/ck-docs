@@ -39,7 +39,7 @@ Congrats on your Satisfaction75 purchase! This is a guide to building your Satis
 
 ## Case Disassembly
 
-1. We have to get our brass plate out of our case. We'll disassemble the case. We'll need a Philips head screwdriver to remove the stock hardware (feel free to throw the stock hardware away). When we reassemble it, we'll use the nicer included hardware. Unscrew the screws from the following 8 points:
+1. We have to get our brass plate out of our case. We'll disassemble the case. Unscrew the screws from the following 8 points:
     ![](../images/satisfaction75/case_disassembly.jpg)
 
 1. Once the screws are out, the bottom will easily come loose from the top, exposing the plate. Remove the 12 screws holding the plate to the top of the case:
@@ -90,7 +90,7 @@ We're now ready to reassemble our case!
 1. Screw the plate to the top case piece using the screws prepared with O-rings:
     ![](../images/satisfaction75/burger_mounted.jpg)
 
-1. Align the bottom case over the top case, and put them together. Screw them together using the nice M2x10 black hex socket cap screw hardware included:
+1. Align the bottom case over the top case, and put them together. Screw them together.:
     ![](../images/satisfaction75/case_disassembly.jpg)
 
 1. Install the Bumpons
