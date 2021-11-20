@@ -27,6 +27,11 @@ The OLED screen has a 3 different modes. You can toggle between them using **FN 
 * Time Mode - This mode shows the date and time, as well as the encoder mode, layer indicator, and CAPS lock indicator.
 * OFF Mode - Sometimes you don't want to see your OLED, so you can turn it off.
 
+
+!!! Note
+    Within Via, FN is called MO(1).
+
+
 ## Clock Setting
 
 In order to set the clock, we have to enter CLOCK setting mode. In order to do so, press **FN + the key directly below the knob**.
@@ -37,7 +42,7 @@ When done setting the time, press **FN + the key directly below the knob** to ex
 
 ## VIA Support
 
-You can use [VIA Configurator](https://github.com/olivia/via-config/releases) to configure your Satisfaction75 keyboard. It's a nice and intuitive way of setting up your keymaps. MechMerlin has made a cool demo of the VIA software available [here](https://www.youtube.com/watch?v=sAUO7_Ts4Pw)
+You can use [VIA Configurator](https://github.com/olivia/via-config/releases) to configure your Satisfaction75 keyboard. It's a nice and intuitive way of setting up your keymaps.
 
 In addition to that, there is a special menu, made specifically for the Satisfaction75. From the default view, hit the "CUSTOM" header:
 
@@ -45,10 +50,10 @@ In addition to that, there is a special menu, made specifically for the Satisfac
 
 From there, you can control the enabled encoder modes and default OLED mode:
 
-![](../images/satisfaction75/via_encoder_modes.jpg)
-![](../images/satisfaction75/via_oled.jpg)
+![](../images/satisfaction75/via_encoder_oled_mode.jpg)
 
 To set a custom encoder behavior, you can use this chart:
+
 ![](../images/satisfaction75/via_custom_encoder.jpg)
 
-Each box controls a different behavior in the custom encoder mode, and can be defined with a QMK keycode.
+Each box controls a different behavior in the custom encoder mode, and can be defined with a [QMK keycode](https://beta.docs.qmk.fm/using-qmk/simple-keycodes/keycodes).

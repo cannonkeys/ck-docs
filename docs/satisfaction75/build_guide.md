@@ -15,10 +15,11 @@ Congrats on your Satisfaction75 purchase! This is a guide to building your Satis
 * ALPS Encoder
 * O rings
 * OLED Screen
-* Black screws w/ Hex Key
+* Screws
 * Bumpons
+* Conductive foam block (not pictured)
 
-## Install the OLED
+## Install the OLED and Conductive Foam
 
 1. The first thing we have to do is to install the OLED. We're going to use the spacers to ensure the OLED ends up at the proper height. Simply drop the nylon screws in the holes circled below:
     ![](../images/satisfaction75/oled_screw_holes.jpg)
@@ -32,6 +33,9 @@ Congrats on your Satisfaction75 purchase! This is a guide to building your Satis
 
 1. Solder the OLED pins into place, being careful to keep it level and even with the spacer height:
     ![](../images/satisfaction75/solder_oled_pins.jpg)
+    
+1. Remove the white paper from the back of the conductive foam block that came with your PCB, and stick it below the USB port where it says "Foam":
+    ![](../images/satisfaction75/foam_installed.jpg)
 
 ## Case Disassembly
 
