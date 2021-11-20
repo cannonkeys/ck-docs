@@ -36,6 +36,9 @@ Congrats on your Satisfaction75 purchase! This is a guide to building your Satis
     
 1. Remove the white paper from the back of the conductive foam block that came with your PCB, and stick it below the USB port where it says "Foam":
     ![](../images/satisfaction75/foam_installed.jpg)
+    
+!!! Note
+    The conductive coating on the outside of the foam must be contacting both the metal ring on the PCB and the screw on the bottom of the case in order to properly ground the PCB. If the conductive coating is touching any of the components on the PCB around the metal ring, this can cause the PCB to reset. If you find the PCB not functioning properly when installed in the case, try trimming the foam block down so it does not contact any of the surrounding components.
 
 ## Case Disassembly
 
