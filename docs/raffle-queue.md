@@ -22,7 +22,7 @@ Click the “join” button and you should be put into queue. If you don’t see
 ## Checkout
 
 !!! Note
-    **Your main focus should be to checkout your board in this stage, you can add extras (plates, PCB's, accents) using the 'Edit an Existing Order' button on the first page. You will also be emailed a Google form to select your board options (color, layout)**
+    **If the drop is a group buy, your main focus should be to checkout your board in this stage. You can add extras (plates, PCB's, accents) using the 'Edit an Existing Order' button on the first page. You will also be emailed a Google form to select your board options (color, layout). If the drop is for extras, you should try to get everything you would like to purchase in your cart at the same time as order editing might be disabled.**
 
 If you are lucky you may be brought into a screen to select your options!
 
