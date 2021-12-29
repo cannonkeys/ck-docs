@@ -35,7 +35,7 @@ The PCB ships with useable firmware to test functionality, however for full via 
 4. Insert the wires into the daughterboard from the underside, and solder them carefully. **The order of the wires matter.**
 ![](images/hoodrowg/05-wire-solder.jpg)
 
-5. Screw the daughterboard into the standoffs using the included screws. Make sure to guide the wires through the hole in the before fully tightening.
+5. Screw the daughterboard into the standoffs using the included screws. Make sure to guide the wires through the hole in the PCB before fully tightening.
 ![](images/hoodrowg/06-screw-in.jpg)
 
 6. Guide the wire attached to the daughterboard along the underside of the PCB, utilizing the small cutout in the side of the PCB to plug the JST cable into the header soldered in step 3.
