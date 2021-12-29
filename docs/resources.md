@@ -43,6 +43,8 @@ Furthermore, we provide these files as-is and provide no warranty or guarantee a
  * [Savage65, 7U](assets/plates/savage65_7u_plate.dxf)
  * [Obliterated75, Standard (6.25U)](assets/plates/obliterated75_standard_plate.dxf)
  * [Obliterated75, 7U](assets/plates/obliterated75_7u_plate.dxf)
+ * [DevastatingTKL, Universal Bottom Row](assets/plates/devastating_universal_plate.dxf)
+ * [ODevastatingTKL, 7U](assets/plates/devastating_7U_plate.dxf)
  * [Rekt1800, Standard (6.25U)](assets/plates/rekt1800_standard.dxf)
  * [Rekt1800, 7U](assets/plates/rekt1800_wkl.dxf)
  * [Chimera65, Standard](assets/plates/Chimera_Standard.dxf)
