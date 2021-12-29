@@ -40,6 +40,7 @@ nav:
     - Build Guide: chimera65/build_guide.md 
     - Flashing Guide: chimera65/flashing.md
   - Bakeneko Build Guide: bakeneko.md
+  - HoodrowG Build Guide: HoodrowG_Guide.md
   - Resources: resources.md
 
 extra:
