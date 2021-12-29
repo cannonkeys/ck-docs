@@ -1,4 +1,4 @@
-﻿# HoodrowG PCB Assembly and User Guide
+# HoodrowG PCB Assembly and User Guide
 First, gather all the items and lay them out on your work area to make sure you have everything needed:
 
  - HoodrowG PCB
