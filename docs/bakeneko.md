@@ -10,7 +10,7 @@ Each Bakeneko needs
 * 4xM2 screws (For the Daughterboard)
 * Hex Key (for the Screws)
 * Silicone O-ring
-* Clip-in Stabilizers (typically 4x2U and 1x6.25U)
+* Clip-in Stabilizers (typically 4x2U and 1x6.25U for Bakeneko60, and 3x2U and 1x6.25U for Bakeneko65)
 * 4 x Silicone Feet
 * Bakeneko Aluminum Case
 
@@ -18,7 +18,7 @@ Each Bakeneko needs
     You must use clip in stabilizers for the Bakeneko as screw in stabilizers will interfere with the O ring
 
 ## PCB Notice
-Bakeneko PCBs come preflashed with VIA compatible firmware. But make sure the switch on the back is set to "0". If it is set to "1", your PCB will be stuck in the failsafe flashing mode.
+Bakeneko PCBs come preflashed with VIA compatible firmware. But make sure the switch on the back is set to "0". If it is set to "1", your PCB will be stuck in the failsafe flashing mode. It is highly recommended to test the PCB prior to building by using tweezers. The Bakeneko65 PCB will show up as Instant65 or Savage65 in VIA depending on if you are using the htoswap or solderable PCB. This does not effect function, it's just what VIA refers to the PCB as.
 
 ## Building a Bakeneko
 1. Starting Kit:
