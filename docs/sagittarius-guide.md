@@ -1,10 +1,10 @@
 ﻿# Sagittarius Build Guide
 
-First make sure we have all the items we'll need.
+First make sure you have all the items needed.
 Each kit should include:
 
-* A PCB
-* A Plate
+* PCB
+* Plate
 * USB-C Daughterboard
 * JST Cable
 * Hardware (should be installed already)
@@ -31,8 +31,10 @@ Resources
 
 !!! Note
     Never tested a PCB with tweezers before? No problem! We have some additional information in our [PCB Basics Doc](https://docs.cannonkeys.com/pcb_basics/#testing-a-pcb).
-
+    
 ![](images/sag/03-test.jpg)
+    
+# Building
 
 3. Like any other build, assemble/mod/test your stabilizers, and install them to the PCB. Next, if installing indicator LEDs or encoders, now is the time to do so. Finally, install switches into the plate and PCB, then solder.
 
@@ -42,7 +44,7 @@ Resources
 
 ![](images/sag/05-gaskets-label.jpg)
 
-5. Now that gasket strips are installed, grab the JST cable, and Daughterboard. Remove the daughterboard screws from the case, insert the JST cable into the daughterboard, and screw the daughterboard into the bottom case. 
+5. Now that gasket strips are installed, grab the JST cable and daughterboard. Remove the daughterboard screws from the case, insert the JST cable into the daughterboard, and screw the daughterboard into the bottom case. 
 
 !!! Note
     It is very important to support the JST header of the daughterboard while inserting the cable. Additionally, make sure you're inserting it as evenly as possible to avoid bending any pins. For more information on this, we have a section in our [PCB troubleshooting guide](https://docs.cannonkeys.com/troubleshooting/#cause-3-looseimproper-connection-on-usb-port-jst-cable-or-jst-header).
@@ -51,7 +53,7 @@ Resources
 
 6. Next, attach the JST cable to the header on the PCB, making sure to support the header. 
 
-![](images/sag/07-db-case-label.jpg)
+![](images/sag/07-db-pcb-label.jpg)
 
 7. Gently place the PCB + plate assembly into the bottom case, making sure to carefully tuck the JST cable below the PCB. The plate should be sitting on the gaskets evenly, and wire tucked below PCB.
 
