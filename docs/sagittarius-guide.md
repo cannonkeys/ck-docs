@@ -15,7 +15,9 @@ Each kit should include:
 
 Resources
 * [Sagittarius VIA compatible firmware](https://raw.githubusercontent.com/the-via/firmware/master/cannonkeys_sagittarius_via.bin)
+
 	* This is pre-flashed on the PCB so you will likely not need it.
+
 * [VIA download](https://github.com/the-via/releases/releases/tag/v1.3.1)
 	* This is the program used to remap keys and control lighting
 
