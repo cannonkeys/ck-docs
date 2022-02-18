@@ -32,6 +32,7 @@ nav:
     - VIA .json Loading: via-json-loading.md
   - Instant60: instant60.md
   - AN-C: an_c.md
+  - Sagittarius Build Guide: sagittarius-guide.md
   - Satisfaction75:
     - Build Guide: satisfaction75/build_guide.md 
     - Flashing Guide: satisfaction75/flashing.md
