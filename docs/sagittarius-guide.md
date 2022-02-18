@@ -51,22 +51,18 @@ Resources
     It is very important to support the JST header of the daughterboard while inserting the cable. Additionally, make sure you're inserting it as evenly as possible to avoid bending any pins. For more information on this, we have a section in our [PCB troubleshooting guide](https://docs.cannonkeys.com/troubleshooting/#cause-3-looseimproper-connection-on-usb-port-jst-cable-or-jst-header).
 
 ![](images/sag/06-db-case-label.jpg)
-
 4. Next, attach the JST cable to the header on the PCB, making sure to support the header. 
 
 ![](images/sag/07-db-pcb-label.jpg)
-
 5. Gently place the PCB + plate assembly into the bottom case, making sure to carefully tuck the JST cable below the PCB. The plate should be sitting on the gaskets evenly, and wire tucked below PCB.
 
 ![](images/sag/08-insert-assembly.jpg)
-
 6. Place top case onto the bottom case, and gently flip over the keyboard. Using the included hex key or a thin screwdriver, screw together the top and bottom case.
 
 !!! Note
     When screwing together the case, the amount you tighten each screw and how evenly you tighten them will potentially affect the sound and feel of the board. Generally we recommend starting off not fully tightening the case, and playing around with the tightness a bit until you achieve the sound and feel you are looking for.
 
 ![](images/sag/09-assemble-case.jpg) 
-
 7. Flip over the keyboard and add your keycaps. You should now be able to plug in your board to be used!
 
 ![](images/sag/10-done-1.jpg) 
