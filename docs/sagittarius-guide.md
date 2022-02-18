@@ -27,7 +27,6 @@ Resources
 1. Flip the case over onto a soft surface and place bumpons into the cutouts located on the bottom the case.
 
 ![](images/sag/02-bumpons.jpg)
-
 2. Pull the daughterboard out from the baggie, and connect it to the PCB via the included JST Cable. Once the daughterboard and PCB are connected, plug the daughterboard into your computer via a USB-A to USB-C Cable. Using tweezers, test the keyboard using the testing app of your preference (there is one built into via).
 
 !!! Note
@@ -43,11 +42,9 @@ Resources
     If adding indicator LEDs, the long leg on the LED is the positive end, and the square hole (seen on the bottom of the PCB) is where the negative end goes. More information on this is in our [PCB Basics](https://docs.cannonkeys.com/pcb_basics/#pcb-basics) doc.
 
 ![](images/sag/04-switches-label.jpg)
-
 2. Now that your PCB + plate assembly is soldered we can move onto the case! Grab the gasket strips, and start applying them to the top **and** bottom of the case. There are 4 sections of the case that require smaller strips. These 4 pieces can be cut from 1 longer piece, as seen in the image below. Don't worry about perfect placement, as long as the strip is making full contact in the area you should be good to go!
 
 ![](images/sag/05-gaskets-label.jpg)
-
 3. Now that gasket strips are installed, grab the JST cable and daughterboard. Remove the daughterboard screws from the case, insert the JST cable into the daughterboard, and screw the daughterboard into the bottom case. 
 
 !!! Note
