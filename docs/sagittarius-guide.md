@@ -39,6 +39,9 @@ Resources
 
 3. Like any other build, assemble/mod/test your stabilizers, and install them to the PCB. Next, if installing indicator LEDs or encoders, now is the time to do so. Finally, install switches into the plate and PCB, then solder.
 
+!!! Note
+    If adding indicator LEDs, the long leg on the LED is the positive end, and the square hole (seen on the bottom of the PCB) is where the negative end goes. More information on this is in our [PCB Basics](https://docs.cannonkeys.com/pcb_basics/#pcb-basics) doc.
+
 ![](images/sag/04-switches-label.jpg)
 
 4. Now that your PCB + plate assembly is soldered we can move onto the case! Grab the gasket strips, and start applying them to the top **and** bottom of the case. There are 4 sections of the case that require smaller strips. These 4 pieces can be cut from 1 longer piece, as seen in the image below. Don't worry about perfect placement, as long as the strip is making full contact in the area you should be good to go!
