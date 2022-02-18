@@ -28,7 +28,7 @@ Resources
 
 ![](images/sag/02-bumpons.jpg)
 
-1. Pull the daughterboard out from the baggie, and connect it to the PCB via the included JST Cable. Once the daughterboard and PCB are connected, plug the daughterboard into your computer via a USB-A to USB-C Cable. Using tweezers, test the keyboard using the testing app of your preference (there is one built into via).
+2. Pull the daughterboard out from the baggie, and connect it to the PCB via the included JST Cable. Once the daughterboard and PCB are connected, plug the daughterboard into your computer via a USB-A to USB-C Cable. Using tweezers, test the keyboard using the testing app of your preference (there is one built into via).
 
 !!! Note
     Never tested a PCB with tweezers before? No problem! We have some additional information in our [PCB Basics Doc](https://docs.cannonkeys.com/pcb_basics/#testing-a-pcb).
