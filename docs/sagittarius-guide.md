@@ -14,6 +14,7 @@ Each kit should include:
 * Sagittarius Case
 
 Resources
+
 * [Sagittarius VIA compatible firmware](https://raw.githubusercontent.com/the-via/firmware/master/cannonkeys_sagittarius_via.bin)
 * 	This is pre-flashed on the PCB so you will likely not need it.
 
