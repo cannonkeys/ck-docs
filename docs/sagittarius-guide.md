@@ -24,7 +24,7 @@ Resources
 
 # Preparation
 
- 1. Flip the case over onto a soft surface and place bumpons into the cutouts located on the bottom the case.
+1. Flip the case over onto a soft surface and place bumpons into the cutouts located on the bottom the case.
 
 ![](images/sag/02-bumpons.jpg)
 
