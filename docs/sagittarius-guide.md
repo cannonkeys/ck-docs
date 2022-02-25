@@ -36,7 +36,7 @@ Resources
     
 # Building
 
-1. Like any other build, assemble/mod/test your stabilizers, and install them to the PCB. Next, if installing indicator LEDs or encoders, now is the time to do so. Finally, install switches into the plate and PCB, then solder.
+1. Like any other build, assemble/mod/test your stabilizers, and install them to the PCB. Next, install your LED indicators. Finally, install switches into the plate and PCB, then solder.
 
 !!! Note
     If adding indicator LEDs, the long leg on the LED is the positive end, and the square hole (seen on the bottom of the PCB) is where the negative end goes. More information on this is in our [PCB Basics](https://docs.cannonkeys.com/pcb_basics/#pcb-basics) doc.

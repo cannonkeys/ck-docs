@@ -49,6 +49,7 @@ Furthermore, we provide these files as-is and provide no warranty or guarantee a
  * [Rekt1800, 7U](assets/plates/rekt1800_wkl.dxf)
  * [Chimera65, Standard](assets/plates/Chimera_Standard.dxf)
  * [Chimera65, WKL](assets/plates/Chimera_WKL.dxf)
+ * Satisfaction75 R2 Plate Files - Please email support@cannonkeys.com with your intended use.
  
 [![License: CC BY-NC-ND 4.0](https://licensebuttons.net/l/by-nc-nd/4.0/80x15.png)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 

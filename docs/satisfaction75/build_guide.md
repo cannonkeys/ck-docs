@@ -38,7 +38,7 @@ Congrats on your Satisfaction75 purchase! This is a guide to building your Satis
     ![](../images/satisfaction75/foam_installed.jpg)
     
 !!! Note
-    The conductive coating on the outside of the foam must be contacting both the metal ring on the PCB and the screw on the bottom of the case in order to properly ground the PCB. If the conductive coating is touching any of the components on the PCB around the metal ring, this can cause the PCB to reset. If you find the PCB not functioning properly when installed in the case, try trimming the foam block down so it does not contact any of the surrounding components.
+    The conductive coating on the outside of the foam must be contacting both the metal ring on the PCB and the screw on the bottom of the case in order to properly ground the PCB. If the conductive coating is touching any of the components on the PCB around the metal ring, this can cause the PCB to reset. Trimming the foam block down so it does not contact any of the surrounding components is the safest and recommended method to apply.
 
 ## Case Disassembly
 
