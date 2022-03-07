@@ -34,8 +34,8 @@ Congrats on your Satisfaction75 purchase! This is a guide to building your Satis
 1. Solder the OLED pins into place, being careful to keep it level and even with the spacer height:
     ![](../images/satisfaction75/solder_oled_pins.jpg)
     
-1. Remove the white paper from the back of the conductive foam block that came with your PCB, and stick it below the USB port where it says "Foam":
-    ![](../images/satisfaction75/foam_installed.jpg)
+1. Remove the white paper from the back of the conductive foam block that came with your PCB, and stick it below the USB port where it says "Foam". We recommend cutting the foam block in half to reduce the risk of a short on nearby components:
+    ![](../images/satisfaction75/foam_installed_cut.jpg)
     
 !!! Note
     The conductive coating on the outside of the foam must be contacting both the metal ring on the PCB and the screw on the bottom of the case in order to properly ground the PCB. If the conductive coating is touching any of the components on the PCB around the metal ring, this can cause the PCB to reset. Trimming the foam block down so it does not contact any of the surrounding components is the safest and recommended method to apply.

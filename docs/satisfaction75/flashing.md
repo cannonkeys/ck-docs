@@ -6,8 +6,10 @@ To allow every recipient of the Satisfaction75 to first test their PCB, the stoc
 
 But before we do that, we should test our PCB!
 
+If you're already comfortable with testing and flashing PCBs, the firmware is available here! [Satisfaction75 Firmware](../assets/cannonkeys_satisfaction75_rev1_via_new.bin)
+
 !!! Note
-    If you're already comfortable with testing and flashing PCBs, the firmware is available here! [Satisfaction75 Firmware](../assets/cannonkeys_satisfaction75_rev1_via_new.bin)
+    If using windows 11, there are known driver issues that may affect installation and flashing of this keyboard. While there is only a small chance of this happening, the QMK community is actively working on finding new methods and workarounds for the affected Windows 11 builds.
 
 
 ## Testing the PCB
