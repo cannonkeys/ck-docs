@@ -45,8 +45,7 @@ The PCB ships with useable firmware to test functionality, however for full via 
 
  8. Using QMK Toolbox, flash the [HoodrowG firmware file](assets/cannonkeys_hoodrowg_via.hex) found above. In order to easily enter bootloader mode, press the black reset button found on the underside of PCB, directly opposite the daughterboard.
 
-8. Once flashed successfully, unplug the PCB, then plug back in. Open up VIA.
-![](images/hoodrowg/09-open-via.jpg)
+8. Once flashed successfully, unplug the PCB, then plug back in.
 
 
 9. Navigate to the configure tab, you should see the PCB now viewable in the configure tab! At this point you can now remap your keyboard in real time using VIA. It is recommended to save your layout using the interface once you have your layout setup. This will allow you to quickly access your current layout should you want to change something.
