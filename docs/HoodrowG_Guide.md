@@ -55,4 +55,4 @@ The PCB ships with useable firmware to test functionality, however for full via 
 ![](images/hoodrowg/12-lighting.jpg)
 ![](images/hoodrowg/13-real-time-light.gif)
 
-11. At this point your PCB is fully configurable using VIA, and you should be able to drop it into your 1.2og keyboard. Use the included foam and diffuser as you would the standard one from Matrix to finish assembly.  Should you need further assistance, you can reach out our support at support@cannonkeys.com, or the build help channel in our [Discord Server](https://discord.gg/Jm3sN7N6SN).
+11. At this point your PCB is fully configurable using VIA, and you should be able to drop it into your 1.2og keyboard. Use the included foam and diffuser as you would the standard one from Matrix to finish assembly.  Should you need further assistance, you can reach out our support via the widget on our main site, or the build help channel in our [Discord Server](https://discord.gg/Jm3sN7N6SN).
