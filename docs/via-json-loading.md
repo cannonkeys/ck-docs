@@ -2,11 +2,16 @@
 Occasionally a keyboard has support for VIA, but has not yet been added into the official VIA database. To get around this, a .json can be used to give VIA the data needed for remapping.
 
 ---
-### Links for this guide
+### Links and downloads for this guide
 
  - [VIA latest download](https://www.github.com/the-via/releases/releases/latest)
  - [Keebs RGB PCB .json](assets/keebsrgb.json) 
-	 - *If you are using this guide for a different PCB, you will need the .json for that specific keyboard*
+ - [Onyx .json](assets/onyx.json)
+ - [Vicious40 .json](assets/vicious40.json)
+ - [Malicious Ergo .json](assets/malicious_ergo.json)
+
+!!! Note
+    If you are using this guide for a different PCB, you will need the .json for that specific keyboard
 
 ---
 
@@ -39,6 +44,7 @@ Occasionally a keyboard has support for VIA, but has not yet been added into the
 
  - To view different layers, click on the layer button in the top left of the interface to navigate between all your layers. You can only view one layer at a time.
  - To change lighting effects and colors, click the lighting tab in the bottom left of the interface.
+ - It is highly recommended to save your layout once everything is rebound to your liking. This will make future edits much quicker.
 
 
 ![keymap shown multiple layers](images/via-json/04-keebs-rgb-keymap.png)
