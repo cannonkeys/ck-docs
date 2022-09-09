@@ -31,8 +31,11 @@
 6. If you wish to make sure your cart is accurate, you can click the **Show Cart Contents** button to show what is in your cart.
 ![](images/hypev2/hype-06.png)
 
-7. If chosen, you will be brought to the normal shopify checkout page! Fill out as you normally would. Check your order carefully to make sure nothing has sold out.
+7. If chosen, you will be brought to the normal shopify checkout page! Fill out as you normally would.
 ![](images/hypev2/hype-07.png)
+
+8. If something in your cart goes out of stock while waiting you will be shown what went out of stock and then redirected back to the start of the checkout system.
+![](images/hypev2/hype-12.png)
 
 # Editing your order
 
@@ -56,4 +59,3 @@
 ![](images/hypev2/hype-11.png)
 
 5. You will be emailed an invoice, which will then need to be paid. Once paid, you're order edit should be all set!
-
