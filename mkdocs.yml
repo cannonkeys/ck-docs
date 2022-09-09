@@ -10,6 +10,7 @@ markdown_extensions:
 nav:
   - Back to Cannonkeys: 'https://cannonkeys.com'
   - Docs Home: index.md
+  - Hype V2 Guide: hype-v2.md
   - PCB Troubleshooting: troubleshooting.md
   - Bluepill Kits:
     - Build Guide: bluepill-build.md
@@ -28,7 +29,6 @@ nav:
     - PCB Basics: pcb_basics.md
     - Adding RGB Underglow: rgb_underglow.md
     - Removing PCB Rails: removing_pcb_rails.md
-    - Raffle Queue: raffle-queue.md
     - VIA .json Loading: via-json-loading.md
   - Instant60: instant60.md
   - AN-C: an_c.md
