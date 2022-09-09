@@ -49,7 +49,7 @@
 
 ![](images/hypev2/hype-10.png)
 
-4. Using the interface, add any items you would like, and then confirm the changes.
+4. Using the interface, add any items you would like, and then confirm the changes. If you would like to check and see the options chosen for your keyboard, this is the place to do so.
 ![](images/hypev2/hype-11.png)
 
 5. You will be emailed an invoice, which will then need to be paid. Once paid, you're order edit should be all set!
