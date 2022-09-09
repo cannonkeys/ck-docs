@@ -2,7 +2,8 @@
 
 **Link:** [https://hype.cannonkeys.com/](https://hype.cannonkeys.com/)
 
-!!! Note Nothing is yours until checkout is complete. If an item goes out of stock between joining the queue and entering checkout it will be removed from your order. At this point, you can either continue checking out, or go back to the start and reenter.
+!!! Note 
+    Nothing is yours until checkout is complete. If an item goes out of stock between joining the queue and entering checkout it will be removed from your order. At this point, you can either continue checking out, or go back to the start and reenter.
 
 # Quick Guide
 1. Go to the website and click the shop button.
@@ -35,7 +36,8 @@
 
 # Editing your order
 
-!!! Note Self-service order editing can only add items to your order. If anything must be removed, please contact our customer suport team using the widget at the bottom of [our website](https://cannonkeys.com/).
+!!! Note 
+    Self-service order editing can only add items to your order. If anything must be removed, please contact our customer suport team using the widget at the bottom of [our website](https://cannonkeys.com/).
 
 1. Click the **Edit** button on the Hype V2 landing page.
 ![](images/hypev2/hype-08.png)
@@ -45,7 +47,8 @@
 
 3. Fill out the email address with the email used to place the order. Next, using the follow up email sent post purchase from us, fill out the Order Number and Subscription ID.
 
-!!! Note The Subscription ID will be found in a second follow up email- not the usual Shopify order confirmation email. This email can take up to **10** minutes to be sent, please be patient.
+!!! Note 
+    The Subscription ID will be found in a second follow up email- not the usual Shopify order confirmation email. This email can take up to **10** minutes to be sent, please be patient.
 
 ![](images/hypev2/hype-10.png)
 
