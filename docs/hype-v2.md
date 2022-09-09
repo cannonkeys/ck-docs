@@ -3,7 +3,7 @@
 **Link:** [https://hype.cannonkeys.com/](https://hype.cannonkeys.com/)
 
 !!! Note 
-    Nothing is yours until checkout is complete. If an item goes out of stock between joining the queue and entering checkout it will be removed from your order. At this point, you can either continue checking out, or go back to the start and reenter.
+    Nothing is yours until checkout is complete. If an item goes out of stock between joining the queue and entering checkout you will have to restart the process. Please only open the checkout system in a single tab. Do not close the tab or attempt to purchase in multiple tabs/windows.
 
 # Quick Guide
 1. Go to the website and click the shop button.
