@@ -35,6 +35,8 @@
 
 # Editing your order
 
+!!! Note Self-service order editing can only add items to your order. If anything must be removed, please contact our customer suport team using the widget at the bottom of [our website](https://cannonkeys.com/).
+
 1. Click the **Edit** button on the Hype V2 landing page.
 ![](images/hypev2/hype-08.png)
 
