@@ -3,7 +3,7 @@
 **Link:** [https://hype.cannonkeys.com/](https://hype.cannonkeys.com/)
 
 !!! Note 
-    Nothing is yours until checkout is complete. If an item goes out of stock between joining the queue and entering checkout it will be removed from your order. At this point, you can either continue checking out, or go back to the start and reenter.
+    Nothing is yours until checkout is complete. If an item goes out of stock between joining the queue and entering checkout you will have to restart the process. Please only open the checkout system in a single tab. Do not close the tab or attempt to purchase in multiple tabs/windows.
 
 # Quick Guide
 1. Go to the website and click the shop button.
@@ -31,8 +31,11 @@
 6. If you wish to make sure your cart is accurate, you can click the **Show Cart Contents** button to show what is in your cart.
 ![](images/hypev2/hype-06.png)
 
-7. If chosen, you will be brought to the normal shopify checkout page! Fill out as you normally would. Check your order carefully to make sure nothing has sold out.
+7. If chosen, you will be brought to the normal shopify checkout page! Fill out as you normally would.
 ![](images/hypev2/hype-07.png)
+
+8. If something in your cart goes out of stock while waiting you will be shown what went out of stock and then redirected back to the start of the checkout system.
+![](images/hypev2/hype-12.png)
 
 # Editing your order
 
@@ -56,4 +59,3 @@
 ![](images/hypev2/hype-11.png)
 
 5. You will be emailed an invoice, which will then need to be paid. Once paid, you're order edit should be all set!
-
