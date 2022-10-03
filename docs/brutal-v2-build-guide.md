@@ -1,6 +1,6 @@
 # Brutal V2 Build Guide
 
-- **Part 1** - [Start Here](https://docs.cannonkeys.com/brutal-v2-build-guide/#Part-1---Start Here)
+- [**Part 1** - Start Here](https://docs.cannonkeys.com/brutal-v2-build-guide/#Part-1---Start-Here)
 - **Part 2** - Pre-Build Preparations
 - **Part 3** - Preparing the Case
 - **Part 4** - Assembling the Internals
