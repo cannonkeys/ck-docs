@@ -20,7 +20,7 @@ We’ve put hours upon hours of time and care into dialing in its aesthetics and
 
 
 **What's Included**
--   The Brutal V2  case itself
+-   The Brutal V2  case
 -   An aluminum plate
 -   The PCB and the USB Unified Daughterboard
 -   One set of long gaskets, one set of short gaskets
