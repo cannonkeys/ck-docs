@@ -9,7 +9,7 @@ Part 6 - Keymap Editing and Closing Words
 
 ## Part 1 - Start Here
 
-img01
+![](images/bv2/brutal01.jpg)
 
 **Thank you for your purchase!**
 Brutal V2 is the next evolution of the CannonKeys Brutalist keyboard series, carrying the brutalist inspiration at its core while blending in the latest in typing feel and acoustics.  
@@ -29,7 +29,7 @@ We’ve put hours upon hours of time and care into dialing in its aesthetics and
 -   Rubber feet
 -   Custom fitted carrying case
 
-imgincluded
+![](images/bv2/img-included.jpg)
 
 *If anything is missing, please contact CannonKeys customer support via the widget on the bottom of our website to have the issue resolved.*
 
@@ -76,46 +76,46 @@ If you haven’t done so already, please double-check to ensure all contents fro
 
 1. Remove the case screws, using the smaller Torx key.
 
-img02
+![](images/bv2/brutal02.jpg)
 
 2. After unscrewing the case screws, lift and set aside the top case.
 
-img 03
+![](images/bv2/brutal03.jpg)
 
 3. Prepare to install the gaskets on the plate.
 
-img04
+![](images/bv2/brutal04.jpg)
 
 4. Flip the plate over.
 Carefully place the long adhesive gaskets onto the **bottom side** of the plate along the tabs. 
 Tweezers can be useful for extra control.
 
-img05
-img06
+![](images/bv2/brutal05.jpg)
+![](images/bv2/brutal06.jpg)
 
 5. Repeat the process for the short gaskets on the marked tabs.
 
-img07
-img08
+![](images/bv2/brutal07.jpg)
+![](images/bv2/brutal08.jpg)
 
 **The plate is now ready for internal assembly.** 
 
-img09
+![](images/bv2/brutal09.jpg)
 
 6. Prepare the bottom case.
 Connect the USB daughterboard cable to the USB daughterboard.
 
-img11
+![](images/bv2/brutal11.jpg)
 
 7. Install the daughterboard and cable assembly into the case, then secure using four screws.
 
-img12
-img13
+![](images/bv2/brutal12.jpg)
+![](images/bv2/brutal13.jpg)
 
 8. Flip the bottom case half over.
 Install the adhesive rubber feet into the circular grooves on the bottom of the case.
 
-img10
+![](images/bv2/brutal10.jpg)
 
 **The case is now fully prepared for assembly.**
 
@@ -125,17 +125,17 @@ img10
 1. Prepare and tune the stabilizers/switches needed for your preferred layout if not done already.
 2. If you have purchased and are planning to use PCB Foam, install it onto the PCB.
 
-img21
+![](images/bv2/brutal21.jpg)
 
 3. Install the stabilizers onto the PCB.
 
-img14
+![](images/bv2/brutal14.jpg)
 
 4. **Optional step for hotswap users**
 Open the pack of hotswap standoffs and screws. Install a standoff at each of the standoff screw holes on the PCB. Secure using the short cylindrical-head hotswap screws from the bottom (not the cone-shaped countersunk screws).
 
-img15
-img30
+![](images/bv2/brutal15.jpg)
+![](images/bv2/brutal30.jpg)
 
 **For all other users:** You may leave the standoffs unused for the softest typing feel if wanted. However, if using a hotswap PCB please note the following:
 	- The PCB may begin to slide off after very extended use (many months or years), at which point you may need to re-seat the PCB against the switches by pushing it back into place.
@@ -143,15 +143,15 @@ img30
 
 5. If you plan to use the foam midlayer, install it above the PCB at this stage. Installing the foam midlayer yields a more muted and slightly deeper sound.
 
-img16
+![](images/bv2/brutal16.jpg)
 
 6. Install the plate assembly from the earlier steps so that the screw holes on the plate align with the standoffs and stabilizers installed onto the PCB.
 
-img17
+![](images/bv2/brutal17.jpg)
 
 7. Secure the plate to the standoffs using the countersunk hotswap screws for any standoffs used.
 
-img18
+![](images/bv2/brutal18.jpg)
 
 8. Prepare to install switches.
 
@@ -160,17 +160,17 @@ Check for any sort of bent legs, and repair them by bending them back to be stra
 
 	Below are two examples of switches with straight and bent pins.
 
-images/troubleshooting/switch-pin-straight-and-bent.jpg
+![](images/troubleshooting/switch-pin-straight-and-bent.jpg)
 
 9. After un-bending the legs with fingers, tweezers, flat pliers, or your tool of choice, carefully insert them to the PCB-plate assembly.
 Hold the PCB surrounding the switch and push the switch firmly down, making sure that the switch snaps into the plate and is firmly seated against the PCB.
 
-img19
+![](images/bv2/brutal19.jpg)
 
 10. Repeat steps 8-10 for all switches.
 If assembling a soldering kit, solder the switches. Make sure that the switch is seated firmly against the PCB once soldered.
 
-img20
+![](images/bv2/brutal20.jpg)
 
 11. Before we assemble the case, connect the build to a computer and to verify that all keys send a keystroke.
 
@@ -183,36 +183,36 @@ img20
 Installing the case foam will yield a more muted profile. Using both layers may impact typing feel.
 For a livelier typing experience, we recommend using no foam, or starting with one sheet.
 
-img23
+![](images/bv2/brutal23.jpg)
 
 
 2. Flip the plate-PCB assembly upside-down.
 Place the assembly next to the case bottom half, then connect the daughterboard cable into the connector on the main PCB.
 Take care to avoid bumping the assemblies against each other - this can leave visual damage on either or.
 
-img22
+![](images/bv2/brutal22.jpg)
 
 3. Flip the plate-PCB assembly carefully so as to not tear apart the daughterboard cable, and place it centered atop the case bottom.
 
-img24
-img25
+![](images/bv2/brutal24.jpg)
+![](images/bv2/brutal25.jpg)
 
 4. Carefully lower the top case half onto the assembly.
 	The internal case screw tabs should clear through the cutouts on the plate, and the bottom case half should fit into the case top walls.
 
-img26
+![](images/bv2/brutal26.jpg)
 
 5. Install the case screws.
 As stated earlier in the build guide, avoid screwing in any further or firmer than necessary.
 If you have acoustic issues after assembly, try loosening tight screws.
 
-img29
+![](images/bv2/brutal29.jpg)
 
 Install keycaps of your choice, connect to a computer and verify that everything functions as it should.
 
 **Congratulations! You’ve fully assembled your Brutal V2 keyboard.**
 
-img28
+![](images/bv2/brutal28.jpg)
 
 
 ## Part 6 - Keymap Editing and Closing Words
