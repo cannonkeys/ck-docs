@@ -1,11 +1,11 @@
 # Brutal V2 Build Guide
 
 - [**Part 1** - Start Here](https://docs.cannonkeys.com/brutal-v2-build-guide/#Part-1---Start-Here)
-- **Part 2** - Pre-Build Preparations
-- **Part 3** - Preparing the Case
-- **Part 4** - Assembling the Internals
-- **Part 5** - Putting it All Together
-- **Part 6** - Keymap Editing and Closing Words
+- [**Part 2** - Pre-Build Preparations](https://docs.cannonkeys.com/brutal-v2-build-guide/#Part-2---Pre-Build-Preparations)
+- [**Part 3** - Preparing the Case](https://docs.cannonkeys.com/brutal-v2-build-guide/#Part-3---Preparing-the-Case)
+- [**Part 4** - Assembling the Internals](https://docs.cannonkeys.com/brutal-v2-build-guide/#Part-4---Assembling-the-Internals)
+- [**Part 5** - Putting it All Together](https://docs.cannonkeys.com/brutal-v2-build-guide/#Part-5---Putting-It-All-Together)
+- [**Part 6** - Keymap Editing and Closing Words](https://docs.cannonkeys.com/brutal-v2-build-guide/#Part-6---Keymap-Editing-and-Closing-Words)
 
 ## Part 1 - Start Here
 
