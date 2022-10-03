@@ -18,6 +18,7 @@ We’ve put hours upon hours of time and care into dialing in its aesthetics and
 !!! Note 
     In order to get the most out of your keyboard and have the best end result, it's important to properly assembly your keyboard by following each and every step in this guide.
 
+
 **What's Included**
 -   The Brutal V2  case itself
 -   An aluminum plate
@@ -43,6 +44,7 @@ We’ve put hours upon hours of time and care into dialing in its aesthetics and
 
 !!! Note 
     Refrain from wiping down the board with strong chemicals such as 90+% isopropyl alcohol - this can damage the board’s finish and coatings.
+    
     
 Both the case and USB port have extensive ESD protection circuitry; however, they are not fail-safes (e.g. it isn't ideal to set a house on fire even if it has a powerful sprinkler system). Take care to discharge any excess static buildup before use, especially during building or disassembling when the PCB circuitry is exposed and unprotected.
 
@@ -73,6 +75,7 @@ If you haven’t done so already, please double-check to ensure all contents fro
 
 !!! Note
 	This build guide is written in general for all Brutal V2 series - while exact screw positions and similar may differ between the layouts, the flow is identical. We’ll outline differences where they’re important.
+
 
 1. Remove the case screws, using the smaller Torx key.
 
