@@ -96,8 +96,8 @@ Tweezers can be useful for extra control.
 ![](images/bv2/brutal08.jpg)
 
 	
-The plate is now ready for internal assembly.
-![](images/bv2/brutal09.jpg)
+    The plate is now ready for internal assembly.
+    ![](images/bv2/brutal09.jpg)
 
 6. Prepare the bottom case.
 Connect the USB daughterboard cable to the USB daughterboard.
