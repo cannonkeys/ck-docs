@@ -245,9 +245,11 @@ If you ever need support, please contact us at the following:
       
     
 -   For assembly help regarding building and similar, either contact support as per above, or ask in either [Our Discord](https://discord.com/invite/DKpykqYKAe) or [ai03’s Discord server](https://discord.gg/qA5JD9y) for live community support.
+
+We also have a robust [PCB Troubleshooting](https://docs.cannonkeys.com/troubleshooting/) page available should you wish to attempy and self diagnose any issues with the PCB prior to contacting support.
     
 
 ## How did we do?
 
 We will appreciate any feedback you have about the board, and we’ll take it into account for future projects.  
-To submit your thoughts, please leave a review for the keyboard on our webstore by visiting the listing for your keyboard - doing so will not only help better tailor our future projects to your preferences, but will also help offer insight for other keyboard enthusiasts in the future.
+To submit your thoughts, please leave a review for the keyboard on our webstore by visiting the [listing for your keyboard](https://cannonkeys.com/collections/brutalist-v2) - doing so will not only help better tailor our future projects to your preferences, but will also help offer insight for other keyboard enthusiasts in the future.
