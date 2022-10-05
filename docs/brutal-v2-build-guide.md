@@ -208,7 +208,7 @@ Take care to avoid bumping the assemblies against each other - this can leave vi
 
 ![](images/bv2/brutal26.jpg)
 
-5. Install the case screws.
+5. Install the M2x6 case screws.
 As stated earlier in the build guide, avoid screwing in any further or firmer than necessary.
 If you have acoustic issues after assembly, try loosening tight screws.
 
