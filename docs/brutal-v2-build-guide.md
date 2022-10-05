@@ -1,11 +1,11 @@
 # Brutal V2 Build Guide
 
-- [**Part 1** - Start Here](#Part-1-Start-Here)
-- [**Part 2** - Pre-Build Preparations](#Part-2-Pre-Build-Preparations)
-- [**Part 3** - Preparing the Case](#Part-3-Preparing-the-Case)
-- [**Part 4** - Assembling the Internals](#Part-4-Assembling-the-Internals)
-- [**Part 5** - Putting it All Together](#Part-5-Putting-It-All-Together)
-- [**Part 6** - Keymap Editing and Closing Words](#Part-6-Keymap-Editing-and-Closing-Words)
+- [**Part 1** - Start Here](#part-1-start-here)
+- [**Part 2** - Pre-Build Preparations](#part-2-pre-build-preparations)
+- [**Part 3** - Preparing the Case](#part-3-preparing-the-case)
+- [**Part 4** - Assembling the Internals](#part-4-assembling-the-internals)
+- [**Part 5** - Putting it All Together](#part-5-final-assembly)
+- [**Part 6** - Keymap Editing and Closing Words](#part-6-keymap-editing)
 
 ## Part 1 - Start Here
 
@@ -218,7 +218,7 @@ Install keycaps of your choice, connect to a computer and verify that everything
 ![](images/bv2/brutal28.jpg)
 
 
-## Part 6 - Keymap Editing and Closing Words
+## Part 6 - Keymap Editing
 
 For keymap editing, use either of the following:
 
