@@ -77,56 +77,42 @@ We recommend reading through the build guide once before actually carrying throu
 
 
 1. Remove the case screws, using the smaller Torx key.
-
 ![](images/bv2/brutal02.jpg)
 
-
 2. After unscrewing the case screws, lift and set aside the top case.
-
 ![](images/bv2/brutal03.jpg)
 
-
 3. Prepare to install the gaskets on the plate.
-
 ![](images/bv2/brutal04.jpg)
-
 
 4. Flip the plate over.
 Carefully place the long adhesive gaskets onto the **bottom side** of the plate along the tabs. 
 Tweezers can be useful for extra control.
-
 ![](images/bv2/brutal05.jpg)
 ![](images/bv2/brutal06.jpg)
 
-
 5. Repeat the process for the short gaskets on the marked tabs, being careful not to stretch the gaskets while placing.
-
 ![](images/bv2/brutal07.jpg)
 ![](images/bv2/brutal08.jpg)
 
+	
 The plate is now ready for internal assembly.
-
 ![](images/bv2/brutal09.jpg)
-
 
 6. Prepare the bottom case.
 Connect the USB daughterboard cable to the USB daughterboard.
-
 ![](images/bv2/brutal11.jpg)
 
 
 7. Install the daughterboard and cable assembly into the case, then secure using four M2x4 screws.
-
 ![](images/bv2/brutal12.jpg)
 ![](images/bv2/brutal13.jpg)
 
-
 8. Flip the bottom case half over.
 Install the adhesive rubber feet into the circular grooves on the bottom of the case.
-
 ![](images/bv2/brutal10.jpg)
 
-**The case is now fully prepared for assembly.**
+The case is now fully prepared for assembly.
 
 
 ## Part 4 - Assembling the Internals
