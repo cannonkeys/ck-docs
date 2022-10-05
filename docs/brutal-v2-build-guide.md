@@ -21,18 +21,17 @@ We’ve put hours upon hours of time and care into dialing in its aesthetics and
 
 **What's Included**
 
--   The Brutal V2 case
--   An aluminum fulle
--   The PCB and the USB Unified Daughterboard + JST Cable
--   One set of long gaskets, one set of short gaskets
--   One sheet of midfoam (between the plate and PCB)
--   Two sheets of bottom foam (below the PCB)
--   Torx keys of sizes T6 and T10
--   Screws
--   Rubber feet
--   HS Standoffs
--   Custom fitted carrying case
-
+-  The Brutal V2 case
+-  An aluminum fulle
+-  The PCB and the USB Unified Daughterboard + JST Cable
+-  One set of long gaskets, one set of short gaskets
+-  One sheet of midfoam (between the plate and PCB)
+-  Two sheets of bottom foam (below the PCB)
+-  Torx keys of sizes T6 and T10
+-  Screws
+-  Rubber feet
+-  HS Standoffs
+-  Custom fitted carrying case
 
 *If anything is missing, please contact CannonKeys customer support via the widget on the bottom of our website to have the issue resolved.*
 
