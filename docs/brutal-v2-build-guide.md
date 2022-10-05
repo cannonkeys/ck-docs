@@ -132,6 +132,7 @@ Open the pack of hotswap standoffs and screws. Install a standoff at each of the
 ![](images/bv2/brutal30.jpg)
 
     **For all other users:** You may leave the standoffs unused for the softest typing feel if wanted. However, if using a hotswap PCB please note the following:
+    
 	- The PCB may begin to slide off after very extended use (many months or years), at which point you may need to re-seat the PCB against the switches by pushing it back into place.
 	- Swapping switches will require case disassembly to firmly seat the switches against the PCB.
 
