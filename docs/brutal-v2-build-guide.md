@@ -119,65 +119,46 @@ The case is now fully prepared for assembly.
 
 1. Prepare and tune the stabilizers/switches needed for your preferred layout if not done already.
 
-
 2. If you have purchased and are planning to use PCB Foam, install it onto the PCB.
-
 ![](images/bv2/brutal21.jpg)
 
 
 3. Install the stabilizers onto the PCB.
-
 ![](images/bv2/brutal14.jpg)
-
 
 4. **Optional step for hotswap users**
 Open the pack of hotswap standoffs and screws. Install a standoff at each of the standoff screw holes on the PCB. Secure using the short cylindrical-head hotswap screws from the bottom (not the cone-shaped countersunk screws).
-
 ![](images/bv2/brutal15.jpg)
 ![](images/bv2/brutal30.jpg)
 
-**For all other users:** You may leave the standoffs unused for the softest typing feel if wanted. However, if using a hotswap PCB please note the following:
+    **For all other users:** You may leave the standoffs unused for the softest typing feel if wanted. However, if using a hotswap PCB please note the following:
 	- The PCB may begin to slide off after very extended use (many months or years), at which point you may need to re-seat the PCB against the switches by pushing it back into place.
 	- Swapping switches will require case disassembly to firmly seat the switches against the PCB.
 
-
-
 5. If you plan to use the foam midlayer, install it above the PCB at this stage. Installing the foam midlayer yields a more muted and slightly deeper sound.
-
 ![](images/bv2/brutal16.jpg)
 
-
 6. Install the plate assembly from the earlier steps so that the screw holes on the plate align with the standoffs and stabilizers installed onto the PCB.
-
 ![](images/bv2/brutal17.jpg)
 
-
 7. Secure the plate to the standoffs using the countersunk hotswap screws for any standoffs used.
-
 ![](images/bv2/brutal18.jpg)
-
 
 8. Prepare to install switches.
 
-	First, take the switch and flip it upside down.
-Check for any sort of bent legs, and repair them by bending them back to be straight.
+    First, take the switch and flip it upside down.
+    Check for any sort of bent legs, and repair them by bending them back to be straight.
 
-	Below are two examples of switches with straight and bent pins.
-
-![](images/troubleshooting/switch-pin-straight-and-bent.jpg)
-
+    Below are two examples of switches with straight and bent pins.
+    ![](images/troubleshooting/switch-pin-straight-and-bent.jpg)
 
 9. After un-bending the legs with fingers, tweezers, flat pliers, or your tool of choice, carefully insert them to the PCB-plate assembly while supporting the hotswap socket from the bottom.
 Hold the PCB surrounding the switch and push the switch firmly down, making sure that the switch snaps into the plate and is firmly seated against the PCB.
-
 ![](images/bv2/brutal19.jpg)
-
 
 10. Repeat steps 8-10 for all switches.
 If assembling a soldering kit, solder the switches. Make sure that the switch is seated firmly against the PCB once soldered.
-
 ![](images/bv2/brutal20.jpg)
-
 
 11. Before we assemble the case, connect the build to a computer and to verify that all keys send a keystroke.
 
