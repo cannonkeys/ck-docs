@@ -5,7 +5,7 @@
 - [**Part 3** - Preparing the Case](#part-3-preparing-the-case)
 - [**Part 4** - Assembling the Internals](#part-4-assembling-the-internals)
 - [**Part 5** - Putting it All Together](#part-5-final-assembly)
-- [**Part 6** - Keymap Editing and Closing Words](#part-6-keymap-editing)
+- [**Part 6** - Keymap Editing](#part-6-keymap-editing)
 
 ## Part 1 - Start Here
 
