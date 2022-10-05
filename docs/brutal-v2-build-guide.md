@@ -20,6 +20,7 @@ We’ve put hours upon hours of time and care into dialing in its aesthetics and
 
 
 **What's Included**
+
 -   The Brutal V2 case
 -   An aluminum fulle
 -   The PCB and the USB Unified Daughterboard + JST Cable
@@ -31,7 +32,6 @@ We’ve put hours upon hours of time and care into dialing in its aesthetics and
 -   Rubber feet
 -   HS Standoffs
 -   Custom fitted carrying case
-
 
 
 *If anything is missing, please contact CannonKeys customer support via the widget on the bottom of our website to have the issue resolved.*
