@@ -38,12 +38,13 @@ We’ve put hours upon hours of time and care into dialing in its aesthetics and
 ![](images/bv2/img-included.jpg)
 
 **Parts and Tools Needed**
--   Switches
--   Stabilizers
--   Keycaps
--   USB-C cable which follows USB specifications
--   Soldering and desoldering equipment if you purchased the solderable PCB
--   Optionally tweezers to facilitate some steps
+
+-  Switches
+-  Stabilizers
+-  Keycaps
+-  USB-C cable which follows USB specifications
+-  Soldering and desoldering equipment if you purchased the solderable PCB
+-  Optionally tweezers to facilitate some steps
 
 !!! Note 
     Refrain from wiping down the board with strong chemicals such as 90+% isopropyl alcohol - this can damage the board’s finish and coatings.
