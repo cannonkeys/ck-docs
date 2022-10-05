@@ -61,13 +61,16 @@ We recommend reading through the build guide once before actually carrying throu
 **Pre-assembly checklist:**
 1.  **Check for flaws**
 
+
 Check for any major external flaws that would disqualify the board as an A-stock unit or the version purchased. If you have any questionable flaws, please stop and contact us immediately. The keyboard must be unbuilt and unused in the case a replacement is required.
 
 2.  **Double check the contents**  
 
+
 If you haven’t done so already, please double-check to ensure all contents from Part 1 are accounted for.
 
 3.  **Test the PCB**
+
 
 Check the bag and make sure there are no broken-off hotswap sockets or USB connectors rattling around in the bag. Plug in the PCB and verify that your computer detects it as a device.
 
@@ -85,13 +88,16 @@ Check the bag and make sure there are no broken-off hotswap sockets or USB conne
 
 ![](images/bv2/brutal02.jpg)
 
+
 2. After unscrewing the case screws, lift and set aside the top case.
 
 ![](images/bv2/brutal03.jpg)
 
+
 3. Prepare to install the gaskets on the plate.
 
 ![](images/bv2/brutal04.jpg)
+
 
 4. Flip the plate over.
 Carefully place the long adhesive gaskets onto the **bottom side** of the plate along the tabs. 
@@ -99,6 +105,7 @@ Tweezers can be useful for extra control.
 
 ![](images/bv2/brutal05.jpg)
 ![](images/bv2/brutal06.jpg)
+
 
 5. Repeat the process for the short gaskets on the marked tabs, being careful not to stretch the gaskets while placing.
 
@@ -109,15 +116,18 @@ The plate is now ready for internal assembly.
 
 ![](images/bv2/brutal09.jpg)
 
+
 6. Prepare the bottom case.
 Connect the USB daughterboard cable to the USB daughterboard.
 
 ![](images/bv2/brutal11.jpg)
 
+
 7. Install the daughterboard and cable assembly into the case, then secure using four M2x4 screws.
 
 ![](images/bv2/brutal12.jpg)
 ![](images/bv2/brutal13.jpg)
+
 
 8. Flip the bottom case half over.
 Install the adhesive rubber feet into the circular grooves on the bottom of the case.
@@ -130,13 +140,17 @@ Install the adhesive rubber feet into the circular grooves on the bottom of the 
 ## Part 4 - Assembling the Internals
 
 1. Prepare and tune the stabilizers/switches needed for your preferred layout if not done already.
+
+
 2. If you have purchased and are planning to use PCB Foam, install it onto the PCB.
 
 ![](images/bv2/brutal21.jpg)
 
+
 3. Install the stabilizers onto the PCB.
 
 ![](images/bv2/brutal14.jpg)
+
 
 4. **Optional step for hotswap users**
 Open the pack of hotswap standoffs and screws. Install a standoff at each of the standoff screw holes on the PCB. Secure using the short cylindrical-head hotswap screws from the bottom (not the cone-shaped countersunk screws).
@@ -148,17 +162,22 @@ Open the pack of hotswap standoffs and screws. Install a standoff at each of the
 	- The PCB may begin to slide off after very extended use (many months or years), at which point you may need to re-seat the PCB against the switches by pushing it back into place.
 	- Swapping switches will require case disassembly to firmly seat the switches against the PCB.
 
+
+
 5. If you plan to use the foam midlayer, install it above the PCB at this stage. Installing the foam midlayer yields a more muted and slightly deeper sound.
 
 ![](images/bv2/brutal16.jpg)
+
 
 6. Install the plate assembly from the earlier steps so that the screw holes on the plate align with the standoffs and stabilizers installed onto the PCB.
 
 ![](images/bv2/brutal17.jpg)
 
+
 7. Secure the plate to the standoffs using the countersunk hotswap screws for any standoffs used.
 
 ![](images/bv2/brutal18.jpg)
+
 
 8. Prepare to install switches.
 
@@ -169,15 +188,18 @@ Check for any sort of bent legs, and repair them by bending them back to be stra
 
 ![](images/troubleshooting/switch-pin-straight-and-bent.jpg)
 
+
 9. After un-bending the legs with fingers, tweezers, flat pliers, or your tool of choice, carefully insert them to the PCB-plate assembly while supporting the hotswap socket from the bottom.
 Hold the PCB surrounding the switch and push the switch firmly down, making sure that the switch snaps into the plate and is firmly seated against the PCB.
 
 ![](images/bv2/brutal19.jpg)
 
+
 10. Repeat steps 8-10 for all switches.
 If assembling a soldering kit, solder the switches. Make sure that the switch is seated firmly against the PCB once soldered.
 
 ![](images/bv2/brutal20.jpg)
+
 
 11. Before we assemble the case, connect the build to a computer and to verify that all keys send a keystroke.
 
@@ -193,21 +215,25 @@ For a livelier typing experience, we recommend using no foam, or starting with o
 ![](images/bv2/brutal23.jpg)
 
 
+
 2. Flip the plate-PCB assembly upside-down.
 Place the assembly next to the case bottom half, then connect the daughterboard cable into the connector on the main PCB.
 Take care to avoid bumping the assemblies against each other - this can leave visual damage on either or.
 
 ![](images/bv2/brutal22.jpg)
 
+
 3. Flip the plate-PCB assembly carefully so as to not tear apart the daughterboard cable, and place it centered atop the case bottom.
 
 ![](images/bv2/brutal24.jpg)
 ![](images/bv2/brutal25.jpg)
 
+
 4. Carefully lower the top case half onto the assembly.
 	The internal case screw tabs should clear through the cutouts on the plate, and the bottom case half should fit into the case top walls.
 
 ![](images/bv2/brutal26.jpg)
+
 
 5. Install the M2x6 case screws.
 As stated earlier in the build guide, avoid screwing in any further or firmer than necessary.
