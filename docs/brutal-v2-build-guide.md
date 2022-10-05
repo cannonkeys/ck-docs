@@ -51,7 +51,7 @@ We’ve put hours upon hours of time and care into dialing in its aesthetics and
     
 Both the case and USB port have extensive ESD protection circuitry; however, they are not fail-safes (e.g. it isn't ideal to set a house on fire even if it has a powerful sprinkler system). Take care to discharge any excess static buildup before use, especially during building or disassembling when the PCB circuitry is exposed and unprotected.
 
-Do not overtighten the screws. Simply stop when the screws want to stop; overtightening risks destroying the board as well as causing nasty acoustics such as excessive pinging.
+Do not overtighten the screws. Simply stop when the screws want to stop; overtightening risks destroying the board as well as causing unwanted acoustics such as excessive pinging.
 When screwing screws, take care not to bash the Torx key against case parts to avoid causing damage. If using a third-party Torx driver, make sure that the driver is thin enough that it doesn't chip away at the inner sides of the case.
 
 We recommend reading through the build guide once before actually carrying through with it - this will give a good idea of what’s upcoming at the next step.
@@ -171,34 +171,25 @@ Now that the internals are successfully installed, it’s time for final assembl
 1. If you plan on using the case foam layers, place them into the bottom case half.
 Installing the case foam will yield a more muted profile. Using both layers may impact typing feel.
 For a livelier typing experience, we recommend using no foam, or starting with one sheet.
-
 ![](images/bv2/brutal23.jpg)
-
-
 
 2. Flip the plate-PCB assembly upside-down.
 Place the assembly next to the case bottom half, then connect the daughterboard cable into the connector on the main PCB.
 Take care to avoid bumping the assemblies against each other - this can leave visual damage on either or.
-
 ![](images/bv2/brutal22.jpg)
 
-
 3. Flip the plate-PCB assembly carefully so as to not tear apart the daughterboard cable, and place it centered atop the case bottom.
-
 ![](images/bv2/brutal24.jpg)
 ![](images/bv2/brutal25.jpg)
 
-
 4. Carefully lower the top case half onto the assembly.
-	The internal case screw tabs should clear through the cutouts on the plate, and the bottom case half should fit into the case top walls.
 
+    The internal case screw tabs should clear through the cutouts on the plate, and the bottom case half should fit into the case top walls.
 ![](images/bv2/brutal26.jpg)
-
 
 5. Install the M2x6 case screws.
 As stated earlier in the build guide, avoid screwing in any further or firmer than necessary.
 If you have acoustic issues after assembly, try loosening tight screws.
-
 ![](images/bv2/brutal29.jpg)
 
 Install keycaps of your choice, connect to a computer and verify that everything functions as it should.
