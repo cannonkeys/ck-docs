@@ -33,6 +33,7 @@ We’ve put hours upon hours of time and care into dialing in its aesthetics and
 -   Custom fitted carrying case
 
 
+
 *If anything is missing, please contact CannonKeys customer support via the widget on the bottom of our website to have the issue resolved.*
 
 ![](images/bv2/img-included.jpg)
