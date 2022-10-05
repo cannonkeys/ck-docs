@@ -59,18 +59,16 @@ We recommend reading through the build guide once before actually carrying throu
 ## Part 2 - Pre-Build Preparations
 
 **Pre-assembly checklist:**
-1. **Check for flaws**
 
+1. **Check for flaws**
 
 Check for any major external flaws that would disqualify the board as an A-stock unit or the version purchased. If you have any questionable flaws, please stop and contact us immediately. The keyboard must be unbuilt and unused in the case a replacement is required.
 
 2. **Double check the contents**  
 
-
 If you haven’t done so already, please double-check to ensure all contents from Part 1 are accounted for.
 
 3. **Test the PCB**
-
 
 Check the bag and make sure there are no broken-off hotswap sockets or USB connectors rattling around in the bag. Plug in the PCB and verify that your computer detects it as a device.
 
