@@ -16,23 +16,25 @@ Brutal V2 is the next evolution of the CannonKeys Brutalist keyboard series, car
 We’ve put hours upon hours of time and care into dialing in its aesthetics and performance for your enjoyment and everyday use.
 
 !!! Note 
-    In order to get the most out of your keyboard and have the best end result, it's important to properly assembly your keyboard by following each and every step in this guide.
+    In order to get the most out of your keyboard and have the best end result, it's important to properly assemble your keyboard by following each and every step in this guide.
 
 
 **What's Included**
--   The Brutal V2  case
--   An aluminum plate
--   The PCB and the USB Unified Daughterboard
+-   The Brutal V2 case
+-   An aluminum fulle
+-   The PCB and the USB Unified Daughterboard + JST Cable
 -   One set of long gaskets, one set of short gaskets
 -   One sheet of midfoam (between the plate and PCB)
 -   Two sheets of bottom foam (below the PCB)
 -   Torx keys of sizes T6 and T10
+-   Screws
 -   Rubber feet
+-   HS Standoffs
 -   Custom fitted carrying case
 
-![](images/bv2/img-included.jpg)
-
 *If anything is missing, please contact CannonKeys customer support via the widget on the bottom of our website to have the issue resolved.*
+
+![](images/bv2/img-included.jpg)
 
 **Parts and Tools Needed**
 -   Switches
@@ -57,15 +59,16 @@ We recommend reading through the build guide once before actually carrying throu
 
 **Pre-assembly checklist:**
 1.  **Check for flaws**
-Check for any major external flaws that would disqualify the board as an A-stock unit or the version purchased.
 
-	If you have any questionable flaws, please stop and contact us immediately. The keyboard must be unbuilt and unused in the case a replacement is required.
+Check for any major external flaws that would disqualify the board as an A-stock unit or the version purchased. If you have any questionable flaws, please stop and contact us immediately. The keyboard must be unbuilt and unused in the case a replacement is required.
 
 2.  **Double check the contents**  
+
 If you haven’t done so already, please double-check to ensure all contents from Part 1 are accounted for.
 
 3.  **Test the PCB**
-	Check the bag - Make sure there are no broken-off hotswap sockets or USB connectors rattling around in the bag. Plug in the PCB and verify that your computer detects it as a device.
+
+Check the bag and make sure there are no broken-off hotswap sockets or USB connectors rattling around in the bag. Plug in the PCB and verify that your computer detects it as a device.
 
 !!! Note 
     If you are testing key functionality at this stage, do note that the caps lock position is bound to Fn (referred to as MO(1) in qmk) by default, and will not send a keystroke on its own. Instead, hold the caps lock position and press the numrow, and see if it sends F1-F12 rather than the number/character.
@@ -74,7 +77,7 @@ If you haven’t done so already, please double-check to ensure all contents fro
 ## Part 3 - Preparing the Case
 
 !!! Note
-	This build guide is written in general for all Brutal V2 series - while exact screw positions and similar may differ between the layouts, the flow is identical. We’ll outline differences where they’re important.
+	This build guide is written in general for all Brutal V2 series - while exact screw positions may differ between the layouts, the flow is identical. We’ll outline differences where they’re important.
 
 
 1. Remove the case screws, using the smaller Torx key.
@@ -96,12 +99,12 @@ Tweezers can be useful for extra control.
 ![](images/bv2/brutal05.jpg)
 ![](images/bv2/brutal06.jpg)
 
-5. Repeat the process for the short gaskets on the marked tabs.
+5. Repeat the process for the short gaskets on the marked tabs, being careful not to stretch the gaskets while placing.
 
 ![](images/bv2/brutal07.jpg)
 ![](images/bv2/brutal08.jpg)
 
-**The plate is now ready for internal assembly.** 
+The plate is now ready for internal assembly.
 
 ![](images/bv2/brutal09.jpg)
 
@@ -110,7 +113,7 @@ Connect the USB daughterboard cable to the USB daughterboard.
 
 ![](images/bv2/brutal11.jpg)
 
-7. Install the daughterboard and cable assembly into the case, then secure using four screws.
+7. Install the daughterboard and cable assembly into the case, then secure using four M2x4 screws.
 
 ![](images/bv2/brutal12.jpg)
 ![](images/bv2/brutal13.jpg)
@@ -165,7 +168,7 @@ Check for any sort of bent legs, and repair them by bending them back to be stra
 
 ![](images/troubleshooting/switch-pin-straight-and-bent.jpg)
 
-9. After un-bending the legs with fingers, tweezers, flat pliers, or your tool of choice, carefully insert them to the PCB-plate assembly.
+9. After un-bending the legs with fingers, tweezers, flat pliers, or your tool of choice, carefully insert them to the PCB-plate assembly while supporting the hotswap socket from the bottom.
 Hold the PCB surrounding the switch and push the switch firmly down, making sure that the switch snaps into the plate and is firmly seated against the PCB.
 
 ![](images/bv2/brutal19.jpg)
@@ -177,7 +180,7 @@ If assembling a soldering kit, solder the switches. Make sure that the switch is
 
 11. Before we assemble the case, connect the build to a computer and to verify that all keys send a keystroke.
 
-**Now that the internals are successfully installed, it’s time for final assembly.**
+Now that the internals are successfully installed, it’s time for final assembly.
 
 
 ## Part 5 - Final Assembly
