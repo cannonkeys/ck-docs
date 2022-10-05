@@ -246,7 +246,7 @@ If you ever need support, please contact us at the following:
     
 -   For assembly help regarding building and similar, either contact support as per above, or ask in either [Our Discord](https://discord.com/invite/DKpykqYKAe) or [ai03’s Discord server](https://discord.gg/qA5JD9y) for live community support.
 
-We also have a robust [PCB Troubleshooting](https://docs.cannonkeys.com/troubleshooting/) page available should you wish to attempy and self diagnose any issues with the PCB prior to contacting support.
+We also have a robust [PCB Troubleshooting](https://docs.cannonkeys.com/troubleshooting/) page available should you wish to attempt and self diagnose any issues with the PCB prior to contacting support.
     
 
 ## How did we do?
