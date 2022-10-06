@@ -22,7 +22,7 @@ We’ve put hours upon hours of time and care into dialing in its aesthetics and
 **What's Included**
 
 -  The Brutal V2 case
--  An aluminum fulle
+-  An aluminum full plate
 -  The PCB and the USB Unified Daughterboard + JST Cable
 -  One set of long gaskets, one set of short gaskets
 -  One sheet of midfoam (between the plate and PCB)
@@ -101,7 +101,7 @@ Tweezers can be useful for extra control.
     ![](images/bv2/brutal09.jpg)
 
 6. Prepare the bottom case.
-Connect the USB daughterboard cable to the USB daughterboard.
+Connect the USB daughterboard cable (JST cable) to the USB daughterboard.
 ![](images/bv2/brutal11.jpg)
 
 
@@ -128,7 +128,7 @@ The case is now fully prepared for assembly.
 ![](images/bv2/brutal14.jpg)
 
 4. **Optional step for hotswap users**
-Open the pack of hotswap standoffs and screws. Install a standoff at each of the standoff screw holes on the PCB. Secure using the short cylindrical-head hotswap screws from the bottom (not the cone-shaped countersunk screws).
+    Open the pack of hotswap standoffs and screws. Install a standoff at each of the standoff screw holes on the PCB. Secure using the short cylindrical-head hotswap screws from the bottom (not the cone-shaped countersunk screws).
 ![](images/bv2/brutal15.jpg)
 ![](images/bv2/brutal30.jpg)
 
