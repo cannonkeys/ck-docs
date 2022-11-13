@@ -121,7 +121,7 @@ Remove the rubber circles from the black strip and apply them to the keyboard.
 1. Using the 1.5mm hex key, loosen the set screw in the knob
     ![](../images/balance/19_loosen_knob.jpg)
 
-1. Align the set screw of the knob with the flat face of the encoder
+1. Align the set screw of the knob with the flat face of the encoder. Put the knob over the encoder maintaining this alignment.
     ![](../images/balance/20_align_knob.jpg)
 
 1. Re-tighten the set screw
