@@ -23,6 +23,12 @@ Thank you for purchasing a Balance keyboard from us! This guide should help you 
 
 1. Plug in the daughterboard and use tweezers to test each switch footprint for a keypress.
 
+This is the default layout:
+
+![](../images/balance/default_layout.png)
+
+Note that MO(1) is a Function key - it will not trigger a keypress, but if you hold it and hit "1", F1 should trigger.
+
 If you encounter any issues in this phase, please contact support immediately for troubleshooting.
 
 ## Add the Feet
@@ -53,7 +59,7 @@ Remove the rubber circles from the black strip and apply them to the keyboard.
 1. Insert your switches into the plate and PCB, and solder the switch legs into the switch holes. Be sure none of the switch pins are bent, and that the switches are seated all the way flush with the plate:
     ![](../images/balance/06_add_switches.jpg)
 
-1. Insert the encoder and solder it. We recommend doing this after the switches because the encoder is taller than the switches.
+1. Insert the encoder and solder it. We recommend doing this after the switches because the encoder is taller than the switches. Ensure that the encoder is soldered perfectly straight. Not doing so could cause your knob to rub against the case.
     ![](../images/balance/07_add_encoder.jpg)
 
 1. Finish soldering up your PCB
