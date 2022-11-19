@@ -14,7 +14,7 @@ There are some prerequisites that you will need:
 - A Github account
 - The Github Desktop app
 - Knowlege of how to write [Markdown](https://www.markdownguide.org/). If you don't know how to do this - it's pretty easy to pick up.
-- Some way to edit markdown - we recommend VSCode[https://code.visualstudio.com/] or [Ghostwriter](https://ghostwriter.kde.org/) as they have live preview capabilities.
+- Some way to edit markdown - we recommend [VSCode](https://code.visualstudio.com/) or [Ghostwriter](https://ghostwriter.kde.org/) as they have live preview capabilities.
 
 
 ## Forking the Repo
