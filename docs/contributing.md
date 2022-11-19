@@ -10,6 +10,7 @@ If you're not sure where to start, we put together this little guide.
 ## Prerequisites 
 
 There are some prerequisites that you will need:
+
 - A Github account
 - The Github Desktop app
 - Knowlege of how to write [Markdown](https://www.markdownguide.org/). If you don't know how to do this - it's pretty easy to pick up.
