@@ -45,7 +45,15 @@ There are some prerequisites that you will need:
 
 ## Making Local Changes
 
-1. Now, we need to make our desired changes. As you change files, you'll see them show up in Github Desktop as changed files.
+1. Now, we need to make our desired changes. Use your selected app to create or modify files as necessary to contribute to the Markdown docs.
+
+1. As you change files, you'll see them show up in Github Desktop as changed files.
     ![](images/contributing/07_files_changed.png)
 
+1. When you're ready to submit your changes, make sure you fill in a summary and description of your changes and hit "Commit to Master"
+    ![](images/contributing/08_add_description.png)
+
+
+1. Your changes are now saved and committed to your local copy of the repository. Now we have to upload it to Github. Press the "Push origin" button.
+    ![](images/contributing/09_push_origin.png)
 
