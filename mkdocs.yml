@@ -47,6 +47,7 @@ nav:
     - Firmware Guide: firmware.md
     - Default Layouts: default-layouts.md
     - Using Low Profile Sockets: sockets.md
+  - Contribution Guide: contributing.md
 
 extra:
   social:
