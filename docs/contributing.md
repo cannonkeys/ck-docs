@@ -57,3 +57,20 @@ There are some prerequisites that you will need:
 1. Your changes are now saved and committed to your local copy of the repository. Now we have to upload it to Github. Press the "Push origin" button.
     ![](images/contributing/09_push_origin.png)
 
+## Submitting Changes Upstream
+
+1. Next, we will submit our changes to ck-docs/cannonkeys. Go to Branch in the Github Desktop menu and select "Create Pull Request"
+    ![](images/contributing/10_create_pull_request.png)
+
+1. This will open up Github in your browser. You can look through this page to make sure all your changes made it into your request. When you're done reviewing, hit the "Create Pull Request" button.
+    ![](images/contributing/11_pull_request_web.png)
+
+1. Fill in a title and description for your pull request, if it's not already there. When you're done, hit the "Create Pull Request" button again.
+    ![](images/contributing/12_pull_request_details.png)
+
+1. Congratulations! You've submitted a change! Hop on Discord and let us know that you've submitted a new request!
+    ![](images/contributing/13_pull_request_submitted.png)
+
+
+
+
