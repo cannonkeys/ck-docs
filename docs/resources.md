@@ -47,6 +47,8 @@ Furthermore, we provide these files as-is and provide no warranty or guarantee a
  * [DevastatingTKL, 7U](assets/plates/devastating_7U_plate.dxf)
  * [Rekt1800, Standard (6.25U)](assets/plates/rekt1800_standard.dxf)
  * [Rekt1800, 7U](assets/plates/rekt1800_wkl.dxf)
+ * [Malicious Ergo](assets/plates/MaliciousErgo_Plate_Revised.dxf)
+ * [Vicious40](assets/plates/Vicious40_Plate.dxf)
  * [Chimera65, Standard](assets/plates/Chimera_Standard.dxf)
  * [Chimera65, WKL](assets/plates/Chimera_WKL.dxf)
  * Satisfaction75 R2 Plate Files - Please contact support via our widget that can be found in the bottom right corner of our [contact us](https://cannonkeys.com/pages/contact-us) page with your intended use.
