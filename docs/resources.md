@@ -28,8 +28,6 @@ In particular, these M2 screws are used for the Satisfaction75 and Brutal Series
 
 The Chimera and Balance boards use a different set of hardware, which we will add here in the near future.
 
-*If something is out of stock, please reach out in the #build-help-and-tech-suport channel in the [Cannonkeys Discord](https://discord.com/invite/Jm3sN7N6SN). Special thanks to Chippy for putting this chart together*
-
 
 ## Plate Disclaimer
 For most CannonKeys designed keyboards, since we may not offer plates in every material someone might want, we release our plate files. These are **available solely for personal use**. We've chosen to release this under the [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License](https://creativecommons.org/licenses/by-nc-nd/4.0/). This means while you can use these files to make a plate for your own use, you can't distribute any derivative works, or use them for any commercial purposes. We consider group buys as a commercial purpose.
@@ -79,3 +77,5 @@ These models are provided under a [Creative Commons Attribution 4.0 Internationa
  - [Vicious40 .json](assets/vicious40.json)
  - [Malicious Ergo .json](assets/malicious_ergo.json)
  - [Brutal V2 1800 .json](assets/brutalv2_1800.json)
+
+[VIA .json Sideloading Guide](https://docs.cannonkeys.com/via-json-loading/)
