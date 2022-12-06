@@ -70,3 +70,12 @@ These models are provided under a [Creative Commons Attribution 4.0 Internationa
 * [Rekt1800](assets/pcb_step/rekt1800PCB_model.zip)
 
 [![License: CC BY 4.0](https://licensebuttons.net/l/by/4.0/80x15.png)](https://creativecommons.org/licenses/by/4.0/)
+
+### VIA .jsons for Sideloading
+
+ - [VIA latest download](https://www.github.com/the-via/releases/releases/latest)
+ - [Keebs RGB PCB .json](assets/keebsrgb.json) 
+ - [Onyx .json](assets/onyx.json)
+ - [Vicious40 .json](assets/vicious40.json)
+ - [Malicious Ergo .json](assets/malicious_ergo.json)
+ - [Brutal V2 1800 .json](assets/brutalv2_1800.json)
