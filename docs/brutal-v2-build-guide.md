@@ -30,7 +30,7 @@ We’ve put hours upon hours of time and care into dialing in its aesthetics and
 -  Torx keys of sizes T6 and T10
 -  Screws
 -  Rubber feet
--  HS Standoffs
+-  HS Standoffs (65% only)
 -  Custom fitted carrying case
 
 *If anything is missing, please contact CannonKeys customer support via the widget on the bottom of our website to have the issue resolved.*
@@ -127,7 +127,7 @@ The case is now fully prepared for assembly.
 3. Install the stabilizers onto the PCB.
 ![](images/bv2/brutal14.jpg)
 
-4. **Optional step for hotswap users**: Open the pack of hotswap standoffs and screws. Install a standoff at each of the standoff screw holes on the PCB. Secure using the short cylindrical-head hotswap screws from the bottom (not the cone-shaped countersunk screws).
+4. **Optional step for hotswap users**: Open the pack of hotswap standoffs (if included) and screws. Install a standoff at each of the standoff screw holes on the PCB. Secure using the short cylindrical-head hotswap screws from the bottom (not the cone-shaped countersunk screws).
 ![](images/bv2/brutal15.jpg)
 ![](images/bv2/brutal30.jpg)
 
