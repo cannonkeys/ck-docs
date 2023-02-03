@@ -37,7 +37,7 @@ Warning: Damage, imperfections, etc. due to disregarding the build guide instruc
     
 -   And a hex key to assemble it all together.
     
-![](images/horizon/Hor-0.png)
+![](images/horizon/Hor-0.jpg)
   
 
 ## Assembly
