@@ -25,6 +25,7 @@ nav:
     - Adding RGB Underglow: rgb_underglow.md
     - Removing PCB Rails: removing_pcb_rails.md
     - VIA .json Loading: via-json-loading.md
+  - Horizon Stand Guide: horizon-guide.md
   - Instant60: instant60.md
   - AN-C: an_c.md
   - Sagittarius Build Guide: sagittarius-guide.md
