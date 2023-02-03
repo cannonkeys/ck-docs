@@ -37,7 +37,7 @@ Warning: Damage, imperfections, etc. due to disregarding the build guide instruc
     
 -   And a hex key to assemble it all together.
     
-
+![](images/horizon/Hor-0.png)
   
 
 ## Assembly
@@ -52,46 +52,58 @@ Warning: Damage, imperfections, etc. due to disregarding the build guide instruc
     
 
 Insert one of the screws into one of the panel holes.
+
+  ![](images/horizon/Hor-1.png)
   
 
 3.  From the other side of the panel, insert a washer into the protruding screw.  
-      
+
+  ![](images/horizon/Hor-2.png)
     
 4.  Install an aluminum rod onto the protruding screw.
-    
+ 
 
 Hold the screw and rotate the rod to screw it partially into place.  
-Do not tighten the rod or screw - the assembly should be left loose enough for the panel to wobble around.  
+Do not tighten the rod or screw - the assembly should be left loose enough for the panel to wobble around. 
+  ![](images/horizon/Hor-3.png)
 
 5.  Repeat steps 2 through 4 on the other screw hole of the same panel.  
     
+    ![](images/horizon/Hor-5.png)
 6.  Prepare the other panel.  
     Insert a screw into one of the panel holes, on the opposite side of what was chosen for steps 2~5.  
     Install a washer onto the protruding screw from the other side.  
+    ![](images/horizon/Hor-6.png)
     
 7.  Move the assembly from step 6 onto the assembly from step 5.  
     Rotate the screw to screw it into the corresponding aluminum rod, but as per before, only screw it in partially so the panel can move around.  
-      
+    ![](images/horizon/Hor-7.png)
     
-8.  Insert a washer between the rod and panel at the final remaining panel hole.  
+8.  Insert a washer between the rod and panel at the final remaining panel hole.
+    ![](images/horizon/Hor-8.png)
     
 9.  Install the last screw through the panel and washer into the rod, leaving it loose as per before.   
-      
+    ![](images/horizon/Hor-9.png)
     
 10.  Place the assembly on a known flat surface such as a tabletop.  
     Make sure both panels are sitting flat on the surface.    
-      
+    ![](images/horizon/Hor-10.png) 
     
 11.  Screw in the four screws a small amount at a time, making sure both panels are continuing to make full contact against the surface and are not rotating out of shape.  
       
     Tighten the screws enough for the assembly to hold its shape firmly, but do not overtighten - doing so may shatter the panels.  
       
     If the panels rotate out of position and the assembly starts to wobble, loosen the screws and re-attempt.
+   ![](images/horizon/Hor-11.png) 
     
 12.  Install four of the adhesive silicone pads to the underside of the panels.          
-    
+   ![](images/horizon/Hor-12.png) 
+   
 13.  Install four of the adhesive silicone pads to the topside of the panels.
   
+   ![](images/horizon/Hor-13.png)
+   ![](images/horizon/Hor-14.png) 
+   
 Note: The upper silicone pads can be skipped if the keyboard you plan to display sits firmly and stably atop without the pads. However, it is highly, highly recommended to install them for the following scenarios:  
   
 - Displaying valuable keyboards where you want the most stability and safety  
@@ -105,7 +117,7 @@ Note: The upper silicone pads can be skipped if the keyboard you plan to display
 14.  Place the stand where you wish to use it, and display your favorite keyboard atop.  
     Enjoy!  
       
-irl photo
+![](images/horizon/Hor-complete.jpg) 
 
 
 ## Closing Words
