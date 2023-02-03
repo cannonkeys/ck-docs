@@ -133,10 +133,10 @@ If you ever need support, please contact us at the following:
 
 -   For logistical issues such as damage/loss during transit, incorrect order contents, etc., contact CannonKeys via the Contact Us widget at the bottom right of our pages on our webstore.
     
--   For assembly help regarding building and similar, either contact support as per above, or ask in either CannonKeys’ or ai03’s Discord servers for live community support.
+-   For assembly help regarding building and similar, either contact support as per above, or ask in either [CannonKeys’](https://discord.com/invite/DKpykqYKAe) or [ai03’s](https://discord.gg/qA5JD9y) Discord servers for live community support.
     
 
   
   
 
-And if you’ve read all the way to the end of this build guide, please consider leaving a review on the product page - not only will it help us better tailor future projects to your preferences, but will also help share the word to other keyboard enthusiasts in the future.
+And if you’ve read all the way to the end of this build guide, please consider leaving a review on the [product page](https://cannonkeys.com/products/horizon-keyboard-stand) - not only will it help us better tailor future projects to your preferences, but will also help share the word to other keyboard enthusiasts in the future.
