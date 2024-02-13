@@ -49,7 +49,7 @@ Thank you for joining the Ripple TKL GB! We have put together the following guid
 
 -   Deskmat or cloth mat to safely build on
 -   Metal Tweezers
--   Small Tray for screws and Orings
+-   Small Tray for screws and O-rings
     
 
   
@@ -81,16 +81,16 @@ Please test each individual key to ensure they are working correctly. On the bot
 
   
 
-2. Now that you have tested that the PCB is working, remove the JST cable from the PCB, but keep it installed on the daughterboard.. Flip the bottom case over and using the 4 small daughterboard screws, install the daughterboard ensuring the USB Type-C connection is aligned with the cut-out on the back of the case.
+2. Now that you have tested that the PCB is working, remove the JST cable from the PCB, but keep it installed on the daughterboard. Flip the bottom case over and using the 4 small daughterboard screws, install the daughterboard ensuring the USB Type-C connection is aligned with the cutout on the back of the case.
 
   
 !!! Note
-    **Note about the Daughterboard** - *The daughterboard has four screw holes but the screws that were sent with the board have a slightly taller than intended cap height, which causes issues with assembling. Please only use the two innermost screws on the daughterboard to ensure the case assembles properly.*
+    **Daughterboard Screws** - *The daughterboard has four screw holes but the screws that were sent with the board have a slightly taller than intended cap height, which causes issues with assembling. Please only use the two innermost screws on the daughterboard to ensure the case assembles properly.*
 
   
 ![](images/ripple/06-daughterboard-install.jpg)  
   
-3. Set the Bottom case aside and locate the PCB. Install your Stabilizers into the PCB. It’s recommended to test their functionality and sound before continuing with the build.
+3. Set the bottom case aside and locate the PCB. Install your Stabilizers into the PCB. It’s recommended to test their functionality and sound before continuing with the build.
 
 4. Once the stabilizers are functioning properly, install the switches into the PCB and Plate. Make sure that your switches are properly clipped into the plate.
 
@@ -127,7 +127,7 @@ Please test each individual key to ensure they are working correctly. On the bot
 
   
 
-![](https://lh7-us.images/ripple/09-mod-strips.jpg)
+![](images/ripple/09-mod-strips.jpg)
 
 *Plate mod strips are attached to the top and bottom of your plate instead of O-rings, should you wish to use them. Top Case Mod Strips are gasket strips that get attached to the top of the case, not bottom. These all have a light adhesive to encourage trying out different combinations to figure out what you like best!*
 
@@ -153,7 +153,7 @@ Please test each individual key to ensure they are working correctly. On the bot
 
   
 
-8. After installing the O-Rings, carefully re-insert the JST cable into PCB and place the plate in the bottom case of the board. Double check that each tab and Oring are fitting correctly and the O-rings are not pinched or bunched up.
+8. After installing the O-Rings, carefully re-insert the JST cable into PCB and place the plate in the bottom case of the board. Double check that each tab and O-ring are fitting correctly and the O-rings are not pinched or bunched up.
 
 ## Preparing the Top Case for Mounting
 
@@ -182,7 +182,7 @@ Please test each individual key to ensure they are working correctly. On the bot
 
   
 
-12. After installing the screws, Flip the board back over and you can install your keycaps. The best part!  
+12. After installing the screws, flip the board back over and you can install your keycaps. The best part!  
   
 ![](images/ripple/16-finished-build.jpg)
 
