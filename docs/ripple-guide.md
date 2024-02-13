@@ -63,7 +63,7 @@ Locate the PCB and daughterboard. Plug these in carefully and load up the [onlin
 
 ![](images/ripple/02-PCB-connected-to-via.jpg)  
   
-Using the Keytester Tab, test the keys using metal tweezers, paper clips, or any small enough metal device to short the back of the hot-swap sockets.  
+Using the Keytester Tab, test the keys using metal tweezers, paper clips, or any small enough metal device to short the back of the hotswap sockets.  
   
 ![](images/ripple/03-testing-hotswap-pcb.jpg)![](images/ripple/04-testing-solder-pcb.jpg)
 
