@@ -16,6 +16,9 @@ Congrats on your Chimera65 purchase! This is a guide to building your Chimera65.
 
 ## Test the PCB
 
+!!! Note
+    If you are building a round 2 unit, your PCB and Daughterboard will be using a molex connector. This is functionally the same, but will look slightly different than the images in this guide. The molex connectors snap in from the top. We have a video of installing this cable on our [C4 Daughterboard](https://cannonkeys.com/products/unified-c4-daughterboard) listing if you need assistance with this step.
+
 1. The first thing we have to do is to test the PCB. Use the daughterboard and JST cable and connect them together with the PCB. Be sure to put the JST cable in the right way.
     ![](../images/chimera65/02_test_pcb.jpg)
 
@@ -59,7 +62,7 @@ Congrats on your Chimera65 purchase! This is a guide to building your Chimera65.
 1. Set the top piece of the case aside. Now we need to remove the back by loosening these screws using a M2.5 Hex Driver.
     ![](../images/chimera65/10_remove_back.jpg)
 
-1. Be careful when unscrewing the back. In this photo below, I made sure my screwdriver did not rub against the case, and also covered it with a cloth to be extra safe.
+1. Be careful when unscrewing the back. In this photo below, I made sure my screwdriver did not rub against the case, and also covered it with a cloth to be extra safe. If you're using the included hex key, laying a cloth down will also help keep the case safe as you make your partial rotations.
     ![](../images/chimera65/11_unscrew_back.jpg)
 
 1. Set the back piece down gently after its been unscrewed
@@ -105,7 +108,7 @@ We're now ready to reassemble our case!
 1. Loosely align the top part of the case above the bottom, on top of the plate. Adjust the plate to be centered.
     ![](../images/chimera65/25_top_added.jpg)
 
-1. Flip the board to access the screw holes on the bottom. Use a little bit of force to compress the bottom and top together - you'll have to press down to get the gaskets to compress. Start screwing in the screws little by little, following the following photo. Only do a few turns of your screwdriver at a time. This will ensure we get even compression across the gaskets.
+1. Flip the board to access the screw holes on the bottom. Use a little bit of force to compress the bottom and top together - you'll have to press down to get the gaskets to compress. Start screwing in the screws little by little, following the following photo. Only do a few turns of your screwdriver at a time. This will ensure we get even compression across the gaskets. If you're building a PC unit, start by partially screwing in the corners in the same order seen below, then install the the middle four using the same logic.
     ![](../images/chimera65/26_screw_bottom.jpg)
 
 1. Finally, install the bumpons:
