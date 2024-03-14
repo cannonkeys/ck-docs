@@ -42,7 +42,7 @@ Congrats on your Chimera65 purchase! This is a guide to building your Chimera65.
 1. I like to solder and test my stabilized keys before moving on with the rest of the build.
     ![](../images/chimera65/06_pins_soldered.jpg)
 
-1. Insert your switches into the plate and PCB, and solder the switch legs into the switch holes. Be sure none of the switch pins are bent, and that the switches are seated all the way flush with the plate:
+1. Insert your switches into the plate and PCB, and solder the switch legs into the switch holes. If you're building with a hotswap PCB, make sure to support the bottom of the socket as you insert switches to avoid damaging the PCB. Be sure none of the switch pins are bent, and that the switches are seated all the way flush with the plate:
     ![](../images/chimera65/07_install_switches.jpg)
 
 1. Some of the footprints may be tricky - if you're unsure of what footprint to use, feel free to grab some keycaps to help!
