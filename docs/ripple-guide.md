@@ -133,7 +133,7 @@ Please test each individual key to ensure they are working correctly. On the bot
 
   
 !!! Note
-    *For the rest of the guide, we will be using O-rings on the plate. If you wish, you can use the Plate Mod Strips attached to the top and bottom of the plate instead.*
+    *For the rest of the guide, we will be using O-rings on the plate. If you wish, you can use the Plate Mod Strips attached to the top and bottom of the plate instead. They cannot be used together - choose either the o-rings or the gaskets.*
 
   
 
@@ -163,7 +163,10 @@ Please test each individual key to ensure they are working correctly. On the bot
 ![](images/ripple/13-pcb-o-rings-case-angled.jpg)  
   
 10. After the plate and o-rings/gaskets are in the board, locate the badge for the top case and install this onto the case if it’s not there already. After that is installed, place the top case on the bottom case and ensure that the case is fitting with the O-Rings and that the O-Rings are not bunching up in the case.  
-![](images/ripple/14-gasket-in-case.jpg)  
+![](images/ripple/14-gasket-in-case.jpg)
+
+!!! Note
+    *Ensure that there are no gaskets installed in the bottom case. The plate should have either o-rings or gaskets installed. The top case should have one type of gasket (EVA, PE, Poron, or Silicone). Using more gaskets than intended will cause the case to not close.*
   
 
 ## Final Assembly
