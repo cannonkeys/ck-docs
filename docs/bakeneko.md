@@ -86,9 +86,9 @@ BakenekoGO comes with ZMK firmware, which can be flashed and remapped using our 
 
 ### Installing the Battery (BakenekoGO Only)
 1. Using the included double sided tape, install the battery as seen below
-![](images/bakeneko/Battery-Install.JPG)
+![](images/BakenekoGO/Battery-Install.JPG)
 2. Insert the battery cable into the header. It is **VERY IMPORTANT** that the red positive cable is connected to the center positive pin on the header.
-![](images/bakeneko/Battery-Temp.JPG)
+![](images/BakenekoGO/Battery-Temp.JPG)
 
 ### Connecting the PCB
 
@@ -109,6 +109,11 @@ BakenekoGO comes with ZMK firmware, which can be flashed and remapped using our 
 ![](images/bakeneko/27-pushed-down.jpeg)
 1. Add keycaps and ENJOY!
 ![](images/bakeneko/29-add-keycaps.jpeg)
+
+## BakenekoGO Remapping, Flashing, and Other Info
+We have put together a a guide to assist with remapping the keys and flashing your BakenekoGO. We have also created a User Guide that has a bunch of BakenekoGO specific information and a guide on how Bluetooth pairing works.
+* [Bakeneko Flashing and Key Remapping Guide](https://docs.cannonkeys.com/bakeneko/bakenekogo-flashing-and-remapping-guide)
+* [User Guide](https://docs.cannonkeys.com/bakeneko/bakenekogo-user-guide)
 
 ## Backspace Fix
 For some of the early Bakeneko PCBs, "Delete" is mapped to the "Backspace" key. Here is how to easily fix it using [VIA Configurator](https://caniusevia.com).
