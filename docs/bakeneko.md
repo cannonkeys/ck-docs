@@ -14,11 +14,15 @@ Each Bakeneko needs
 * 4 x Silicone Feet
 * Bakeneko Aluminum Case
 
+If you're building a BakenekoGO, you will also have a battery included, along with a small piece of double-sided tape for installation.
+
 !!! Note
     You must use clip in stabilizers for the Bakeneko as screw in stabilizers will interfere with the O ring
 
 ## PCB Notice
-Bakeneko PCBs come preflashed with VIA compatible firmware. But make sure the switch on the back is set to "0". If it is set to "1", your PCB will be stuck in the failsafe flashing mode. It is highly recommended to test the PCB prior to building by using tweezers. The Bakeneko65 PCB will show up as Instant65 or Savage65 in VIA depending on if you are using the hotswap or solderable PCB. This does not effect function, it's just what VIA refers to the PCB as.
+Bakeneko60 and 65 PCBs come preflashed with VIA compatible firmware. But make sure the switch on the back is set to "0". If it is set to "1", your PCB will be stuck in the failsafe flashing mode. It is highly recommended to test the PCB prior to building by using tweezers. The Bakeneko65 PCB will show up as Instant65 or Savage65 in VIA depending on if you are using the hotswap or solderable PCB. This does not effect function, it's just what VIA refers to the PCB as.
+
+BakenekoGO comes with ZMK firmware, which can be flashed and remapped using our [Flashing/Remapping Guide](https://docs.cannonkeys.com/bakeneko/bakenekogo-flashing-and-remapping-guide). For more information on the BakenekoGO's Bluetooth PCB, please see our [User Guide](https://docs.cannonkeys.com/bakeneko/bakenekogo-user-guide).
 
 ## Building a Bakeneko
 1. Starting Kit:
@@ -79,6 +83,12 @@ Bakeneko PCBs come preflashed with VIA compatible firmware. But make sure the sw
 ![](images/bakeneko/19-oring-align.jpeg)
 ![](images/bakeneko/20-oring-stretch.jpeg)
 ![](images/bakeneko/21-oring-installed.jpeg)
+
+### Installing the Battery (BakenekoGO Only)
+1. Using the included double sided tape, install the battery as seen below
+![](images/bakeneko/Battery-Install.JPG)
+2. Insert the battery cable into the header. It is **VERY IMPORTANT** that the red positive cable is connected to the center positive pin on the header.
+![](images/bakeneko/Battery-Temp.JPG)
 
 ### Connecting the PCB
 
