@@ -95,7 +95,7 @@ BakenekoGO comes with ZMK firmware, which can be flashed and remapped using our 
 !!! Note
     Be careful here! JST connectors can sometimes be delicate, so use caution and be sure not to break it off your PCB! CannonKeys will not be responsible for damages that occur due to forces applied to your JST connector!
 
-1. Now we need to connect the PCB to the daughterboard. Ensuring that the JST cable is aligned with the JST connector on the PCB, insert the cable into the connector.
+1. Now we need to connect the PCB to the daughterboard. Ensuring that the JST cable is aligned with the JST connector on the PCB, insert the cable into the connector. If building a BakenekoGO, the battery cable should already be inserted to the connector.
 ![](images/bakeneko/22-jst-pcb.jpeg)
 1. Flip the PCB over horizontally to orient it properly. Be sure not to cause any stress to the JST cable or connectors as you do this.
 ![](images/bakeneko/23-pcb-flip.jpeg)
@@ -111,7 +111,7 @@ BakenekoGO comes with ZMK firmware, which can be flashed and remapped using our 
 ![](images/bakeneko/29-add-keycaps.jpeg)
 
 ## BakenekoGO Remapping, Flashing, and Other Info
-We have put together a a guide to assist with remapping the keys and flashing your BakenekoGO. We have also created a User Guide that has a bunch of BakenekoGO specific information and a guide on how Bluetooth pairing works.
+We have put together a guide to assist with remapping the keys and flashing your BakenekoGO. We have also created a User Guide that has a bunch of BakenekoGO specific information and a guide on how BT pairing works.
 * [Bakeneko Flashing and Key Remapping Guide](https://docs.cannonkeys.com/bakeneko/bakenekogo-flashing-and-remapping-guide)
 * [User Guide](https://docs.cannonkeys.com/bakeneko/bakenekogo-user-guide)
 
