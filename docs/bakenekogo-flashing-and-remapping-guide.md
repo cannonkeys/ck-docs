@@ -56,7 +56,7 @@ If you have forked the CannonKeys zmk-config repo in the past, and already conne
 2. Click the key you wish to remap.
 ![](images/BakenekoGO/08-gui-load.png)
 
-3. A dialogue box will pop up. The top option is where you decide what type of action you want this key to do. This is referred to as the [key behavior](https://zmk.dev/docs/behaviors). The bottom dropdown is where you set the new keybind. You can find a list of keycodes [here](https://zmk.dev/docs/codes), or you can use the interface in the editor to search. We have some basics listed in our [user guide]() if you need help.
+3. A dialogue box will pop up. The top option is where you decide what type of action you want this key to do. This is referred to as the [key behavior](https://zmk.dev/docs/behaviors). The bottom dropdown is where you set the new keybind. You can find a list of keycodes [here](https://zmk.dev/docs/codes), or you can use the interface in the editor to search. We have some basics listed in our [user guide](bakenekogo-user-guide.md) if you need help.
 ![](images/BakenekoGO/09-remap-v2.png)
 
 4. Once you have set your keybind options, press okay to apply them to your keymap. Repeat this for all keymap changes you wish to make!
