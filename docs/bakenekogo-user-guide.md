@@ -43,7 +43,7 @@ The BakenekoGO runs on ZMK, which uses layers to allow different inputs.
 The base layer you use for general typing is Layer 0, and by holding the FN key you gain access to Layer 1 where you can control the RGB on your keyboard. Layer 1 on the BakenekoGO is also called the RGB Layer. 
 
 If you hold the FN key, and the right control key at the same time, you access Layer 2, also called the BT layer. This is where you adjust what device you're connected to, and initiate BT pairing.
-![](images/BakenekoGO/keymap.png)
+![](images/BakenekoGO/Keymap.png)
 
 ### Rebinding Key Basics
 When rebinding keys, there are two variables that need to be set per key:
