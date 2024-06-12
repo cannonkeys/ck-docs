@@ -6,7 +6,7 @@ Pairing varies from system to system, but you should be able to connect Bakeneko
 
 ### Battery
 We covered this in the build guide, but if you're installing a battery, it is important that the red positive ("POS") wire is connected to the middle pin. The included battery only has two wires, however the PCB uses a connector with 3 pins on the PCB incase you need to replace it down the line, or want to use your own battery.
-![](images/BakenekoGO/battery-Temp.JPG)
+![](images/BakenekoGO/Battery-Temp.JPG)
 
 ### The Battery Switch
 Below your capslock switch is a battery switch. This physical switch allows you to turn battery usage on or off. If you're using your BakenekoGO plugged in, turn the battery switch to the OFF position. If you wish to pair or use your BakenekoGO in BT mode, unplug your BakenekoGO from the computer and put the battery switch to the ON position.
