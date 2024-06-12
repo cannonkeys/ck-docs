@@ -93,9 +93,7 @@ This section is where we will talk about how to flash the firmware you created o
 ![](images/BakenekoGO/19-layer-1.png)
 ![](images/BakenekoGO/Reset-Button.png)
 
-2. If successful, on Windows a folder or drive will pop up immediately on your computer called `Bakeneko60`. This folder represents the storage found on your BakenekoGO PCB, and can be found as a removeable storage in file exporer if accidentally closed.
-
-If you are on a Mac, the drive will mount and be visible on your desktop as well as the Finder sidebar as Bakeneko60.
+2. If successful, on Windows a folder or drive will pop up immediately on your computer called `Bakeneko60`. This folder represents the storage found on your BakenekoGO PCB, and can be found as a removeable storage in file exporer if accidentally closed. If you are on a Mac, the drive will mount and be visible on your desktop as well as the Finder sidebar as Bakeneko60.
 ![](images/BakenekoGO/20-bootloader-mode.png)
 
 3. To flash, simply drag the **unzipped** firmware from the previous section into the `Bakeneko60` drive/folder. The firmware should be called `bakeneko60_go-zmk.uf2`. If you get an error, unplug your keyboard/PCB, plug it back in, and try again. If successful, the firmware file will copy into the BakenekoGO, the folder will close, and your BakenekoGO will now have your new keymap!
