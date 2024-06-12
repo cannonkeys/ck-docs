@@ -112,6 +112,7 @@ BakenekoGO comes with ZMK firmware, which can be flashed and remapped using our 
 
 ## BakenekoGO Remapping, Flashing, and Other Info
 We have put together a guide to assist with remapping the keys and flashing your BakenekoGO. We have also created a User Guide that has a bunch of BakenekoGO specific information and a guide on how BT pairing works.
+
 - [Bakeneko Flashing and Key Remapping Guide](bakenekogo-flashing-and-remapping-guide.md)
 - [User Guide](bakenekogo-user-guide.md)
 
