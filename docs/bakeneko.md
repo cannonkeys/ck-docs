@@ -22,7 +22,7 @@ If you're building a BakenekoGO, you will also have a battery included, along wi
 ## PCB Notice
 Bakeneko60 and 65 PCBs come preflashed with VIA compatible firmware. But make sure the switch on the back is set to "0". If it is set to "1", your PCB will be stuck in the failsafe flashing mode. It is highly recommended to test the PCB prior to building by using tweezers. The Bakeneko65 PCB will show up as Instant65 or Savage65 in VIA depending on if you are using the hotswap or solderable PCB. This does not effect function, it's just what VIA refers to the PCB as.
 
-BakenekoGO comes with ZMK firmware, which can be flashed and remapped using our [Flashing/Remapping Guide](https://docs.cannonkeys.com/bakeneko/bakenekogo-flashing-and-remapping-guide). For more information on the BakenekoGO's Bluetooth PCB, please see our [User Guide](https://docs.cannonkeys.com/bakeneko/bakenekogo-user-guide).
+BakenekoGO comes with ZMK firmware, which can be flashed and remapped using our [Flashing/Remapping Guide](https://docs.cannonkeys.com/bakeneko/bakenekogo-flashing-and-remapping-guide). For more information on the BakenekoGO's BT PCB, please see our [User Guide](https://docs.cannonkeys.com/bakeneko/bakenekogo-user-guide).
 
 ## Building a Bakeneko
 1. Starting Kit:
