@@ -24,6 +24,9 @@ Bakeneko60 and 65 PCBs come preflashed with VIA compatible firmware. But make su
 
 BakenekoGO comes with ZMK firmware, which can be flashed and remapped using our [Flashing/Remapping Guide](bakenekogo-flashing-and-remapping-guide.md). For more information on the BakenekoGO's BT PCB, please see our [User Guide](bakenekogo-user-guide.md).
 
+The Bakeneko60 and 65 PCBs and daughterboards use a JST cable and header to connect the PCB to the daughterboard. The BakenekoGO uses a Molex Pico-EZmate header and cable to connect the PCB and daughterboard together.
+![](images/bakeneko/molex-jst-diff.png)
+
 ## Building a Bakeneko
 1. Starting Kit:
 ![](images/bakeneko/01-kit.jpeg)
@@ -34,9 +37,9 @@ BakenekoGO comes with ZMK firmware, which can be flashed and remapped using our 
 ### Installing the Daughterboard
 1. We are going to add the daughterboard to the case. Check out your daughterboard and look at how the pins are aligned. Here, they are closer to the top.
 ![](images/bakeneko/02-daughterboard.jpeg)
-1. Check out your JST cable, and make sure the holes will align with the daughterboard pins.
+1. Check out your JST cable if your keyboard uses one, and make sure the holes will align with the daughterboard pins.
 ![](images/bakeneko/03-jstcable.jpeg)
-1. Insert the JST cable into the daughterboard, keeping in mind the holes of the cable need to align with the pins on the DB.
+1. Insert the JST or Molex cable into the daughterboard, keeping in mind the holes of the cable need to align with the pins on the DB.
 ![](images/bakeneko/04-jstindb.jpeg)
 1. Using the 4 M2 screws and hex key, screw the daughterboard into the Bakeneko case. Set the case/DB assembly aside.
 ![](images/bakeneko/05-db-installed.jpeg)
@@ -95,11 +98,11 @@ BakenekoGO comes with ZMK firmware, which can be flashed and remapped using our 
 !!! Note
     Be careful here! JST connectors can sometimes be delicate, so use caution and be sure not to break it off your PCB! CannonKeys will not be responsible for damages that occur due to forces applied to your JST connector!
 
-1. Now we need to connect the PCB to the daughterboard. Ensuring that the JST cable is aligned with the JST connector on the PCB, insert the cable into the connector. If building a BakenekoGO, the battery cable should already be inserted to the connector.
+1. Now we need to connect the PCB to the daughterboard. Ensuring that the JST or Molex cable is aligned with the connector on the PCB, insert the cable into the connector. If building a BakenekoGO, the battery cable should already be inserted to the PCB.
 ![](images/bakeneko/22-jst-pcb.jpeg)
-1. Flip the PCB over horizontally to orient it properly. Be sure not to cause any stress to the JST cable or connectors as you do this.
+1. Flip the PCB over horizontally to orient it properly. Be sure not to cause any stress to the JST/Molex cable or connectors as you do this.
 ![](images/bakeneko/23-pcb-flip.jpeg)
-1. Tuck the JST cable under the PCB and lower the assembly.
+1. Tuck the JST/Molex cable under the PCB and lower the assembly.
 ![](images/bakeneko/25-jst-tuck.jpeg)
 
 ### Final Assembly
