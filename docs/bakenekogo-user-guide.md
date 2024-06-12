@@ -47,16 +47,19 @@ If you hold the FN key, and the right control key at the same time, you access L
 
 ### Rebinding Key Basics
 When rebinding keys, there are two variables that need to be set per key:
+
 1. The behavior - What type of action
 2. Parameter - What the key will register
 
 As an example, if you want to rebind your Q key to be the 1 key, you would set the variables like this:
+
 1. Behavior - &kp *(Key Press)*
 2. Parameter - Number_1 *(1 and ! [Exclamation])*
 
 ![](images/BakenekoGO/Key-Press-Example.png)
 
 **Here are the most common types of behaviors:**
+
 1. &kp (Key Press) - A normal key press. 
 2. &mo (Momentary Layer) - While holding, the layer you choose will be active.
 3. &bootloader - This is what you press to put your keyboard into flashing mode, allowing for new firmware to be flashed.
