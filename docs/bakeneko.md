@@ -24,7 +24,7 @@ Bakeneko60 and 65 PCBs come preflashed with VIA compatible firmware. But make su
 
 BakenekoGO comes with ZMK firmware, which can be flashed and remapped using our [Flashing/Remapping Guide](bakenekogo-flashing-and-remapping-guide.md). For more information on the BakenekoGO's BT PCB, please see our [User Guide](bakenekogo-user-guide.md).
 
-The Bakeneko60 and 65 PCBs and daughterboards use a JST cable and header to connect the PCB to the daughterboard. The BakenekoGO uses a Molex Pico-EZmate header and cable to connect the PCB and daughterboard together.
+The Bakeneko60 and 65 PCBs and daughterboards use a JST cable and header to connect the PCB to the daughterboard. The BakenekoGO uses a Molex Pico-EZmate header and cable to connect the PCB to the daughterboard.
 ![](images/bakeneko/molex-jst-diff.png)
 
 ## Building a Bakeneko
