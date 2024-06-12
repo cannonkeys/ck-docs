@@ -87,7 +87,7 @@ BakenekoGO comes with ZMK firmware, which can be flashed and remapped using our 
 ### Installing the Battery (BakenekoGO Only)
 1. Using the included double sided tape, install the battery as seen below
 ![](images/BakenekoGO/Battery-Install.JPG)
-2. Insert the battery cable into the header. It is **VERY IMPORTANT** that the red positive cable is connected to the center positive pin on the header.
+2. Insert the battery cable into the header. It is **VERY IMPORTANT** that the red positive cable is connected to the center positive (POS) pin on the header.
 ![](images/BakenekoGO/Battery-Temp.JPG)
 
 ### Connecting the PCB
