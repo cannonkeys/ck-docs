@@ -12,7 +12,7 @@ In this guide, you will learn how to remap keys on your BakenekoGO. This is a te
 *Note: This guide jumps between GitHub and the Keymap Editor site, this process goes smoothest when both tabs are kept open throughout the guide.*
 
 ### Video Guide
-We have put together a video guide that you can use to go through these steps and help you understand the written guide. The video can be found [here](https://www.youtube.com/watch?v=t_Kel4b6jwk).
+We have put together a video guide that you can use to go through these steps and help you understand the written guide. The video can be found [here](https://cannonkeys.com/pages/bakenekogo-flash-remap-video-guide).
  
 ### Background Info and Terminology
  In this guide, you will need to navigate a few steps in GitHub. To assist with this, let's go over a few key terms that will be used in the guide.
