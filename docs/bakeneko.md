@@ -14,7 +14,7 @@ Each Bakeneko needs
 * 4 x Silicone Feet
 * Bakeneko Aluminum Case
 
-If you're building a BakenekoGO, you will also have a battery included, along with a small piece of double-sided tape for installation.
+If you're building a BakenekoGO you will also have a battery included, along with a small piece of double-sided tape for installation. You will also have a Molex cable instead of a JST cable.
 
 !!! Note
     You must use clip in stabilizers for the Bakeneko as screw in stabilizers will interfere with the O ring
