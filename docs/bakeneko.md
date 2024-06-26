@@ -14,11 +14,18 @@ Each Bakeneko needs
 * 4 x Silicone Feet
 * Bakeneko Aluminum Case
 
+If you're building a BakenekoGO you will also have a battery included, along with a small piece of double-sided tape for installation. You will also have a Molex cable instead of a JST cable.
+
 !!! Note
     You must use clip in stabilizers for the Bakeneko as screw in stabilizers will interfere with the O ring
 
 ## PCB Notice
-Bakeneko PCBs come preflashed with VIA compatible firmware. But make sure the switch on the back is set to "0". If it is set to "1", your PCB will be stuck in the failsafe flashing mode. It is highly recommended to test the PCB prior to building by using tweezers. The Bakeneko65 PCB will show up as Instant65 or Savage65 in VIA depending on if you are using the hotswap or solderable PCB. This does not effect function, it's just what VIA refers to the PCB as.
+Bakeneko60 and 65 PCBs come preflashed with VIA compatible firmware. But make sure the switch on the back is set to "0". If it is set to "1", your PCB will be stuck in the failsafe flashing mode. It is highly recommended to test the PCB prior to building by using tweezers. The Bakeneko65 PCB will show up as Instant65 or Savage65 in VIA depending on if you are using the hotswap or solderable PCB. This does not effect function, it's just what VIA refers to the PCB as.
+
+BakenekoGO comes with ZMK firmware, which can be flashed and remapped using our [Flashing/Remapping Guide](bakenekogo-flashing-and-remapping-guide.md). For more information on the BakenekoGO's BT PCB, please see our [User Guide](bakenekogo-user-guide.md).
+
+The Bakeneko60 and 65 PCBs and daughterboards use a JST cable and header to connect the PCB to the daughterboard. The BakenekoGO uses a Molex Pico-EZmate header and cable to connect the PCB to the daughterboard.
+![](images/bakeneko/molex-jst-diff.png)
 
 ## Building a Bakeneko
 1. Starting Kit:
@@ -30,9 +37,9 @@ Bakeneko PCBs come preflashed with VIA compatible firmware. But make sure the sw
 ### Installing the Daughterboard
 1. We are going to add the daughterboard to the case. Check out your daughterboard and look at how the pins are aligned. Here, they are closer to the top.
 ![](images/bakeneko/02-daughterboard.jpeg)
-1. Check out your JST cable, and make sure the holes will align with the daughterboard pins.
+1. Check out your JST cable if your keyboard uses one, and make sure the holes will align with the daughterboard pins.
 ![](images/bakeneko/03-jstcable.jpeg)
-1. Insert the JST cable into the daughterboard, keeping in mind the holes of the cable need to align with the pins on the DB.
+1. Insert the JST or Molex cable into the daughterboard, keeping in mind the holes of the cable need to align with the pins on the DB.
 ![](images/bakeneko/04-jstindb.jpeg)
 1. Using the 4 M2 screws and hex key, screw the daughterboard into the Bakeneko case. Set the case/DB assembly aside.
 ![](images/bakeneko/05-db-installed.jpeg)
@@ -80,16 +87,22 @@ Bakeneko PCBs come preflashed with VIA compatible firmware. But make sure the sw
 ![](images/bakeneko/20-oring-stretch.jpeg)
 ![](images/bakeneko/21-oring-installed.jpeg)
 
+### Installing the Battery (BakenekoGO Only)
+1. Using the included double sided tape, install the battery as seen below
+![](images/BakenekoGO/Battery-Install.JPG)
+2. Insert the battery cable into the header. It is **VERY IMPORTANT** that the red positive cable is connected to the center positive (POS) pin on the header.
+![](images/BakenekoGO/Battery-Temp.JPG)
+
 ### Connecting the PCB
 
 !!! Note
     Be careful here! JST connectors can sometimes be delicate, so use caution and be sure not to break it off your PCB! CannonKeys will not be responsible for damages that occur due to forces applied to your JST connector!
 
-1. Now we need to connect the PCB to the daughterboard. Ensuring that the JST cable is aligned with the JST connector on the PCB, insert the cable into the connector.
+1. Now we need to connect the PCB to the daughterboard. Ensuring that the JST or Molex cable is aligned with the connector on the PCB, insert the cable into the connector. If building a BakenekoGO, the battery cable should already be inserted to the PCB.
 ![](images/bakeneko/22-jst-pcb.jpeg)
-1. Flip the PCB over horizontally to orient it properly. Be sure not to cause any stress to the JST cable or connectors as you do this.
+1. Flip the PCB over horizontally to orient it properly. Be sure not to cause any stress to the JST/Molex cable or connectors as you do this.
 ![](images/bakeneko/23-pcb-flip.jpeg)
-1. Tuck the JST cable under the PCB and lower the assembly.
+1. Tuck the JST/Molex cable under the PCB and lower the assembly.
 ![](images/bakeneko/25-jst-tuck.jpeg)
 
 ### Final Assembly
@@ -99,6 +112,12 @@ Bakeneko PCBs come preflashed with VIA compatible firmware. But make sure the sw
 ![](images/bakeneko/27-pushed-down.jpeg)
 1. Add keycaps and ENJOY!
 ![](images/bakeneko/29-add-keycaps.jpeg)
+
+## BakenekoGO Remapping, Flashing, and Other Info
+We have put together a guide to assist with remapping the keys and flashing your BakenekoGO. We have also created a User Guide that has a bunch of BakenekoGO specific information and a guide on how BT pairing works.
+
+- [Bakeneko Flashing and Key Remapping Guide](bakenekogo-flashing-and-remapping-guide.md)
+- [User Guide](bakenekogo-user-guide.md)
 
 ## Backspace Fix
 For some of the early Bakeneko PCBs, "Delete" is mapped to the "Backspace" key. Here is how to easily fix it using [VIA Configurator](https://caniusevia.com).
