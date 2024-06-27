@@ -88,7 +88,7 @@ The Bakeneko60 and 65 PCBs and daughterboards use a JST cable and header to conn
 ![](images/bakeneko/21-oring-installed.jpeg)
 
 ### Installing the Battery (BakenekoGO Only)
-1. Using the included double sided tape, install the battery as seen below
+1. Using the included double sided tape, install the battery into the case. Try to match the location seen in the image below to avoid interference with PCB components.
 ![](images/BakenekoGO/Battery-Install.JPG)
 2. Insert the battery cable into the header. It is **VERY IMPORTANT** that the red positive cable is connected to the center positive (POS) pin on the header.
 ![](images/BakenekoGO/Battery-Temp.JPG)
