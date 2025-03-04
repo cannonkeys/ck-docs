@@ -4,7 +4,8 @@ With [ZMK Studio released](https://zmk.studio/), you can now remap your keys on 
 - [BakenekoGO ZMK Studio (Unlocked)](assets/bakeneko60_go-zmk-studio-nolock.uf2)
 - [BakenekoGO ZMK Studio (Locked)](assets/bakeneko60_go-zmk-studio.uf2)
 
-  
+!!! Note
+    If you choose the locked version, to unlock in ZMK Studio hold RFn + RCtrl + Backspace.
 
 # BakenekoGO Keymap Editing and Flash Guide
 In this guide, you will learn how to remap keys on your BakenekoGO.
