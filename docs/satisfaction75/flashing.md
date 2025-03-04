@@ -6,7 +6,7 @@ To allow every recipient of the Satisfaction75 to first test their PCB, the stoc
 
 But before we do that, we should test our PCB!
 
-If you're already comfortable with testing and flashing PCBs, the firmware is available here! [Satisfaction75 Firmware](../assets/cannonkeys_satisfaction75_rev1_via_new.bin)
+If you're already comfortable with testing and flashing PCBs, the firmware is available here! [Satisfaction75 Firmware](../assets/cannonkeys_satisfaction75_rev2_via.bin)
 
 !!! Note
     If using windows 11, there are known driver issues that may affect installation and flashing of this keyboard. While there is only a small chance of this happening, the QMK community is actively working on finding new methods and workarounds for the affected Windows 11 builds.
@@ -49,7 +49,7 @@ Touch a conductive piece of material to each pair of switch holes (examples circ
     ![](../images/initial_flash/ZadigInstallingDriver.PNG)
 
 ### Actual Flashing
-1. Download the [Satisfaction75 Firmware](../assets/cannonkeys_satisfaction75_rev1_via_new.bin)
+1. Download the [Satisfaction75 Firmware](../assets/cannonkeys_satisfaction75_rev2_via.bin)
 1. Start QMK Toolbox, and click the "Open" buttom
     ![](../images/initial_flash/QMKToolbox.PNG)
 1. Change the filetype dropdown to ".bin" and select the proper firmware
