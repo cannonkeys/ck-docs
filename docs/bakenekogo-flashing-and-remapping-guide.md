@@ -2,7 +2,7 @@
 In this guide, you will learn how to remap keys on your BakenekoGO.
 
 ## ZMK Studio
-With [ZMK Studio released](https://zmk.studio/), you can now remap your keys on the fly! Choose one of the two firmwares below, and then you may continue to the [flashing section](#Part-4-Flashing) section of this guide.
+With [ZMK Studio released](https://zmk.studio/), you can now remap your keys on the fly! Choose one of the two firmwares below, and then you may continue to the [flashing section](#part-4-flashing) section of this guide.
 
 - [BakenekoGO ZMK Studio (Unlocked)](assets/bakeneko60_go-zmk-studio-nolock.uf2)
 - [BakenekoGO ZMK Studio (Locked)](assets/bakeneko60_go-zmk-studio.uf2)
