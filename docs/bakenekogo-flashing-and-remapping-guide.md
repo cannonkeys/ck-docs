@@ -9,6 +9,7 @@ With [ZMK Studio released](https://zmk.studio/), you can now remap your keys on 
 
 # BakenekoGO Keymap Editing and Flash Guide
 In this guide, you will learn how to remap keys on your BakenekoGO.
+
 !!! Note
     With the release of ZMK Studio, most of this can be skipped by downloading one of the two above firmwares and skipping to the flashing section. 
 
