@@ -34,7 +34,7 @@ In order to test the PCB, we need to install the OLED screen. Without it, the ke
 
 2. Using your fingers, push the nylon screw through the back of the hole in the PCB, and screw in the standoff. Once done, you should be left with three pillars that can be used as supports for the OLED.
 
-![](03-standoff-installed.jpg)
+![](images/sat75-x/03-standoff-installed.jpg)
 
 3. Gently install the OLED by pushing the pins into the header. You may want to pull it up slightly after fully seating to get it to sit level. Once installed, plug in your Sat75 X using a USB-C to USB-A cable. You should see the OLED light up. If it does not light up, try reseating the OLED screen.
 
@@ -43,7 +43,7 @@ In order to test the PCB, we need to install the OLED screen. Without it, the ke
 
 4. Now that the OLED is installed and the PCB is plugged in, we need to test the keys. Sat75 X is a VIA compatible keyboard. To test the keys, please navigate to [usevia.app/test](https://www.usevia.app/test) in a chromium browser (like Google Chrome), and connect your Sat75 X.
 
-![](06-connect-via.gif)
+![](images/sat75-x/06-connect-via.gif)
 
 5. Once connected, navigate to the key tester tab. Toggle the test matrix button in the interface. Using tweezers, bridge the metal pads on the underside of the hotswap sockets to test each switch. If you don't have tweezers, other metal objects such as a bent paperclip or a bit of wire can work. Once you've confirmed each socket is working, you can continue into the next section.
 
@@ -76,7 +76,7 @@ Start by inserting switched into the outside and corners. These will help give s
 
 5. With all the switches now properly installed, put the knob on the encoder, and move onto the next section of the guide! If you're someone who enjoys tinkering with your builds and plans on rebuilding often, we recommend putting a little lube on the inside of the knob as the fit is quite snug. The lube makes removing the knob safer and easier.
 
-![](16-install-knob.jpg)
+![](images/sat75-x/16-install-knob.jpg)
 
 ### Case assembly
 
@@ -116,7 +116,7 @@ The knob and OLED screen also have some customizations that can be applied. Chec
 *The default keymap for the Sat75 X hotswap PCB*
 
 ### Battery
-The Sat75 X firmware includes a RTC that is displayed on the screen. To keep the time accurate even while unplugged, you will need to install a CR1025 battery into the PCB. The battery gets slide into the small holder positive side up.
+The Sat75 X firmware includes a RTC that is displayed on the screen. To keep the time accurate even while unplugged, you will need to install a CR1025 battery into the PCB. The battery gets slid into the small holder positive side up.
 
 ![](images/sat75-x/battery.jpg)
 
@@ -133,8 +133,8 @@ While you should not need to flash the Sat75 X, we have a standard PCB flashing 
 
 Firmware downloads
 
- - Hotswap PCB firmware
- - Solder PCB firmware
+ - [Hotswap PCB Firmware](assets/cannonkeys_satisfaction75_hs_via.bin)
+ - [Solder PCB firmware](assets/cannonkeys_satisfaction75_rev2_via.bin)
 
 ### Not seeing what you're looking for?
 Not to worry! While we do have a community on [Discord](https://discord.com/invite/DKpykqYKAe), if you are running into issues with your build we recommend contacting our official support team through the widget on the [contact us page](https://cannonkeys.com/pages/contact-us) of our website.
