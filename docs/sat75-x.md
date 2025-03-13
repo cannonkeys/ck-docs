@@ -62,7 +62,7 @@ Now that you have confirmed the PCB is functioning properly, you can unplug the 
 
    Start by inserting switches into the outside and corners. These will help give support while we install the rest of the switches.
 
-    ![](images/sat75-x/10-switch-plate-start.jpg)
+   ![](images/sat75-x/10-switch-plate-start.jpg)
 
 3. Line up the plate over the PCB, and start pushing the switches in one by one. Use the video below for a tip on doing this safely and smoothly.
 
