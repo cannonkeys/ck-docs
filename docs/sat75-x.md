@@ -27,7 +27,7 @@ If you're missing anything, let our support team know!
 ### Preparing and testing the PCB
 In order to test the PCB, we need to install the OLED screen. Without it, the keyboard will not function properly. Once the OLED is installed, you can then test the PCB for functionality.
 
-1. Lay the Sat75 X PCB on a flat surface and locate the 3 holes for nylon spacers. These spacers get installed to give the OLED screen some support once built.
+1. Lay the Sat75 X PCB on a flat surface and locate the 3 holes for nylon standoffs. These standoffs get installed to give the OLED screen some support once built.
 
 ![](images/sat75-x/01-pcb-lay.jpg)
 ![](images/sat75-x/02-standoff-loc.jpg)
@@ -41,7 +41,7 @@ In order to test the PCB, we need to install the OLED screen. Without it, the ke
 ![](images/sat75-x/04-oled-installed.jpg)
 ![](images/sat75-x/05-oled-plugged-in.jpg)
 
-4. Now that the OLED is installed and the PCB is plugged in, we need to test the keys. Sat75 X is a VIA compatible keyboard. To test the keys, please navigate to [usevia.app/test](https://www.usevia.app/test) in a chromium browser (like Google Chrome), and connect your Sat75 X.
+4. Now that the OLED is installed and the PCB is plugged in, we need to test the keys. To test the keys, please navigate to [usevia.app/test](https://www.usevia.app/test) in a chromium browser (like Google Chrome), and connect your Sat75 X.
 
 ![](images/sat75-x/06-connect-via.gif)
 
@@ -86,7 +86,7 @@ With the PCB and plate assembled, you are now ready for the final steps for your
 
 ![](images/sat75-x/17-install-feet.jpg)
 
-2. If your case is screwed together, unscrew the 12 hex screws, and separate the top and bottom. Into each of the 24 little pockets, install the gaskets. If you look closely, you will notice that each of the little case pieces where you're installing gaskets is actually removeable. While this does allow for further customization, for your first build we recommend leaving all of them installed.
+2. If your case is screwed together, unscrew the 12 hex screws, and separate the top and bottom. Into each of the 24 little pockets, install the gaskets. If you look closely, you will notice that each of the little case pieces where you're installing the bottom gaskets is actually removeable. While this does allow for further customization, for your first build we recommend leaving all of them installed.
 
 ![](images/sat75-x/18-install-gaskets.jpg)
 
@@ -125,7 +125,7 @@ On the bottom of the PCB you will see a switch with 0 and 1 labeled, as well as 
 
 ![](images/sat75-x/switch-button.jpg)
 
- - Switch in 0 position allows the keyboard to function normallu
+ - Switch in 0 position allows the keyboard to function normally
  - Switch in 1 position puts the keyboard into a mode that allows firmware flashing
  - The button resets the PCB, putting it into whichever mode you've selected. You can also unplug the keyboard and plug back in.
 
