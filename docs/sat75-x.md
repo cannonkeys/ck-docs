@@ -29,26 +29,26 @@ In order to test the PCB, we need to install the OLED screen. Without it, the ke
 
 1. Lay the Sat75 X PCB on a flat surface and locate the 3 holes for nylon standoffs. These standoffs get installed to give the OLED screen some support once built.
 
-![](images/sat75-x/01-pcb-lay.jpg)
-![](images/sat75-x/02-standoff-loc.jpg)
+    ![](images/sat75-x/01-pcb-lay.jpg)
+    ![](images/sat75-x/02-standoff-loc.jpg)
 
 2. Using your fingers, push the nylon screw through the back of the hole in the PCB, and screw in the standoff. Once done, you should be left with three pillars that can be used as supports for the OLED.
 
-![](images/sat75-x/03-standoff-installed.jpg)
+    ![](images/sat75-x/03-standoff-installed.jpg)
 
 3. Gently install the OLED by pushing the pins into the header. You may want to pull it up slightly after fully seating to get it to sit level. Once installed, plug in your Sat75 X using a USB-C to USB-A cable. You should see the OLED light up. If it does not light up, try reseating the OLED screen.
 
-![](images/sat75-x/04-oled-installed.jpg)
-![](images/sat75-x/05-oled-plugged-in.jpg)
+    ![](images/sat75-x/04-oled-installed.jpg)
+    ![](images/sat75-x/05-oled-plugged-in.jpg)
 
 4. Now that the OLED is installed and the PCB is plugged in, we need to test the keys. To test the keys, please navigate to [usevia.app/test](https://www.usevia.app/test) in a chromium browser (like Google Chrome), and connect your Sat75 X.
 
-![](images/sat75-x/06-connect-via.gif)
+    ![](images/sat75-x/06-connect-via.gif)
 
 5. Once connected, navigate to the key tester tab. Toggle the test matrix button in the interface. Using tweezers, bridge the metal pads on the underside of the hotswap sockets to test each switch. If you don't have tweezers, other metal objects such as a bent paperclip or a bit of wire can work. Once you've confirmed each socket is working, you can continue into the next section.
 
-![](images/sat75-x/07-keytester.jpg)
-![](images/sat75-x/08-shorting.jpg)
+    ![](images/sat75-x/07-keytester.jpg)
+    ![](images/sat75-x/08-shorting.jpg)
 
 ### PCB & plate assembly
 
