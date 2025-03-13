@@ -46,14 +46,15 @@ You can use [VIA Configurator](https://github.com/olivia/via-config/releases) to
 
 In addition to that, there is a special menu, made specifically for the Satisfaction75. From the default view, hit the "CUSTOM" header:
 
-![](../images/satisfaction75/via_custom_menu.jpg)
+![](../images/satisfaction75/via_custom_menu_new.png)
 
 From there, you can control the enabled encoder modes and default OLED mode:
 
-![](../images/satisfaction75/via_encoder_oled_mode.jpg)
+![](../images/satisfaction75/via_custom_encoder_modes_new.png)
+![](../images/satisfaction75/via_encoder_oled_mode_new.png)
 
 To set a custom encoder behavior, you can use this chart:
 
-![](../images/satisfaction75/via_custom_encoder.jpg)
+![](../images/satisfaction75/via_custom_encoder_new.png)
 
 Each box controls a different behavior in the custom encoder mode, and can be defined with a [QMK keycode](https://beta.docs.qmk.fm/using-qmk/simple-keycodes/keycodes).
