@@ -38,7 +38,7 @@ In order to set the clock, we have to enter CLOCK setting mode. In order to do s
 
 In clock setting mode, you will see part of the date/time underlined. Turning the knob will change this value. Pressing the knob will advance the underline to the next part of the date/time.
 
-When done setting the time, press **FN + the key directly below the knob** to exit the clock setting mode, and lock-in the time.
+When done setting the time, press **FN + the key directly below the knob** to exit the clock setting mode, and lock-in the time. In order for the time to stay accurate while unplugged you need to install a CR1025 battery into the PCB.
 
 ## VIA Support
 
@@ -46,14 +46,15 @@ You can use [VIA Configurator](https://github.com/olivia/via-config/releases) to
 
 In addition to that, there is a special menu, made specifically for the Satisfaction75. From the default view, hit the "CUSTOM" header:
 
-![](../images/satisfaction75/via_custom_menu.jpg)
+![](../images/satisfaction75/via_custom_menu_new.png)
 
-From there, you can control the enabled encoder modes and default OLED mode:
+From there, you can control the enabled encoder modes and default OLED mode. If you're using the stock Sat75 X firmware the off position will load in the WPM screen.
 
-![](../images/satisfaction75/via_encoder_oled_mode.jpg)
+![](../images/satisfaction75/via_custom_encoder_modes_new.png)
+![](../images/satisfaction75/via_encoder_oled_mode_new.png)
 
 To set a custom encoder behavior, you can use this chart:
 
-![](../images/satisfaction75/via_custom_encoder.jpg)
+![](../images/satisfaction75/via_custom_encoder_new.png)
 
 Each box controls a different behavior in the custom encoder mode, and can be defined with a [QMK keycode](https://beta.docs.qmk.fm/using-qmk/simple-keycodes/keycodes).

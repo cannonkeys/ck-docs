@@ -20,6 +20,7 @@ nav:
   - BakenekoGO Guides:
     - BakenekoGO User Guide: bakenekogo-user-guide.md
     - BakenekoGO Flashing and Remapping Guide: bakenekogo-flashing-and-remapping-guide.md
+  - Sat75 X Build Guide: sat75-x.md
   - Stacked Kits:
     - Build Guide: stacked/stacked_build.md
     - BOMs: stacked/stacked_boms.md
