@@ -7,18 +7,17 @@ Before starting the build, make sure you have everything you need to build. Plea
 
 ### In the box
 
- 1. Sat75 X top and bottom case with gasket chips installed
- 2. Knob
- 3. PC Plate
- 4. Hotswap OLED screen
- 5. 3x Nylon standoffs & 3x nylon screws
- 6. 24x Silicone gaskets
- 7. 4x Clear silicone feet
- 8. Switch and keycap puller
- 9. 3x 2u and 1x 6.25u cherry clip-in stabilizers
- 10. 12x screws
- 11. USB-C cable
- 12. Carrying case
+ 1. Sat75 X top and bottom case with gasket chips and gaskets installed
+ 2. Hotswap PCB with 2 standoffs installed
+ 3. Knob
+ 4. PC Plate
+ 5. Hotswap OLED screen
+ 6. 4x Clear silicone feet
+ 7. Switch and keycap puller
+ 8. 3x 2u and 1x 6.25u cherry clip-in stabilizers
+ 9. 12x screws
+ 10. USB-C cable
+ 11. Carrying case
 
 If you're missing anything, let our support team know!
 
@@ -27,7 +26,7 @@ If you're missing anything, let our support team know!
 ### Preparing and testing the PCB
 In order to test the PCB, you need to install the OLED screen. Without it, the keyboard will not function properly. Once the OLED is installed, you can then test the PCB for functionality.
 
-1. Lay the Sat75 X PCB on a flat surface and locate the 3 nylon standoffs on the top right of the PCB. This is where the OLED gets installed.
+1. Lay the Sat75 X PCB on a flat surface and locate the 2 nylon standoffs on the top right of the PCB. Please note that while the prototype pictured below has 3 standoffs, production units will only have 2.
 
     ![](images/sat75-x/03-standoff-installed.jpg)
 
