@@ -116,6 +116,14 @@ The Sat75 X firmware includes a RTC that is displayed on the screen. To keep the
 
 ![](images/sat75-x/battery.jpg)
 
+### Black Screen Issue
+If you're experiencing a screen that will not turn on after your computer sleeps without unplugging the keyboard and plugging back in, we have a fix for you! There are two options: 
+
+- Option 1 is to add the custom keycode "0x7C01" to your keymap using the GIF below as a guide. This keycode is QK_Reset, which resets the PCB quickly, effectively acting as an unplug replug action in software. When you wake up your PC, simply input the shortcut you map it to. If you're using a solder PCB, this use this option.
+- Option 2 is to flash [updated hotswap firmware](assets/cannonkeys_satisfaction75_hs_bongo_qkreset_03262025.bin) (the same one linked below), and which puts the QK_Reset code in the Esc key location on layer one. Simply flash, and hold the MO(1)/FN key and tap the esc key to get your screen back on.
+
+![](images/sat75-x/sat75x-qk-reset.gif)
+
 ### Flashing
 **While you should not need to flash the Sat75 X, we have a standard PCB flashing guide [here](https://docs.cannonkeys.com/satisfaction75/flashing/#actual-flashing).**
 
@@ -129,8 +137,8 @@ On the bottom of the PCB you will see a switch with 0 and 1 labeled, as well as 
 
 Firmware downloads
 
- - [Hotswap PCB Firmware](assets/cannonkeys_satisfaction75_hs_via.bin)
- - [Solder PCB firmware](assets/cannonkeys_satisfaction75_rev2_via.bin)
+ - [Hotswap PCB Firmware](assets/cannonkeys_satisfaction75_hs_bongo_qkreset_03262025.bin)
+ - [Solder PCB firmware](assets/cannonkeys_satisfaction75_rev2_bongo_03262025.bin)
 
 ### Not seeing what you're looking for?
 Not to worry! While we do have a community on [Discord](https://discord.com/invite/DKpykqYKAe), if you are running into issues with your build we recommend contacting our official support team through the widget on the [contact us page](https://cannonkeys.com/pages/contact-us) of our website.
