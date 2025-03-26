@@ -125,7 +125,7 @@ If you're experiencing a screen that will not turn on after your computer sleeps
 ![](images/sat75-x/sat75x-qk-reset.gif)
 
 ### Incorrect OLED modes displayed in VIA
-If you're using the default hotswap PCB, you can sideload this .json file into via. We have a guide on sideloading a .json here.
+If you're using the default hotswap PCB, you can sideload [this .json file into](assets/sat75_hs_OLED_fix.json) via. We have a guide on sideloading a .json [here](https://docs.cannonkeys.com/via-json-loading/).
 
 ![](images/sat75-x/OLED-sideload-fix.png)
 
