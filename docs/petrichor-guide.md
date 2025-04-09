@@ -109,7 +109,7 @@ Thank you for purchasing an AKB Petrichor! We have put together the following gu
 
 6. Once the stabilizers are functioning properly, install the switches into the PCB and Plate. Make sure that your switches are properly clipped into the plate.
 
-**Hotswap Users** - *To avoid damaging your sockets/PCB, lay the PCB flat on your deskmat or table while pushing in switches. Alternatively, you can support the sockets from the back of the PCB with your finger while assembling*.
+    **Hotswap Users** - *To avoid damaging your sockets/PCB, lay the PCB flat on your deskmat or table while pushing in switches. Alternatively, you can support the sockets from the back of the PCB with your finger while assembling*.
 
 7. Now it is time to install the gaskets. We have provided enough gaskets to fill every cavity in the board, however AKB recommends that you do not install a gasket underneath where the spacebar would be aligned (the front-middle slot in the bottom case) as it would lead to a harsher bottom out on the spacebar. It is also AKB’s preference that for the sides of the board, you only use the top gaskets - not the bottom. You should be able to play around with the gasket configuration to your own liking however.
 
@@ -117,7 +117,7 @@ Thank you for purchasing an AKB Petrichor! We have put together the following gu
 
 9. Once the switches have all been installed (and soldered in, if using a solder PCB), it is best to carefully plug the daughterboard back into the PCB using the Molex cable and test the switches to make sure that the switches are seated properly and functioning. You can once again do this using the keytester in VIA.  
 
-**Note** - *If a key is not working, carefully remove the switch to ensure that the pins are not bent. If you have bent a pin you can simply straighten the pin back out with some tweezers and re-insert the switch back into the socket. If you’re using a solder PCB, make sure both pins are soldered, and the joints are good.*
+    **Note** - *If a key is not working, carefully remove the switch to ensure that the pins are not bent. If you have bent a pin you can simply straighten the pin back out with some tweezers and re-insert the switch back into the socket. If you’re using a solder PCB, make sure both pins are soldered, and the joints are good.*
 
 10. Once you have confirmed the switches are working in the PCB, it is time to disconnect the keyboard from your computer and install the RGB daughterboard.
 
@@ -140,7 +140,7 @@ Thank you for purchasing an AKB Petrichor! We have put together the following gu
 
     ![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXfDl-2vFZXb6suEnQ-PaDBilDmywntYz9y2dYLn-sRaHlIyAgBlsNrFOwv1hZyYUteDtwpf4896lLN7N1bFm92J2sFWKRk-qhUeGlVgXG2Xp3NqdhZ6vvrb53SYv2r7XiKqCD3tZw?key=ZM8RTFKMK-DSwViidnjtP5Fr)
 
-**Important Note** - *It is vital to not overtighten the keyboard. As soon as you start to feel resistance when screwing in, it’s best to stop. Overtightening can cause the board to sound less than ideal, and can put too much stress on the keyboard.*
+    **Important Note** - *It is vital to not overtighten the keyboard. As soon as you start to feel resistance when screwing in, it’s best to stop. Overtightening can cause the board to sound less than ideal, and can put too much stress on the keyboard.*
 
 
 2. After installing the screws, Flip the board back over and you can install your keycaps. The best part!
@@ -150,7 +150,7 @@ Thank you for purchasing an AKB Petrichor! We have put together the following gu
 Looking good!
 
 
-# Post Build
+## Post Build
 
 Petrichor is QMK and VIA compatible, making customizing easy. Here is the link to [VIA’s website](https://www.caniusevia.com/).
 
