@@ -73,7 +73,7 @@ Thank you for purchasing an AKB Petrichor! We have put together the following gu
 
 2. Connect the two daughterboards together using the 6-pin JST to 6-pin JST cable.
 
-    ![](images/petrichor/03-connect-db.jpg
+    ![](images/petrichor/03-connect-db.jpg)
 
 3. Locate the main PCB, and connect the hub daughterboard to the PCB using the 170mm 4-pin JST to molex EZ-mate cable.
 
@@ -95,13 +95,11 @@ Thank you for purchasing an AKB Petrichor! We have put together the following gu
 
 2. On a soft surface, lay the case face-side down and install the rubber bumpons in the slots on the back of the case, along with the sticker. Then remove the 8 case screws and remove the top case from the bottom. Set the top case aside, leaving you with just the bottom case for now.
 
-
-
 3. Using the 7 daughterboard screws, install the daughterboards ensuring the USB connections are aligned with the cut-outs on the back of the case. Then make sure the 6-pin JST cable is comfortably tucked in the cavity between the daughterboards.
 
     ![](images/petrichor/06-start-build.jpg)
 
-4. Now feed the cable leading from the USB-C daughterboard to the PCB through the channel, and place the internal weight on top of it to help hold it in place. Now you can screw the internal weight down using the M3 countersunk screws. If you run into an issue where there is a clearance issue with the weight and JST cable, you can trim the corners of the connector. Please use [this image](images/petrichor/petrichor-fix.png) as an example of what to cut, and contact our customer support team via the widget on our [contact us page](https://cannonkeys.com/pages/contact-us) if you have any questions.
+4. Now feed the cable leading from the USB-C daughterboard to the PCB through the channel, and place the internal weight on top of it to help hold it in place. Now you can screw the internal weight down using the M3 countersunk screws. If you run into a clearance issue with the weight and JST cable, you can trim the corners of the connector. Please use [this image](images/petrichor/petrichor-fix.png) as an example of what to cut, and contact our customer support team via the widget on our [contact us page](https://cannonkeys.com/pages/contact-us) if you have any questions.
 
     ![](images/petrichor/02-weight-install.jpg)
 
