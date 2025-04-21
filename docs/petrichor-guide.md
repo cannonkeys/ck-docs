@@ -100,10 +100,11 @@ Thank you for purchasing an AKB Petrichor! We have put together the following gu
     ![](images/petrichor/06-start-build.jpg)
 
 4. Now feed the cable leading from the USB-C daughterboard to the PCB through the channel, and place the internal weight on top of it to help hold it in place. Now you can screw the internal weight down using the M3 countersunk screws.
-![](images/petrichor/02-weight-install.jpg)
-  
-!!! Note
+
+    !!! Note
     If you run into a clearance issue with the weight and JST cable, you can trim the corners of the connector. Please use [this image](images/petrichor/petrichor-fix.png) as an example of what to cut, and contact our customer support team via the widget on our [contact us page](https://cannonkeys.com/pages/contact-us) if you have any questions.
+
+    ![](images/petrichor/02-weight-install.jpg)
 
 5. Set the Bottom case aside and locate the PCB. Install your Stabilizers into the PCB. It’s recommended to test their functionality and sound before continuing with the build.
 
@@ -113,23 +114,23 @@ Thank you for purchasing an AKB Petrichor! We have put together the following gu
 
 7. Now it is time to install the gaskets. We have provided enough gaskets to fill every cavity in the board, however AKB recommends that you do not install a gasket underneath where the spacebar would be aligned (the front-middle slot in the bottom case) as it would lead to a harsher bottom out on the spacebar. It is also AKB’s preference that for the sides of the board, you only use the top gaskets - not the bottom. You should be able to play around with the gasket configuration to your own liking however.
 
-9. Typically you would install the gaskets only on the case, however AKB likes to install his on the plate in this instance. The mounting tabs match the size of the gaskets exactly so it helps align the build with the case when you assemble it later. This isn’t mandatory however, so please experiment with this to see what suits you best.
+8. Typically you would install the gaskets only on the case, however AKB likes to install his on the plate in this instance. The mounting tabs match the size of the gaskets exactly so it helps align the build with the case when you assemble it later. This isn’t mandatory however, so please experiment with this to see what suits you best.
 
-10. Once the switches have all been installed (and soldered in, if using a solder PCB), it is best to carefully plug the daughterboard back into the PCB using the Molex cable and test the switches to make sure that the switches are seated properly and functioning. You can once again do this using the keytester in VIA.  
+0. Once the switches have all been installed (and soldered in, if using a solder PCB), it is best to carefully plug the daughterboard back into the PCB using the Molex cable and test the switches to make sure that the switches are seated properly and functioning. You can once again do this using the keytester in VIA.  
 
     **Note** - *If a key is not working, carefully remove the switch to ensure that the pins are not bent. If you have bent a pin you can simply straighten the pin back out with some tweezers and re-insert the switch back into the socket. If you’re using a solder PCB, make sure both pins are soldered, and the joints are good.*
 
-11. Once you have confirmed the switches are working in the PCB, it is time to disconnect the keyboard from your computer and install the RGB daughterboard.
+10. Once you have confirmed the switches are working in the PCB, it is time to disconnect the keyboard from your computer and install the RGB daughterboard.
 
-12. With the daughterboard still connected to the PCB, carefully set the PCB assembly down into the bottom case, and while doing so, ensure that the Molex cable for the RGB daughterboard is connected to the PCB and fed through the hole in the plate.
+11. With the daughterboard still connected to the PCB, carefully set the PCB assembly down into the bottom case, and while doing so, ensure that the Molex cable for the RGB daughterboard is connected to the PCB and fed through the hole in the plate.
 
     ![](images/petrichor/07-switches.jpg)
 
-13. Screw the RGB daughterboard into the top case using the 2 remaining M2x4mm screws.
+12. Screw the RGB daughterboard into the top case using the 2 remaining M2x4mm screws.
 
     ![](images/petrichor/08-rgb-db-install.jpg)
 
-14. Then carefully connect the loose Molex connector to the RGB daughterboard.
+13. Then carefully connect the loose Molex connector to the RGB daughterboard.
 
     ![](images/petrichor/09-rgb-db-connect.jpg)
 
