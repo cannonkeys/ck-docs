@@ -102,19 +102,19 @@ Thank you for purchasing an AKB Petrichor! We have put together the following gu
 4. Now feed the cable leading from the USB-C daughterboard to the PCB through the channel, and place the internal weight on top of it to help hold it in place. Now you can screw the internal weight down using the M3 countersunk screws.
 
     !!! Note
-    If you run into a clearance issue with the weight and JST cable, you can trim the corners of the connector. Please use [this image](images/petrichor/petrichor-fix.png) as an example of what to cut, and contact our customer support team via the widget on our [contact us page](https://cannonkeys.com/pages/contact-us) if you have any questions.
+        If you run into a clearance issue with the weight and JST cable, you can trim the corners of the connector. Please use [this image](images/petrichor/petrichor-fix.png) as an example of what to cut, and contact our customer support team via the widget on our [contact us page](https://cannonkeys.com/pages/contact-us) if you have any questions.
 
     ![](images/petrichor/02-weight-install.jpg)
 
-5. Set the Bottom case aside and locate the PCB. Install your Stabilizers into the PCB. It’s recommended to test their functionality and sound before continuing with the build.
+6. Set the Bottom case aside and locate the PCB. Install your Stabilizers into the PCB. It’s recommended to test their functionality and sound before continuing with the build.
 
-6. Once the stabilizers are functioning properly, install the switches into the PCB and Plate. Make sure that your switches are properly clipped into the plate.
+7. Once the stabilizers are functioning properly, install the switches into the PCB and Plate. Make sure that your switches are properly clipped into the plate.
 
     **Hotswap Users** - *To avoid damaging your sockets/PCB, lay the PCB flat on your deskmat or table while pushing in switches. Alternatively, you can support the sockets from the back of the PCB with your finger while assembling*.
 
-7. Now it is time to install the gaskets. We have provided enough gaskets to fill every cavity in the board, however AKB recommends that you do not install a gasket underneath where the spacebar would be aligned (the front-middle slot in the bottom case) as it would lead to a harsher bottom out on the spacebar. It is also AKB’s preference that for the sides of the board, you only use the top gaskets - not the bottom. You should be able to play around with the gasket configuration to your own liking however.
+8. Now it is time to install the gaskets. We have provided enough gaskets to fill every cavity in the board, however AKB recommends that you do not install a gasket underneath where the spacebar would be aligned (the front-middle slot in the bottom case) as it would lead to a harsher bottom out on the spacebar. It is also AKB’s preference that for the sides of the board, you only use the top gaskets - not the bottom. You should be able to play around with the gasket configuration to your own liking however.
 
-8. Typically you would install the gaskets only on the case, however AKB likes to install his on the plate in this instance. The mounting tabs match the size of the gaskets exactly so it helps align the build with the case when you assemble it later. This isn’t mandatory however, so please experiment with this to see what suits you best.
+9. Typically you would install the gaskets only on the case, however AKB likes to install his on the plate in this instance. The mounting tabs match the size of the gaskets exactly so it helps align the build with the case when you assemble it later. This isn’t mandatory however, so please experiment with this to see what suits you best.
 
 0. Once the switches have all been installed (and soldered in, if using a solder PCB), it is best to carefully plug the daughterboard back into the PCB using the Molex cable and test the switches to make sure that the switches are seated properly and functioning. You can once again do this using the keytester in VIA.  
 
