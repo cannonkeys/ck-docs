@@ -100,8 +100,7 @@ Thank you for purchasing an AKB Petrichor! We have put together the following gu
     ![](images/petrichor/06-start-build.jpg)
 
 4. Now feed the cable leading from the USB-C daughterboard to the PCB through the channel, and place the internal weight on top of it to help hold it in place. Now you can screw the internal weight down using the M3 countersunk screws.
-
-    ![](images/petrichor/02-weight-install.jpg)
+![](images/petrichor/02-weight-install.jpg)
   
 !!! Note
     If you run into a clearance issue with the weight and JST cable, you can trim the corners of the connector. Please use [this image](images/petrichor/petrichor-fix.png) as an example of what to cut, and contact our customer support team via the widget on our [contact us page](https://cannonkeys.com/pages/contact-us) if you have any questions.
