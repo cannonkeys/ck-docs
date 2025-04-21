@@ -93,7 +93,7 @@ Thank you for purchasing an AKB Petrichor! We have put together the following gu
 
 1. Now that you have tested that the PCB is working, remove the Molex cable connector from the PCB, but keep it installed on the daughterboard. Set these aside for a moment.
 
-2. On a soft surface, lay the case face-side down and install the rubber bumpons in the slots on the back of the case, along with the sticker. Then remove the 8 case screws and remove the top case from the bottom. Set the top case aside, leaving you with just the bottom case for now.
+2. On a soft surface, lay the case face-side down and install the rubber bumpons in the slots on the back of the case. Then remove the 8 case screws and remove the top case from the bottom. Set the top case aside, leaving you with just the bottom case for now.
 
 3. Using the 7 daughterboard screws, install the daughterboards ensuring the USB connections are aligned with the cut-outs on the back of the case. Then make sure the 6-pin JST cable is comfortably tucked in the cavity between the daughterboards.
 
