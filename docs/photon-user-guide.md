@@ -21,7 +21,7 @@ Below are the default keymaps found on the Photon. By default, there are Windows
 
 [ ![Photon default keymap](images/photon/photon-KLE-labeled-split.png)](images/photon/photon-KLE-labeled-split.png)
 
-## BT connectivity
+## Wireless BT connectivity
 Pairing varies from system to system, but you should be able to connect Photon to any standard device such as a computer or phone that uses BT.
 
 ### First Time Setup
