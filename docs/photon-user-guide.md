@@ -1,14 +1,14 @@
 # Photon User Guide
-In this guide, we will go over some details about Photon not covered in our [build guide](https://docs.cannonkeys.com/photon-build-guide)
+In this guide, we will go over some details about Photon not covered in our [build guide](/photon-build-guide)
 
-## Remapping with ZMK Studio
+## Remapping with [ZMK Studio](https://zmk.studio/)
 
 ![](images/photon/studio-at-a-glance.png)
 
-ZMK Studio can be found [here], and can be used for on the fly key remapping! Simple connect your photon with the included USB cable, and input the keys shown in the [default keymap](images/photon/photon-KLE-labeled-split.png) below to unlock it.
+ZMK Studio can be found [here](https://zmk.studio/), and can be used for on the fly key remapping! Simple connect your photon with the included USB cable, and input the keys shown in the [default keymap](images/photon/photon-KLE-labeled-split.png) below to unlock it.
 
 ## Back toggle switch
-On the back of the keyboard there is a 3 way toggle switch that can be in the left, center, or right position. This controls which keymap is being used, and if the battery is off or on. By default, these are the positions
+On the back of the keyboard there is a 3 way toggle switch that can be in the left, center, or right position. This controls which keymap is being used, and if the battery is off or on. By default, these are the positions:
 
  - Left (towards esc key) - Battery on, Mac layout
  - Center - Battery off, Windows layout
@@ -19,7 +19,7 @@ On the back of the keyboard there is a 3 way toggle switch that can be in the le
 ## Default keymap
 Below are the default keymaps found on the Photon. By default, there are Windows and Mac layouts programmed in, but you can remap them to anything you want, and they will be toggleable with the switch on the back!
 
-![](images/photon/photon-KLE-labeled-split.png)
+[ ![Photon default keymap](images/photon/photon-KLE-labeled-split.png)](images/photon/photon-KLE-labeled-split.png)
 
 ## BT connectivity
 Pairing varies from system to system, but you should be able to connect Photon to any standard device such as a computer or phone that uses BT.
