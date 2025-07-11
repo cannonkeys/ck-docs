@@ -1,17 +1,22 @@
 # CannonKeys Keyboard Documentation
 
-## Bluepill Keyboard Kits
-CannonKeys currently offers the following Bluepill Powered DIY keyboard kits:
+## Bakeneko Keyboard Kits
 
-- Practice 60 - 60% ANSI Keyboard
-- Ortho60 - 12x5 Ortholinear Keyboard
-- Ortho48 - 12x4 Ortholinear Keyboard
+- [Bakeneko build guide for the Bakeneko60, Bakeneko65, and BakenekoGO](bakeneko.md)
+- [BakenekoGO user guide](bakenekogo-user-guide.md)
 
-These kits are powered by an STM32 Blue Pill board. Our kits require a Soldering Iron, Solder, Flush Cutters, and an M2 screwdriver to assemble.
+## Sat75 X
 
-Flashing instructions are available [here](flashing.md)
+- [Sat75 X build guide](sat75-x.md)
+- [Sat75 X user guide](satisfaction75/user_guide.md)
 
-If you'd like to change your keymap, please visit the [firmware guide](firmware.md)
+## Photon
+
+- [Photon build guide](photon-build-guide.md)
+- [Photon user guide](photon-user-guide.md)
+
+## Brutal V2
+- [Brutal V2 build guides for the 65% and 1800](brutal-v2-build-guide.md)
 
 ## Stacked Keyboard Kits
 CannonKeys also offers a line of stacked acrylic keyboard kits as part of our Stacked line. This includes:
@@ -35,6 +40,19 @@ Our Brutal Series of keyboards are sold as in-stock, and are inspired by the Bru
 A build guide for these keyboards is available [here](brutal/brutal_build.md)
 
 Plate files are also available on our [Resources Page](resources.md)
+
+## Bluepill Keyboard Kits
+CannonKeys currently offers the following Bluepill Powered DIY keyboard kits:
+
+- Practice 60 - 60% ANSI Keyboard
+- Ortho60 - 12x5 Ortholinear Keyboard
+- Ortho48 - 12x4 Ortholinear Keyboard
+
+These kits are powered by an STM32 Blue Pill board. Our kits require a Soldering Iron, Solder, Flush Cutters, and an M2 screwdriver to assemble.
+
+Flashing instructions are available [here](flashing.md)
+
+If you'd like to change your keymap, please visit the [firmware guide](firmware.md)
 
 ## Other Products
 
