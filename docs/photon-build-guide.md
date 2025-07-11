@@ -50,18 +50,12 @@ Now that you have confirmed the PCB is functioning properly, you can unplug the 
    ![](images/photon/04-disassemble.jpg)
 
 1. Assemble your stabilizers, and install them into the PCB. Most stabilizers benefit from lubing,  [here](https://youtu.be/usNx1_d0HbQ?si=Rg8IWjJyQiyCb8HA) is a great video on stabilizer modding if you want to learn more. If you need some quick tips on putting stabilizers together, we have some additional information for cherry clip-in stabilizers specifically [here](https://docs.cannonkeys.com/bakeneko/#preparing-your-stabilizers).
-
-   ![](images/photon/05-stabs-installed.jpg)
-
+![](images/photon/05-stabs-installed.jpg)
 2. Next up we need to put the switches into the plate and PCB. In this guide we'll go over some tips that should make this process quick and easy! As a general note while doing this, it is **very** important to always support the backside of the socket while installing switches. If you're using plate foam, lay it on the PCB now before you begin adding switches.
 Start by inserting switched into the outside and corners. These will help give support while we install the rest of the switches.
-
-   ![](images/photon/06-install-outside.jpg)
-
+![](images/photon/06-install-outside.jpg)
 3. Line up the plate over the PCB, and start pushing the switches in one by one. Use the video below for a tip on doing this safely and smoothly.
-
-   ![](images/photon/07-install-switch.gif)
-
+![](images/photon/07-install-switch.gif)
 4. Next, finish up installing switches around the outside. With the outer ring complete, the rest of the switches should be easier to install! Before continuing on, check that there is an even gap between the plate and PCB around the entire assembly.
 
 !!! Note 
@@ -76,12 +70,9 @@ Start by inserting switched into the outside and corners. These will help give s
 With the PCB and plate assembled, you are now ready for the final steps for your build. Grab your case, gaskets, and battery and continue on with the guide!
 
 1. First, grab the bottom case, and install the feet found in the gasket baggie. 
-
-   ![](images/photon/11-feet.jpg)
-
+![](images/photon/11-feet.jpg)
 2. Next unscrew the battery cover, then insert the battery into position so that the wires can exit the holder where the side walls are lower.
-
-   ![](images/photon/12-battery-install.jpg)
+![](images/photon/12-battery-install.jpg)
 
 3. Once the battery has been placed correctly, making sure the wires will not be pinched, put the cover back on and screw it in.
 
