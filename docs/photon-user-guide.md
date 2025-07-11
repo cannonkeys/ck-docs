@@ -65,7 +65,9 @@ While you should never _need_ to flash your Photon, this section will assist in 
 Here are some useful shortcuts to help you get the most out of your photon! Please note that the keys refer to the **default keymap**. If you have made changes, you will need to press different keys.
 
 - Studio Unlock - Hold `FN+Right Alt` and tap `Enter`
-- RGB Toggle -Hold `FN+Right Alt` and tap `Space`
+- RGB Toggle - Hold `FN+Right Alt` and tap `Space`
+- RGB Brightness Up - Hold `FN+Right Alt` and tap `R`
+- RGB Brightness Down - Hold `FN+Right Alt` and tap `F`
 - Charging Indicator On - Hold `FN+Right Alt` and tap `Up Arrow`
 - Charging Indicator Off - Hold `FN+Right Alt` and tap `Down Arrow`
 - Bootloader Mode (Flashing Mode) - Hold `FN+Right Alt` and tap `Left Control`
