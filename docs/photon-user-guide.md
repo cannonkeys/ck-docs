@@ -48,3 +48,17 @@ Photon can store 4 devices onboard, meaning once paired you can cycle through 4 
 If you want to remove a device from a BT profile, you have to clear the device list, and re-pair your keyboard. There is not currently a way to only remove a single BT profile. The key combination to clear your BT profiles is:
 
  - Hold `FN+Right ALT` and tap `Home`
+
+### Shortcut guide
+Here are some useful shortcuts to help you get the most out of your photon! Please note that the keys refer to the **default keymap**. If you have made changes, you will need to press different keys.
+
+- Studio Unlock - Hold `FN+Right Alt` and tap `Enter`
+- RGB Toggle -Hold `FN+Right Alt` and tap `Space`
+- Charging Indicator On - Hold `FN+Right Alt` and tap `Up Arrow`
+- Charging Indicator Off - Hold `FN+Right Alt` and tap `Down Arrow`
+- Bootloader Mode (Flashing Mode) - Hold `FN+Right Alt` and tap `Left Control`
+- BT Device 1 - Hold `FN+Right Alt` and tap `PgUp`
+- BT Device 2 - Hold `FN+Right Alt` and tap `PgDn`
+- BT Device 3 - Hold `FN+Right Alt` and tap `End`
+- BT Device 4 - Hold `FN+Right Alt` and tap `Right`
+- Clear All BT Profiles - Hold `FN+Right Alt` and tap `Home`
