@@ -32,7 +32,7 @@ When you first get your Photon it won't be paired to anything. Before starting t
  - BT3 - Hold `FN+Right Alt` and tap `End`
  - BT4 - Hold `FN+Right Alt` and tap `Right`
 
-After pressing one of the key combinations above, your Photon should pop up on your device as CANNONKKB.
+After pressing one of the key combinations above, your Photon should pop up on your device as Photon.
 
 **Shortened Version**
 
