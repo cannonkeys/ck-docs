@@ -56,9 +56,9 @@ Start by inserting switches into the outside and corners. These will help give s
     The top row of the keyboard uses north facing switches, meaning they will be installed in the reverse orientation compared to the rest of the board.
     
 ![](images/photon/06-install-outside.jpg)
-4. Line up the plate over the PCB, and start pushing the switches in one by one. Use the video below for a tip on doing this safely and smoothly.
+3. Line up the plate over the PCB, and start pushing the switches in one by one. Use the video below for a tip on doing this safely and smoothly.
 ![](images/photon/07-install-switch.gif)
-5. Next, finish up installing switches around the outside. With the outer ring complete, the rest of the switches should be easier to install! Before continuing on, check that there is an even gap between the plate and PCB around the entire assembly.
+4. Next, finish up installing switches around the outside. With the outer ring complete, the rest of the switches should be easier to install! Before continuing on, check that there is an even gap between the plate and PCB around the entire assembly.
 
 !!! Note 
     We included a plate fork to assist with installing switches. Since PC plates have a bunch of flex, we recommend using the plate fork to help keep the plate properly aligned when inserting switches.
