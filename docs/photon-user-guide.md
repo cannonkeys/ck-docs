@@ -5,7 +5,7 @@ In this guide, we will go over some details about Photon not covered in our [bui
 
 ![](images/photon/studio-at-a-glance.png)
 
-ZMK Studio can be found [here](https://zmk.studio/), and can be used for on the fly key remapping! Simple connect your photon with the included USB cable, and input the keys shown in the [default keymap](images/photon/photon-KLE-labeled-split.png) below to unlock it.
+ZMK Studio can be found [here](https://zmk.studio/), and can be used for on the fly key remapping! Simply connect your photon with the included USB cable, and input the following keys on the **default keymap** to unlock it: Hold `FN+Right Alt` and tap `Enter`.
 
 ## Back toggle switch
 On the back of the keyboard there is a 3 way toggle switch that can be in the left, center, or right position. This controls which keymap is being used, and if the battery is off or on. By default, these are the positions:
