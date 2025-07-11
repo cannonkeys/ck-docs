@@ -55,7 +55,7 @@ While you should never _need_ to flash your Photon, this section will assist in 
 !!! Note 
     If you are an advanced user who wants to customize their firmware beyond what is available in studio, please see our [ZMK Module on GitHub](https://github.com/cannonkeys/zmk-cannonkeys-keyboards).
 
-1. Put the PCB into bootloader mode by either pressing the reset button on the bottom of the PCB or by inputting the following keys on the **default keymap**: Hold `FN+Right Alt` and tap `Left Control`
+1. Put the PCB into bootloader mode by either pressing the reset button on the bottom of the PCB or by inputting the following keys on the **default keymap**: Hold `FN+Right Alt` and tap `Left Control`.
 2. If successful, on Windows a folder or drive will pop up immediately on your computer called `CANNONKKB`. This folder represents the storage found on your Photon PCB, and can be found as a removeable storage in file exporer if accidentally closed. If you are on a Mac, the drive will mount and be visible on your desktop as well as the Finder sidebar as CANNONKKB.
 4. To flash, simply drag the firmware downloaded earlier into the `CANNONKKB` folder. If you get an error, unplug your keyboard/PCB, plug it back in, and try again. If successful, the firmware file will copy into the Photon, the folder will close, and your Photon will now have the new firmware applied!
 
