@@ -45,7 +45,7 @@ After pressing one of the key combinations above, your Photon should pop up on y
 ### Understanding How Devices Work
 Photon can store 4 devices onboard, meaning once paired you can cycle through 4 devices on the fly. These are called BT1, BT2, BT3, and BT4 on the keymap. Once a device is paired to a specific BT profile, it can be swapped to by hitting the same key combination you used to originally pair it.
 
-If you want to remove a device from a BT profile, you have to clear the device list, and re-pair your keyboard. There is not currently a way to only remove a single BT profile. The key combination to clear your BT profiles is:
+If you want to remove a device from a BT profile, cycle to the device using the above shortcuts, and do the following:
 
  - Hold `FN+Right ALT` and tap `Home`
 
@@ -61,4 +61,5 @@ Here are some useful shortcuts to help you get the most out of your photon! Plea
 - BT Device 2 - Hold `FN+Right Alt` and tap `PgDn`
 - BT Device 3 - Hold `FN+Right Alt` and tap `End`
 - BT Device 4 - Hold `FN+Right Alt` and tap `Right`
-- Clear All BT Profiles - Hold `FN+Right Alt` and tap `Home`
+- Clear Current BT Profile - Hold `FN+Right Alt` and tap `Home`
+- Clear All BT Profiles - Hold `FN+Right Alt` and tap `Esc`
