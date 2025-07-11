@@ -61,9 +61,9 @@ Start by inserting switched into the outside and corners. These will help give s
 !!! Note 
     We included a plate fork to assist with installing switches. Since PC plates have a bunch of flex, we recommend using the plate fork to help keep the plate properly aligned when inserting switches.
 
-   ![](images/photon/08-fork-use.jpg)
-   ![](images/photon/09-side-build.jpg)
-   ![](images/photon/10-all-switches-installed.jpg)
+![](images/photon/08-fork-use.jpg)
+![](images/photon/09-side-build.jpg)
+![](images/photon/10-all-switches-installed.jpg)
 
 ### Case assembly
 
@@ -73,38 +73,30 @@ With the PCB and plate assembled, you are now ready for the final steps for your
 ![](images/photon/11-feet.jpg)
 2. Next unscrew the battery cover, then insert the battery into position so that the wires can exit the holder where the side walls are lower.
 ![](images/photon/12-battery-install.jpg)
-
 3. Once the battery has been placed correctly, making sure the wires will not be pinched, put the cover back on and screw it in.
 
 !!! Note 
     If you're having trouble getting the battery properly installed, try putting it into the removable cover first instead, and then putting the cover + battery into the bottom case.
 
-   ![](images/photon/13-cover-install)
-
+![](images/photon/13-cover-install)
 4. Grab your PCB + plate assembly, and the long gaskets from the baggie. Using the image below as a reference, install the long gaskets directly onto the top and bottom side of the plate.
 
 !!! Note 
     The below image is our recommended setup for gaskets. You can experiment on your own if you wish by installing in different locations, or even directly onto the case rather than onto the plate.
 
-   ![](images/photon/14-gasket-install-top.jpg)
-
-   ![](images/photon/15-gasket-install-bot.jpg)
-
+![](images/photon/14-gasket-install-top.jpg)
+![](images/photon/15-gasket-install-bot.jpg)
 5. With the gaskets installed, flip over the PCB and carefully install the battery cable into the header located on the PCB. The red wire should be aligned with the POS+ pin.
-
-   ![](images/photon/16-battery-plug.jpg)
+![](images/photon/16-battery-plug.jpg)
 
 6. Carefully flip over the PCB so the switches are facing up, and install the PCB + plate into the bottom case. Put a little pressure on it once aligned to make sure it is fully seated.
-
-   ![](images/photon/17-install-plate-pcb.jpg)
+![](images/photon/17-install-plate-pcb.jpg)
 
 7. Put the top case onto the keyboard, and install the screws. You might need to put a little pressure on the top case for the first couple screws to compress the gaskets. We recommend stopping the screw once you start to feel a little resistance, and installing them in a crisscross pattern as seen in the image below to help ensure even compression.
-
-   ![](images/photon/18-screw-case-labeled.jpg)
+![](images/photon/18-screw-case-labeled.jpg)
 
 8. Finally, put your keycaps on the board, and enjoy your new Photon!
-
-   ![](images/photon/19-caps-done.jpg)
+![](images/photon/19-caps-done.jpg)
 
 ## Additional information
 Your build is done- now what? Below we'll compile some useful information as well as some other things you can do to further customize your build.
