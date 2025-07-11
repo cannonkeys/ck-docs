@@ -53,7 +53,7 @@ Now that you have confirmed the PCB is functioning properly, you can unplug the 
 Start by inserting switches into the outside and corners. These will help give support while we install the rest of the switches.
 
 !!! Note 
-    The top row of the keyboard uses north facing switches, meaning they will be installed in the reverse orientation compared to the rest of the board.
+    The top row of the keyboard uses north facing switches, meaning they will be installed in the reverse orientation compared to the rest of the board. Also, make sure to check your switch pins to ensure they are straight and not bent.
     
 ![](images/photon/06-install-outside.jpg)
 3. Line up the plate over the PCB, and start pushing the switches in one by one. Use the video below for a tip on doing this safely and smoothly.
