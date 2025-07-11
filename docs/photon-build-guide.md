@@ -49,7 +49,7 @@ Now that you have confirmed the PCB is functioning properly, you can unplug the 
 
    ![](images/photon/04-disassemble.jpg)
 
-1. Assemble your stabilizers, and install them into the PCB. Most stabilizers benefit from lubing,  [here](https://youtu.be/usNx1_d0HbQ?si=Rg8IWjJyQiyCb8HA) is a great video on stabilizer modding if you want to learn more. If you need some quick tips on putting stabilizers together, we have some additional information for cherry clip-in stabilizers specifically[here](https://docs.cannonkeys.com/bakeneko/#preparing-your-stabilizers).
+1. Assemble your stabilizers, and install them into the PCB. Most stabilizers benefit from lubing,  [here](https://youtu.be/usNx1_d0HbQ?si=Rg8IWjJyQiyCb8HA) is a great video on stabilizer modding if you want to learn more. If you need some quick tips on putting stabilizers together, we have some additional information for cherry clip-in stabilizers specifically [here](https://docs.cannonkeys.com/bakeneko/#preparing-your-stabilizers).
 
    ![](images/photon/05-stabs-installed.jpg)
 
@@ -90,7 +90,7 @@ With the PCB and plate assembled, you are now ready for the final steps for your
 
    ![](images/photon/13-cover-install)
 
-4. Grab your PCB + plate assembly, and the long gaskets from the baggie. Using the image below for as a reference, install the long gaskets directly onto the top and bottom side of the plate.
+4. Grab your PCB + plate assembly, and the long gaskets from the baggie. Using the image below as a reference, install the long gaskets directly onto the top and bottom side of the plate.
 
 !!! Note 
     The below image is our recommended setup for gaskets. You can experiment on your own if you wish by installing in different locations, or even directly onto the case rather than onto the plate.
@@ -119,16 +119,16 @@ With the PCB and plate assembled, you are now ready for the final steps for your
 Your build is done- now what? Below we'll compile some useful information as well as some other things you can do to further customize your build.
 
 ### User Guide
-For information on how to use the BT functionality and toggle switch for Windows and Mac modes, check out the [Photon user guide](https://docs.cannonkeys.com/photon-user-guide/).
+For information on how to use the BT functionality and toggle switch for Windows and Mac modes, check out the [Photon user guide](/photon-user-guide).
 
-   ![](images/photon/toggle-switch-labeled.jpg)
+   ![](images/photon/toggle-switch-labeled.png)
 
 ### Keymap customization and rebinding
 Photon is compatible out of the box with ZMK Studio. We recommend using the [ZMK Studio online configurator](https://zmk.studio/) to remap your keys. This requires your keyboard to be plugged in. To learn more about the layers, and how to unlock ZMK Studio or change BT devices, check out the default keymap below.
 
 ### Default keymap
 
-   ![](images/photon/photon-KLE-labeled-split.png)
+   [ ![Photon default keymap](images/photon/photon-KLE-labeled-split.png)](images/photon/photon-KLE-labeled-split.png)
 
 ### Not seeing what you're looking for?
 Not to worry! While we do have a community on [Discord](https://discord.com/invite/DKpykqYKAe), if you are running into issues with your build we recommend contacting our official support team through the widget on the [contact us page](https://cannonkeys.com/pages/contact-us) of our website.
