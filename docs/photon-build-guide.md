@@ -1,5 +1,5 @@
 # Photon Build Guide
-In this guide, we will go through the building process of your brand new Photon Keyboard! If you run into any issues not covered by this guide check out our [PCB Troubleshooting guide](https://docs.cannonkeys.com/troubleshooting/), and reach out to our support team via the widget found in the bottom right corner of our [contact us page](https://cannonkeys.com/pages/contact-us) if you're still having trouble. If you want to learn more about the Mac/Windows toggle switch and BT functionality, check out our [Photon User Guide](/photon-user-guide).
+In this guide, we will go through the building process of your brand new Photon Keyboard! If you run into any issues not covered by this guide check out our [PCB Troubleshooting guide](https://docs.cannonkeys.com/troubleshooting/), and reach out to our support team via the widget found in the bottom right corner of our [contact us page](https://cannonkeys.com/pages/contact-us) if you're still having trouble. If you want to learn more about the Mac/Windows toggle switch and wireless BT functionality, check out our [Photon User Guide](/photon-user-guide).
 
 ## Getting Started
 
@@ -102,7 +102,7 @@ With the PCB and plate assembled, you are now ready for the final steps for your
 Your build is done- now what? Below we'll compile some useful information as well as some other things you can do to further customize your build.
 
 ### User Guide
-For information on how to use the BT functionality and toggle switch for Windows and Mac modes, check out the [Photon user guide](/photon-user-guide).
+For information on how to use the wireless BT functionality and toggle switch for Windows and Mac modes, check out the [Photon user guide](/photon-user-guide).
 
    ![](images/photon/toggle-switch-labeled.png)
 
