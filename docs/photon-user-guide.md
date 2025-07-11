@@ -49,7 +49,16 @@ If you want to remove a device from a BT profile, cycle to the device using the 
 
  - Hold `FN+Right ALT` and tap `Home`
 
-### Shortcut guide
+## Flashing
+While you should never _need_ to flash your Photon, this section will assist in the very simple process. This **cannot** be done wirelessly. Before beginning, please download the firmware [here](/assets/photon_studio_07-11-25.uf2).
+
+1. Put the PCB into bootloader mode by either pressing the reset button on the bottom of the PCB or by inputting the following keys on the **default keymap**: Hold `FN+Right Alt` and tap `Left Control`
+2. If successful, on Windows a folder or drive will pop up immediately on your computer called `CANNONKKB`. This folder represents the storage found on your Photon PCB, and can be found as a removeable storage in file exporer if accidentally closed. If you are on a Mac, the drive will mount and be visible on your desktop as well as the Finder sidebar as CANNONKKB.
+4. To flash, simply drag the firmware downloaded earlier into the `CANNONKKB` folder. If you get an error, unplug your keyboard/PCB, plug it back in, and try again. If successful, the firmware file will copy into the Photon, the folder will close, and your Photon will now have the new firmware applied!
+
+![](images/BakenekoGO/21-drag-n-drop.gif)
+
+## Shortcut guide
 Here are some useful shortcuts to help you get the most out of your photon! Please note that the keys refer to the **default keymap**. If you have made changes, you will need to press different keys.
 
 - Studio Unlock - Hold `FN+Right Alt` and tap `Enter`
