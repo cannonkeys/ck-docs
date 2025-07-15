@@ -100,10 +100,15 @@ With the PCB and plate assembled, you are now ready for the final steps for your
 ## Additional information
 Your build is done- now what? Below we'll compile some useful information as well as some other things you can do to further customize your build.
 
+### FAQ
+- Q) The keymap on my Photon is incorrect or acting funny after building it, how do I fix?
+     - A) Please follow the quick guide in the [flashing section of the user guide](/photon-user-guide/#flashing) for instructions on how to flash the latest firmware.
+- Q) I am unable to connect to ZMK Studio even after inputting the unlocking keybind, how do I connect?
+     - A) Please follow the quick guide in the [flashing section of the user guide](/photon-user-guide/#flashing) for instructions on how to flash the latest firmware.
+
 ### User Guide
 For information on how to use the wireless BT functionality and toggle switch for Windows and Mac modes, check out the [Photon user guide](/photon-user-guide).
-
-![](images/photon/toggle-switch-labeled.png)
+![](images/photon/toggle-switch-label.png)
 
 ### Keymap customization and rebinding
 Photon is compatible out of the box with ZMK Studio. We recommend using the [ZMK Studio online configurator](https://zmk.studio/) to remap your keys. This requires your keyboard to be plugged in. To learn more about the layers, and how to unlock ZMK Studio or change BT devices, check out the default keymap below.
