@@ -113,7 +113,7 @@ Your build is done- now what? Below we'll compile some useful information as wel
 - Q) My knob is not working correctly, how do I get it working?
      - A) Please follow the quick guide in the [flashing section of the user guide](/photon-user-guide/#flashing) for instructions on how to flash the latest firmware.
 - Q) What is the knob bound to/control?
-     - A) By default, the knob turns volume down when turned left, volume up when turned right, and mutes when pressed in. To customize furhter, you will need to compile your own firmware using our [ZMK Module](https://github.com/cannonkeys/zmk-cannonkeys-keyboards) on GitHub.
+     - A) By default, the knob turns volume down when turned left, volume up when turned right, and mutes when pressed in. To customize further, you will need to compile your own firmware using our [ZMK Module](https://github.com/cannonkeys/zmk-cannonkeys-keyboards) on GitHub.
 
 ### User Guide
 For information on how to use the wireless BT functionality and toggle switch for Windows and Mac modes, check out the [Photon user guide](/photon-user-guide).
