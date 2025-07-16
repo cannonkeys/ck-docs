@@ -37,10 +37,9 @@ Before building, it is important we test the PCB to make sure it is fully functi
 
 2. Once connected, navigate to the key tester tab. Using tweezers, bridge the metal pads on the underside of the hotswap sockets to test each switch. If you don't have tweezers, other metal objects such as a bent paperclip or a bit of wire can work. Once you've confirmed each socket is working, you can continue into the next section.
 
-!!! Note 
-    The key two positions right of your spacebar is what is known as a layer key. When testing this key specifically, it will not show up in keytesters. Try holding down this key and the Esc key to type a ` and confirm it is functional.
-
-   ![](images/photon/03-test-pcb.jpg)
+    !!! Note 
+        The key two positions right of your spacebar is what is known as a layer key. When testing this key specifically, it will not show up in keytesters. Try holding down this key and the Esc key to type a ` and confirm it is functional.
+![](images/photon/03-test-pcb.jpg)
 
 ### PCB & plate assembly
 
@@ -54,18 +53,18 @@ Now that you have confirmed the PCB is functioning properly, you can unplug the 
 2. Next up we need to put the switches into the plate and PCB. In this guide we'll go over some tips that should make this process quick and easy! As a general note while doing this, it is **very** important to always support the backside of the socket while installing switches. If you're using plate foam, lay it on the PCB now before you begin adding switches.
 Start by inserting switches into the outside and corners. These will help give support while we install the rest of the switches.
 
-!!! Note 
-    The top row of the keyboard uses north facing switches, meaning they will be installed in the reverse orientation compared to the rest of the board. Also, make sure to check your switch pins to ensure they are straight and not bent.
-    
+   !!! Note 
+        The top row of the keyboard uses north facing switches, meaning they will be installed in the reverse orientation compared to the rest of the board. Also, make sure to check your switch pins to ensure they are straight and not bent.
 ![](images/photon/06-install-outside.jpg)
 
-3. Line up the plate over the PCB, and start pushing the switches in one by one. Use the video below for a tip on doing this safely and smoothly.
-![](images/photon/07-install-switch.gif)
+4. Line up the plate over the PCB, and start pushing the switches in one by one. Use the video below for a tip on doing this safely and smoothly.
 
-4. Next, finish up installing switches around the outside. With the outer ring complete, the rest of the switches should be easier to install! Before continuing on, check that there is an even gap between the plate and PCB around the entire assembly. If you are using a knob module, now would be the time to install it using the included hardware.
+    ![](images/photon/07-install-switch.gif)
 
-!!! Note 
-    We included a plate fork to assist with installing switches. Since PC plates have a bunch of flex, we recommend using the plate fork to help keep the plate properly aligned when inserting switches.
+5. Next, finish up installing switches around the outside. With the outer ring complete, the rest of the switches should be easier to install! Before continuing on, check that there is an even gap between the plate and PCB around the entire assembly. If you are using a knob module, now would be the time to install it using the included hardware.
+
+    !!! Note 
+        We included a plate fork to assist with installing switches. Since PC plates have a bunch of flex, we recommend using the plate fork to help keep the plate properly aligned when inserting switches.
 
 ![](images/photon/08-fork-use.jpg)
 ![](images/photon/09-side-build.jpg)
@@ -83,16 +82,14 @@ With the PCB and plate assembled, you are now ready for the final steps for your
 
 3. Once the battery has been placed correctly, making sure the wires will not be pinched, put the cover back on and screw it in.
 
-!!! Note 
-    If you're having trouble getting the battery properly installed, try putting it into the removable cover first instead, and then putting the cover + battery into the bottom case.
-
+    !!! Note 
+        If you're having trouble getting the battery properly installed, try putting it into the removable cover first instead, and then putting the cover + battery into the bottom case.
 ![](images/photon/13-cover-install)
 
 4. Grab your PCB + plate assembly, and the long gaskets from the baggie. Using the image below as a reference, install the long gaskets directly onto the top and bottom side of the plate.
 
-!!! Note 
-    The below image is our recommended setup for gaskets. You can experiment on your own if you wish by installing in different locations, or even directly onto the case rather than onto the plate.
-
+    !!! Note 
+        The below image is our recommended setup for gaskets. You can experiment on your own if you wish by installing in different locations, or even directly onto the case rather than onto the plate.
 ![](images/photon/14-gasket-install-top.jpg)
 ![](images/photon/15-gasket-install-bot.jpg)
 
