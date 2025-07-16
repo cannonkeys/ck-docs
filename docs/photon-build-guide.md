@@ -58,7 +58,7 @@ Start by inserting switches into the outside and corners. These will help give s
 ![](images/photon/06-install-outside.jpg)
 3. Line up the plate over the PCB, and start pushing the switches in one by one. Use the video below for a tip on doing this safely and smoothly.
 ![](images/photon/07-install-switch.gif)
-4. Next, finish up installing switches around the outside. With the outer ring complete, the rest of the switches should be easier to install! Before continuing on, check that there is an even gap between the plate and PCB around the entire assembly.
+4. Next, finish up installing switches around the outside. With the outer ring complete, the rest of the switches should be easier to install! Before continuing on, check that there is an even gap between the plate and PCB around the entire assembly. If you are using a knob module, now would be the time to install it using the included hardware.
 
 !!! Note 
     We included a plate fork to assist with installing switches. Since PC plates have a bunch of flex, we recommend using the plate fork to help keep the plate properly aligned when inserting switches.
@@ -105,6 +105,10 @@ Your build is done- now what? Below we'll compile some useful information as wel
      - A) Please follow the quick guide in the [flashing section of the user guide](/photon-user-guide/#flashing) for instructions on how to flash the latest firmware.
 - Q) I am unable to connect to ZMK Studio even after inputting the unlocking keybind, how do I connect?
      - A) Please follow the quick guide in the [flashing section of the user guide](/photon-user-guide/#flashing) for instructions on how to flash the latest firmware.
+- Q) My knob is not working correctly, how do I get it working?
+     - A) Please follow the quick guide in the [flashing section of the user guide](/photon-user-guide/#flashing) for instructions on how to flash the latest firmware.
+- Q) What is the knob bound to/control?
+     - A) By default, the knob turns volume down when turned left, volume up when turned right, and mutes when pressed in. To customize furhter, you will need to compile your own firmware using our [ZMK Module](https://github.com/cannonkeys/zmk-cannonkeys-keyboards) on GitHub.
 
 ### User Guide
 For information on how to use the wireless BT functionality and toggle switch for Windows and Mac modes, check out the [Photon user guide](/photon-user-guide).
