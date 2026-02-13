@@ -6,7 +6,7 @@ MarkupSafe==1.1.0
 mkdocs==1.0.4
 mkdocs-cinder==0.16.1
 mkdocs-material==3.3.0
-Pygments==2.7.4
+Pygments==2.15.0
 pymdown-extensions==6.0
 PyYAML==5.4
 six==1.12.0
